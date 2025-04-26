@@ -1,0 +1,136 @@
+{
+    "title": "ویژگی‌های جغرافیایی قشم",
+    "location": {
+      "province": "هرمزگان",
+      "city": "قشم"
+    },
+    "geographical_features": [
+      {
+        "name": "دریا و تنگه‌ها",
+        "description": [
+          {
+            "name": "خلیج فارس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+            ]
+          },
+          {
+            "name": "تنگه هرمز (کلارنس)",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/0/07/Strait_of_Hormuz.png"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه کیش‌کوه",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/3/31/Chah_Kuh_Qeshm_Island.jpg"
+            ]
+          },
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zagros_Mountains.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "حجم سنگی و غارها",
+        "description": [
+          {
+            "name": "غار نمکدان",
+            "images": [
+              "https://www.mindat.org/loc-192947.html"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های حرا (مانگرو)",
+          "گیاهان ساحلی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": ["گرم و بیابانی (BWh)"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۰–۳۹۷ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "فلات‌های سنگلاخی",
+          "تپه‌های چین‌خورده"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "ژئومرفولوژی زاگرس پلئو–پلیستوسن",
+          "گنبدهای نمکی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": ["آب خلیج فارس", "آب شور نمکدان"]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": ["نمک", "نفت و گاز دریایی"]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "غار نمکدان",
+        "images": [
+          "https://www.mindat.org/loc-192947.html"
+        ],
+        "description": "غاری با گنبدهای عظیم نمکی در جنوب جزیره."
+      },
+      {
+        "name": "دره چاه‌کوه",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/31/Chah_Kuh_Qeshm_Island.jpg"
+        ],
+        "description": "دره‌ای با دیواره‌های شیارخورده توسط فرسایش باران."
+      },
+      {
+        "name": "درّهٔ ستاره‌ها",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/a/a4/Stars_Valley_Qeshm.jpg"
+        ],
+        "description": "لایه‌های خاکی فرسایشی که اشکال ستاره‌ای ایجاد کرده‌اند."
+      },
+      {
+        "name": "قلعه پرتغالی",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fort_of_Our_Lady_of_the_Conception_Hormuz.jpg"
+        ],
+        "description": "بازمانده استقرار پرتغالی‌ها در خلیج فارس."
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Hara_Forest_Qeshm_Island.jpg"
+        ],
+        "description": "مانگروهای گسترده با گونه Avicennia marina."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

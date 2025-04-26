@@ -1,0 +1,138 @@
+{
+    "title": "ویژگی‌های جغرافیایی فارسان",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "فارسان"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود خرسان",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:رودخانه_در_کهکیلویه_و_بویراحمد_-_panoramio_(1).jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه چوبین",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Kuh-e_Chubin.jpg"
+            ]
+          },
+          {
+            "name": "قله هفت‌تنان",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Haft_Tanan_Peak.jpg"
+            ]
+          },
+          {
+            "name": "زردکوه (شاخه‌ای از زاگرس)",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Zard-Kuh.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و چشمه‌ها",
+        "description": [
+          {
+            "name": "چشمه دیمه",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Dimeh_Spring_2019-08-19_01.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی",
+          "گیاهان دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": ["معتدل کوهستانی"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۲٬۰۵۳ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دره‌ها و شیب‌های تند",
+          "فلات‌های کوهستانی"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "چینه‌های رسوبی زاگرس",
+          "گسل‌های فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رودخانهٔ خرسان",
+          "چشمه‌های کوهستانی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "ذخایر سنگ آهک",
+          "سنگ‌های تزئینی"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "بازار تاریخی فارسان",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:قلعه_چالشتر.jpg"
+        ],
+        "year_built": "قاجار",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "بازاری سنتی با معماری بومی و کاروانسراهای قدیمی."
+      },
+      {
+        "name": "پارک جنگلی کوه چوبین",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Kuh-e_Chubin.jpg"
+        ],
+        "year_built": "۱۳۷۰",
+        "architect": "شهرداری فارسان",
+        "constructor": "شهرداری فارسان",
+        "description": "پارکی کوهستانی با مسیرهای پیاده‌روی و چشم‌انداز به شهر."
+      },
+      {
+        "name": "چشمه دیمه",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Dimeh_Spring_2019-08-19_01.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "چشمه‌ای با آب زلال و هوای مطبوع که در ۱۵ کیلومتری مرکز شهر قرار دارد."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

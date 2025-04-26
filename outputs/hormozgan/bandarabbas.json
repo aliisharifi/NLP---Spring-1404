@@ -1,0 +1,133 @@
+{
+    "title": "ویژگی‌های جغرافیایی بندرعباس",
+    "location": {
+      "province": "هرمزگان",
+      "city": "بندرعباس"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود شور",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandar_Abbas_Shoor_River.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه گنو",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mt_Geno_Bandar_Abbas.jpg"
+            ]
+          },
+          {
+            "name": "کوه پولادی",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/1/14/Mt_Pooladi.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "تالاب‌ها و جنگل‌های حرا",
+        "description": [
+          {
+            "name": "جنگل‌های حرا (جزیره قشم)",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hara_Forest_Qeshm_Island.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "نخل‌ستان‌های ساحلی",
+          "جنگل‌های حرا"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بیابانی گرم (BWh)",
+          "رطوبت بالا"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۹ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت ساحلی",
+          "کوه‌های مجاور"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "رسوبات دریایی",
+          "سواحل ماسه‌ای"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "خلیج فارس و دریای عمان",
+          "رود شور"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "کائولین",
+          "اورانیوم (معدن گوشین)"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "قلعه پرتغالی جزیره هرمز",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fort_of_Our_Lady_of_the_Conception_Hormuz.jpg"
+        ],
+        "year_built": "۱۵۰۷",
+        "architect": "آلفونسو د آلبوکرک",
+        "constructor": "نیروی نظامی پرتغال",
+        "description": "یکی از برجای‌مانده‌ترین آثار استعمار پرتغال در خلیج فارس." 
+      },
+      {
+        "name": "بازار سنتی بندرعباس",
+        "images": [
+          "https://surfiran.com/images/bazaar-bandar-abbas.jpg"
+        ],
+        "description": "بازاری قدیمی در بلوار طالقانی با انواع صنایع دستی، ادویه و سوغات محلی."
+      },
+      {
+        "name": "معبد ویشنو (هندوها)",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/5/53/Vishnu_Temple_Bandar_Abbas.jpg"
+        ],
+        "year_built": "۱۸۹۲",
+        "architect": "جامعه هندی مهاجر",
+        "constructor": "تاجران هندی",
+        "description": "معبد تاریخی اختصاص‌یافته به خدای ویشنو که توسط هندوهای مقیم ساخته شده."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

@@ -1,0 +1,99 @@
+{
+    "title": "ویژگی‌های جغرافیایی بن",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "بن"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود زاینده‌رود",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Ben_shahrekord.JPG"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zagros_Mountains.jpg"
+            ]
+          },
+          {
+            "name": "زردکوه",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Zard_Kuh.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "گونه‌های گیاهی دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "کوهستانی",
+          "تابستان‌های خنک و زمستان‌های سرد"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۲۲۲۸ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "رشته‌کوه‌های بلند",
+          "دره‌های عمیق"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "ساختار چین‌خورده کوهستانی",
+          "گسل‌های فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رودخانه زاینده‌رود",
+          "چشمه‌های زیرزمینی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "گرداب بن",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Ben_shahrekord.JPG"
+        ],
+        "description": "چرخش طبیعی آب در سطح رودخانه زاینده‌رود که مناظری کم‌نظیر ایجاد می‌کند."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

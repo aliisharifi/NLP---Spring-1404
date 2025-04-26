@@ -1,0 +1,164 @@
+{
+    "title": "ویژگی‌های جغرافیایی بروجرد",
+    "location": {
+      "province": "لرستان",
+      "city": "بروجرد"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود گلرود",
+            "images": [
+              "https://commons.wikimedia.org/wiki/Gelerud_River"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه گرین",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Garrin_Mountain.jpg"
+            ]
+          },
+          {
+            "name": "رشته‌کوه‌های زاگرس",
+            "images": [
+              "https://commons.wikimedia.org/wiki/Zagros_Mountains"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و تالاب‌ها",
+        "description": [
+          {
+            "name": "دره گل‌دشت",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Goldasht_Valley.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی",
+          "گونه‌های مقاوم به خشکی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "منطقه اقلیمی",
+        "description": ["مدیترانه‌ای قاره‌ای (Csa)"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۱٬۵۷۳ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت سیلاخور",
+          "دره‌های عمیق",
+          "ارتفاعات بلند"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "ساختار چین‌خورده کوهستانی",
+          "گسل زاگرس"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رودخانه گلرود",
+          "چشمه‌ها و آب‌های زیرزمینی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک",
+          "گچ",
+          "معادن کوچک سیلیس"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "مسجد جامع بروجرد",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Jameh_Mosque_of_Borujerd.jpg"
+        ],
+        "year_built": "۹ هجری قمری (قرن ۳ ق.)",
+        "architect": "نامعلوم",
+        "constructor": "نامعلوم",
+        "description": "قدیمی‌ترین مسجد غرب ایران با معماری دوره ساسانی–اسلامی."
+      },
+      {
+        "name": "بازار بزرگ بروجرد",
+        "images": [
+          "https://commons.wikimedia.org/wiki/Bazaar_of_Borujerd"
+        ],
+        "year_built": "دوره قاجار",
+        "architect": "نامعلوم",
+        "constructor": "نامعلوم",
+        "description": "بازاری سنتی با کاروانسراها و صنوف مختلف."
+      },
+      {
+        "name": "امامزاده جعفر",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Imamzadeh_Jafar_Borujerd.jpg"
+        ],
+        "year_built": "دوره صفوی",
+        "architect": "نامعلوم",
+        "constructor": "نامعلوم",
+        "description": "بقعه‌ای با نمای کاشیکاری زیبا در حاشیه شهر."
+      },
+      {
+        "name": "پل قلعه حاتم",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Qale_Hatam_Bridge.jpg"
+        ],
+        "year_built": "دوره صفوی",
+        "architect": "نامعلوم",
+        "constructor": "نامعلوم",
+        "description": "پل سنگی با معماری تاریخی بر روی رود گلرود."
+      },
+      {
+        "name": "دره گل‌دشت",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Goldasht_Valley.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "دره‌ای سرسبز با چشمه‌ها و مناظر کوهستانی."
+      },
+      {
+        "name": "پارک بانوان بروجرد",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Women%27s_Park_Borujerd.jpg"
+        ],
+        "year_built": "۱۳۷۵",
+        "architect": "نامعلوم",
+        "constructor": "شهرداری بروجرد",
+        "description": "پارکی تفریحی ویژه بانوان با فضای سبز."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

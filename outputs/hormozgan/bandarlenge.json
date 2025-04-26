@@ -1,0 +1,128 @@
+{
+  "title": "ویژگی‌های جغرافیایی بندرلنگه",
+  "location": {
+    "province": "هرمزگان",
+    "city": "بندرلنگه"
+  },
+  "geographical_features": [
+    {
+      "name": "سواحل",
+      "description": [
+        {
+          "name": "خلیج فارس",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "جزایر نزدیک",
+      "description": [
+        {
+          "name": "جزیره قشم",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/0b/Qeshm_island.jpg"
+          ]
+        },
+        {
+          "name": "جزیره لارک",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a9/Larak_Island.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های حرا (مانگرو)",
+        "نخل‌ستان‌های ساحلی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و بیابانی (BWh)"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "متوسط ۱۸ متر (از −۵ تا ۷۲ متر)"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت ساحلی مسطح",
+        "تپه‌های شنی کم‌ارتفاع"
+      ]
+    },
+    {
+      "name": "زمین‌شناسی",
+      "description": [
+        "رسوبات ماسه‌ای و صخره‌های آهکی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "ماهی‌گیری و شیلات",
+      "description": [
+        "صید ماهی و میگو",
+        "تجارت دریایی"
+      ]
+    },
+    {
+      "name": "کشاورزی",
+      "description": [
+        "نخل‌کاری و تولید خرما"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "خانه تاریخی یوسفی",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/dc/Yousefi_House.jpg"
+      ],
+      "description": "خانه‌ای سنتی با معماری بومی و ایوان‌های چوبی." 
+    },
+    {
+      "name": "عمارت فکری",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/14/Fekri_House.jpg"
+      ],
+      "year_built": "دوره قاجار",
+      "description": "بنایی تاریخی با پلان متقارن و تالار مرکزی." 
+    },
+    {
+      "name": "قلعه لاشتن",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/e/ef/Lashtan_Castle.jpg"
+      ],
+      "year_built": "۹۰۴ هـ.ق.",
+      "description": "قلعه‌ای سنگی در ۶ کیلومتری شرق شهر." 
+    },
+    {
+      "name": "پارک ساحلی کوثر",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/97/Kowsar_Beach_Park.jpg"
+      ],
+      "description": "پارکی ساحلی با امکانات تفریحی و تفریح‌های آبی." 
+    },
+    {
+      "name": "جزیره مارو",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maru_Island.jpg"
+      ],
+      "description": "جزیره‌ای بکر با آب‌های زلال و صخره‌های مرجانی." 
+    }
+  ],
+  "additional_info": {
+    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+  }
+}

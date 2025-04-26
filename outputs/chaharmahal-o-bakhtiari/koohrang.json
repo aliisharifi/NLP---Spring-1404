@@ -1,0 +1,147 @@
+{
+    "title": "ویژگی‌های جغرافیایی کوهرنگ",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "چلگرد"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود کوهرنگ",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%DA%A9%D9%88%D9%87%D8%B1%D9%86%DA%AF_-_panoramio.jpg"
+            ]
+          },
+          {
+            "name": "رود بازفت",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Bazoft_river.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زردکوه",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:View_of_Zardkuh.jpg"
+            ]
+          },
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5e/Zagros_Mountains.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و تالاب‌ها",
+        "description": [
+          {
+            "name": "تالاب چغاخور",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Choghakhor_Wetland.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس (Quercus brantii)"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "تابستان‌های خنک و زمستان‌های برفی"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "متوسط ۲٬۴۷۷ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "شیب‌های تند و دره‌های عمیق در رشته‌کوه زاگرس"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "سازه‌های رسوبی و آهکی دوره کرتاسه"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "چشمه‌های کوهرنگ و دیمه",
+          "تونل‌ها و سدهای انتقال آب کوهرنگ به زاینده‌رود"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک کنگلومرا"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "چشمه کوهرنگ",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:%D9%88%D8%B1%D9%88%D8%AF%D9%8A_%D8%A2%D8%A8_%D8%AA%D9%88%D9%86%D9%84_%D9%83%D9%88%D9%87%D8%B1%D9%86%DA%AF_-_panoramio.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "چشمه‌ای با آب سرد و شفاف از دامنه‌های زردکوه"
+      },
+      {
+        "name": "آبشار شیخ علی خان",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Sheikh_Ali_Khan_waterfall.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "آبشاری زیبا در میان دره‌های زاگرس"
+      },
+      {
+        "name": "غار یخی چما",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:Chama_Cave.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "غاری با دمای پایین همراه با حضور یخ‌زده در فصول گرم"
+      },
+      {
+        "name": "ایستگاه اسکی چلگرد",
+        "images": [
+          "https://hipersia.com/wp-content/uploads/koohrang-ski-resort.jpg"
+        ],
+        "year_built": "۱۹۷۶",
+        "architect": "نامشخص",
+        "constructor": "شهرداری چهارمحال و بختیاری",
+        "description": "یکی از معروف‌ترین پیست‌های اسکی در دامنه‌های زاگرس"
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

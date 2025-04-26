@@ -1,0 +1,162 @@
+{
+    "title": "ویژگی‌های جغرافیایی لردگان",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "لردگان"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود ارمند",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bazoft_River.jpg"
+            ]
+          },
+          {
+            "name": "رود خرسان",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/8/8e/Khersan_River.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "سبزکوه",
+            "images": [
+              "https://example.com/images/sabzkooh.jpg"
+            ]
+          },
+          {
+            "name": "کوه ریگ",
+            "images": [
+              "https://example.com/images/kuh-rig.jpg"
+            ]
+          },
+          {
+            "name": "کوه سرخ",
+            "images": [
+              "https://example.com/images/kuh-sorkh.jpg"
+            ]
+          },
+          {
+            "name": "کوه دالان",
+            "images": [
+              "https://example.com/images/kuh-dalan.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و سدها",
+        "description": [
+          {
+            "name": "دریاچه پشت سد کارون ۴",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/4/4d/Karun4_Dam_Lake.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "زالزالک",
+          "بن (پسته وحشی)",
+          "گیاهان دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": ["نیمه‌مرطوب گرم با زمستان‌های نیمه‌سرد"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۱۷۶۴ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت نسبتاً مسطح میان رشته‌کوه زاگرس",
+          "دره‌های عمیق",
+          "فلات‌های کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "ساختار چین‌خورده زاگرس",
+          "گسل‌های فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "چشمه برم",
+          "رودخانه‌های فصلی",
+          "سد کارون ۴"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "میدان‌های نفتی (۳۵٬۰۰۰ بشکه/روز)"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "چشمه برم",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cheshmeh_Beram.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "چشمه‌ای در مرکز شهر که علاوه بر تأمین آب، از سرچشمه‌های رود کارون به‌شمار می‌آید."
+      },
+      {
+        "name": "آبشار آتشگاه",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/8/89/Atashgah_Waterfall.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "طولانی‌ترین آبشار ایران بر روی شاخه‌ای از رود کارون."
+      },
+      {
+        "name": "دره تنگ زندان",
+        "images": [
+          "https://example.com/images/tange-zendan.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "دره‌ای صخره‌ای با چندین آبشار کوچک و مسیر صعب‌العبور."
+      },
+      {
+        "name": "پارک جنگلی پروز",
+        "images": [
+          "https://example.com/images/parvaz_forest_park.jpg"
+        ],
+        "year_built": "۱۳۷۵",
+        "architect": "شهرداری لردگان",
+        "constructor": "شهرداری لردگان",
+        "description": "پارکی جنگلی با امکانات گردشگری در نزدیکی شهر."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

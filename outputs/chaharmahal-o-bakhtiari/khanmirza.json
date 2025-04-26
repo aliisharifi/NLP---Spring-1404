@@ -1,0 +1,149 @@
+{
+    "title": "ویژگی‌های جغرافیایی شهرستان خانمیرزا",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "آلونی"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود ارمند",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:WV_banner_Chaharmahal_and_Bakhtiari_province_Armand_River.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Zagros_Mountains.jpg"
+            ]
+          },
+          {
+            "name": "رشته‌کوه زردکوه",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:View_of_Zardkuh.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و تالاب‌ها",
+        "description": [
+          {
+            "name": "تالاب آلونی",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "معتدل کوهستانی",
+          "تابستان‌های خنک و زمستان‌های سرد"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۱٬۸۸۰ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "زمین‌لرزه‌خیز و چین‌خورده در زاگرس",
+          "دره‌ها و فلات‌های کوهستانی"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "سازه‌های رسوبی کرتاسه",
+          "گسل‌های فعال زاگرس"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رودخانه ارمند",
+          "چشمه‌ها و آب‌های زیرزمینی",
+          "تالاب آلونی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک",
+          "سنگ‌های تزئینی"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "تالاب آلونی",
+        "images": [],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "تالابی ثبت‌شده در کنوانسیون رامسر و زیستگاه پرندگان مهاجر."
+      },
+      {
+        "name": "رود ارمند (رفتینگ)",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:WV_banner_Chaharmahal_and_Bakhtiari_province_Armand_River.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "مناسب برای ورزش رفتینگ و قایقرانی در دل کوهستان."
+      },
+      {
+        "name": "تنگه حفاظت‌شده رحیم‌آباد",
+        "images": [],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "دره‌ای بکر با دیواره‌های سنگی و مسیرهای پیاده‌روی."
+      },
+      {
+        "name": "منطقه حفاظت‌شده سبزکوه بختیاری",
+        "images": [
+          "https://commons.wikimedia.org/wiki/File:View_of_Zardkuh.jpg"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "محیطی حفاظتی برای گونه‌های جنگل بلوط و جانوران بومی."
+      },
+      {
+        "name": "طبیعت بکر پاسگاه بردبلند کلاموئی",
+        "images": [],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "منطقه‌ای حفاظت‌شده با چشمه‌ها و چشم‌اندازهای کوهستانی."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

@@ -1,0 +1,109 @@
+{
+    "title": "ویژگی‌های جغرافیایی فلارد",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "مال‌خلیفه"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود ارمند",
+            "images": [
+              "https://www.visitiran.ir/attraction/armand-river"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "زردکوه (زیررشتهٔ زاگرس مرکزی)",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zard_Kuh.jpg"
+            ]
+          },
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها و تالاب‌ها",
+        "description": []
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "مدیترانه‌ای قاره‌ای",
+          "تابستان‌های خنک و زمستان‌های سرد"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۲٬۰۵۸ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "فلات‌های کوهستانی",
+          "دره‌های عمیق"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "چینه‌های آهکی کرتاسه (زردکوه)",
+          "سازه‌های چین‌خوردهٔ زاگرس"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رود ارمند",
+          "سرریز سد کارون ۴"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک",
+          "معدنی معدنی تزئینی"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "رفتینگ رود ارمند",
+        "images": [
+          "https://www.visitiran.ir/attraction/armand-river"
+        ],
+        "year_built": "طبیعی",
+        "architect": "طبیعی",
+        "constructor": "طبیعی",
+        "description": "مسیر رفتینگ حدود ۶۰ کیلومتر از مناطق دوپلن تا پل ارمند با مناظر زیبا و درجهٔ سختی ۲٫۵–۴."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

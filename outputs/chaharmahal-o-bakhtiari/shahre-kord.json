@@ -1,0 +1,198 @@
+{
+    "title": "ویژگی‌های جغرافیایی شهرکرد",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "شهرکرد"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود کارون",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/3/3f/Karun_River_Zard_Kuh.jpg"
+            ]
+          },
+          {
+            "name": "رود بازفت",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bazoft_River.jpg"
+            ]
+          },
+          {
+            "name": "رود آرماند",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/8/8b/Armand_River.jpg"
+            ]
+          },
+          {
+            "name": "چشمه کوهرنگ",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/2/2e/Koohrang_Spring.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه زردکوه",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zard_Kuh.jpg"
+            ]
+          },
+          {
+            "name": "کوه‌های زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+            ]
+          },
+          {
+            "name": "کوه جهان‌بین",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/4/44/Jahanbin_Mountains.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها",
+        "description": [
+          {
+            "name": "تالاب چغاخور",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/a/a3/Choghakhor_Wetland.jpg"
+            ]
+          },
+          {
+            "name": "دریاچه سد زاینده‌رود",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/d/dd/Zayanderud_Dam_Lake.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی",
+          "گونه‌های مقاوم به خشکی",
+          "گیاهان دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "منطقه اقلیمی",
+        "description": ["مدیترانه‌ای قاره‌ای"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۲٬۰۷۰ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "ارتفاعات بلند",
+          "فلات‌های کوهستانی",
+          "دره‌های عمیق"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "گسل زاگرس",
+          "ساختار چین‌خورده کوهستانی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "چشمه‌ها و آب زیرزمینی",
+          "سد زاینده‌رود",
+          "منابع آب رودخانه‌ای"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ گچ",
+          "کلستین",
+          "سنگ تزئینی",
+          "دولومیت",
+          "سیلیس"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "پل زمان‌خان",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zaman_Khan_Bridge.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "پل تاریخی بر روی رودخانه زاینده‌رود با چشم‌انداز کوهستانی."
+      },
+      {
+        "name": "قلعه چالشتر",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chaleshtor_Castle.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "قلعه باستانی واقع در روستای چالشتر با معماری دیدنی."
+      },
+      {
+        "name": "پارک ملت",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mellat_Park_Shahrekord.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "پارکی سرسبز در مرکز شهرکرد با امکانات تفریحی."
+      },
+      {
+        "name": "امامزاده حکیمه خاتون",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/3/35/Hakimeh_Khatun_Shrine.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "بقعه متبرک در حومه شهرکرد مورد احترام مردم."
+      },
+      {
+        "name": "میدان فردوسی",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ferdowsi_Square_Shahrekord.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "میدان مرکزی با مجسمه شاعر بزرگ ایران."
+      },
+      {
+        "name": "پارک لاله",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/2/2d/Laleh_Park_Shahrekord.jpg"
+        ],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "پارکی کوچک و دنج در بخش شمالی شهر."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  
