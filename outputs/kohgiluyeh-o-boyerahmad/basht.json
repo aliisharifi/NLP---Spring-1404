@@ -1,0 +1,160 @@
+{
+  "title": "ویژگی‌های جغرافیایی باشت",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "باشت"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه رونه",
+          "images": ["https://img9.irna.ir/d/r2/2019/06/17/4/156404953.jpg"]
+        },
+        {
+            "name": "رودخانه شاه بهرام",
+            "images": ["https://api2.kojaro.com/media/2018-10-289e0342-5c1d-4a51-b127-929e7a006060-67c460f9c1067c5ba764d1d1?w=1200&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه خامی",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/%DA%A9%D9%88%D9%87_%D8%AE%D8%A7%D9%85%DB%8C.jpg/960px-%DA%A9%D9%88%D9%87_%D8%AE%D8%A7%D9%85%DB%8C.jpg"]
+        },
+        {
+            "name": "کوه دلو",
+            "images": ["https://s2.wklcdn.com/image_179/5391455/75462015/49400045.jpg"]
+        },
+        {
+            "name": "کوه انا",
+            "images": []
+        },
+        {
+            "name": "کوه دختر بانوگشسب",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط زاگرسی",
+        "بادام کوهی",
+        "گون و گیاهان مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق کوهستانی و دشتی"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های حاصلخیز و تپه‌های کوهستانی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های فعال زاگرس",
+        "لایه‌های سنگی و آهکی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه رونه",
+        "رودخانه شاه بهرام",
+        "چشمه‌های طبیعی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "منابع گچ"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "چاه تلخآب علیا",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chahtalkh.jpg/500px-Chahtalkh.jpg"],
+        "year_built": "۱۳۱۷",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "روستایی با اصالت بختیاری و گویش لری جنوبی در شهرستان باشت."
+    },
+    {
+        "name": "روستای نیمدور",
+        "images": [],
+        "year_built": "بیش از ۵۰۰ سال پیش",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "روستایی پلکانی با باغ‌های میوه، چشمه‌سارها و آبشارهای زیبا."
+    },
+      {
+        "name": "گردنه شلالدون",
+        "images": ["https://img9.irna.ir/old/Image/1398/13980102/83251420/N83251420-72916662.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "گردنه‌ای سرسبز با چشم‌اندازهای زیبا که یکی از مسیرهای گردشگری محبوب در منطقه باشت است."
+      },
+      {
+        "name": "مُزک",
+        "images": ["https://www.eneshat.com/images/2018/01/mazdak-darta055.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "منطقه‌ای سرسبز و بکر با پوشش گیاهی خاص، مناسب برای گردشگران طبیعت‌دوست."
+      },
+      {
+        "name": "سرابیز",
+        "images": ["https://www.kebnanews.ir/images/docs/000408/n00408153-r-b-002.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "چشمه‌سارها و سرآب‌های طبیعی با آب زلال و فضای سرسبز."
+      },
+      {
+        "name": "پارک ساحلی باشت",
+        "images": ["https://sobhezagros.ir/images/2024/11/20241104110454_original_15.webp"],
+        "year_built": "۱۳۹۵",
+        "architect": "شهرداری باشت",
+        "constructor": "شهرداری باشت",
+        "description": "پارکی زیبا با فضای سبز کنار رودخانه، مناسب برای پیاده‌روی و پیک‌نیک."
+      },
+      {
+        "name": "پارک باوی باشت",
+        "images": ["https://s3.dana.ir/dana/uploads/23/11/1394/644914.jpg"],
+        "year_built": "۱۴۰۰",
+        "architect": "شهرداری باشت",
+        "constructor": "شهرداری باشت",
+        "description": "هفتمین پارک بزرگ شهر باشت با طراحی مدرن و فضای مناسب برای خانواده‌ها."
+      }
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/باشت"
+  }
+}

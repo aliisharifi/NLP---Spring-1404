@@ -1,0 +1,74 @@
+{
+  "title": "ویژگی‌های جغرافیایی گراب سفلی",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "گراب سفلی"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گیاهان مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "دشت‌های کم ارتفاع"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های حاصلخیز و مناطق تپه‌ای"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "لایه‌های رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چاه‌های آب",
+        "چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "مقدار کمی سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/گراب_سفلی"
+  }
+}

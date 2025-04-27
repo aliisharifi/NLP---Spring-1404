@@ -1,0 +1,75 @@
+{
+  "title": "ویژگی‌های جغرافیایی بوستان",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "بوستان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط ایرانی",
+        "بنه",
+        "مراتع طبیعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق نسبتاً هموار"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های وسیع و ارتفاعات کم"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سنگ‌های رسوبی",
+        "لایه‌های آهکی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چاه‌های کشاورزی",
+        "چشمه‌های کوچک"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/بوستان_(باشت)"
+  }
+}

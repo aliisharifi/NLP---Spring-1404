@@ -1,0 +1,83 @@
+{
+  "title": "ویژگی‌های جغرافیایی سپیدار",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "سپیدار"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گونه‌های مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "سردسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق بالای ۲۰۰۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "مناطق کوهستانی و تپه‌ای"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "تشکیلات آهکی",
+        "سنگ‌های رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "مقادیر اندک سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "آغل گرگ",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "آغل گرگ یک منطقه طبیعی است که به خاطر زیبایی‌های طبیعی و جنگل‌های انبوه در منطقه شناخته شده است."
+    }
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/سپیدار_(بویراحمد)"
+  }
+}

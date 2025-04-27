@@ -1,0 +1,149 @@
+{
+  "title": "ویژگی‌های جغرافیایی چرام",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "چرام"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [{
+        "name": "رودخانه خیرآباد",
+        "images": ["https://api2.kojaro.com/media/2018-8-3b7db586-3b7a-4e29-9235-38292a70f91b-67c460f6c1067c5ba7647c1d?w=1200&q=80"]
+      }]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه چاست خار",
+          "images": ["https://img9.irna.ir/old/Image/1394/13940714/81787291/N81787291-70211530.jpg"]
+        },
+        {
+            "name": "کوه اشگر",
+            "images": []
+        },
+        {
+            "name": "کوه شیرین بادام",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "باغات میوه",
+        "جنگل‌های بلوط و بادام کوهی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "حدود 850 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "کوهپایه‌ای",
+        "دشت‌های محدود"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "چین‌خوردگی‌های زاگرس",
+        "گسل‌های فرعی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌ها",
+        "رودخانه خیرآباد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "گچ"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "آبشار طسوج",
+      "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/طسوج.jpg"],
+      "year_built": "نامشخص",
+      "architect": "طبیعت",
+      "constructor": "طبیعت",
+      "description": "آبشاری طبیعی و دیدنی در سردترین نقطه چرام."
+    },
+    {
+        "name": "چشمه بلقیس چرام",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%DA%86%D8%B4%D9%85%D9%87_%D8%A8%D9%84%D9%82%DB%8C%D8%B3.png/250px-%DA%86%D8%B4%D9%85%D9%87_%D8%A8%D9%84%D9%82%DB%8C%D8%B3.png"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "چشمه‌ای پرآب و دیدنی در دل باغ‌های سرسبز چرام که سالانه هزاران گردشگر را جذب خود می‌کند."
+      },
+      {
+        "name": "چشمه کورسا",
+        "images": ["https://mashhadlug.org/wp-content/uploads/2022/08/Korsa-Cheshmeh.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "چشمه‌ای زیبا با آب زلال در دل طبیعت کوهستانی چرام، مناسب برای طبیعت‌گردی و استراحت."
+      },
+      {
+        "name": "چشمه سیاه",
+        "images": ["https://api2.kojaro.com/media/2018-4-e76e2133-8836-461b-a338-005dbffb4477-67c460f0c1067c5ba763ac20?w=1080&q=80"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "چشمه‌ای زیبا در طبیعت چرام با چشم‌اندازهای خاص، مخصوص بازدید در فصل بهار."
+      },
+      {
+        "name": "قلعه چرام",
+        "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/02/101-1.jpg"],
+        "year_built": "دوره قاجار",
+        "architect": "معماران محلی دوره قاجار",
+        "constructor": "حاکمان محلی قاجار",
+        "description": "قلعه‌ای تاریخی با قدمت قاجاریه که در شهر چرام واقع شده و بیانگر تاریخ و تمدن منطقه است."
+      },
+      {
+        "name": "قلعه تمبی",
+        "images": [],
+        "year_built": "دوره قاجار",
+        "architect": "معماران محلی",
+        "constructor": "حاکمان محلی",
+        "description": "یکی از قلعه‌های تاریخی چرام با معماری سنگی و زیبایی خاص مربوط به دوره قاجار."
+      },
+      {
+        "name": "بی‌بی رشیده خاتون",
+        "images": ["https://img9.irna.ir/old/Image/1393/13930110/81103574/N81103574-5595323.jpg"],
+        "year_built": "دوره اسلامی",
+        "architect": "معماران سنتی",
+        "constructor": "اهالی منطقه",
+        "description": "آرامگاه مذهبی یکی از بانوان مقدس منطقه که مورد توجه زائران و مردم چرام است."
+      }
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/چرام"
+  }
+}

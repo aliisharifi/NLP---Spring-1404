@@ -1,0 +1,176 @@
+{
+  "title": "ویژگی‌های جغرافیایی یاسوج",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "یاسوج"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه بشار",
+          "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/رودخانه-بشار.jpg"]
+        },
+        {
+          "name": "رودخانه خرسان",
+          "images": []
+        },
+        {
+            "name": "رودخانه گردآوه",
+            "images": []
+        },
+        {
+            "name": "رودخانه مهریان",
+            "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/07/%D8%AA%D9%86%DA%AF-%D9%85%D9%87%D8%B1%DB%8C%D8%A7%D9%86.jpg1_.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه دنا",
+          "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/رشته_کوه-دنا.jpg"]
+        },
+        {
+            "name": "کوه دمه",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+          "name": "دریاچه کوه گل",
+          "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/دریاچه-کوه-گل.jpg"]
+        },
+        {
+            "name": "دریاچه مور زرد",
+            "images": ["https://api2.kojaro.com/media/2020-11-57cd3897-5c07-4234-8807-c41b670a488a-67c46107c1067c5ba766fe46?w=828&q=80"]
+        },
+        {
+            "name": "دریاچه هپر",
+            "images": []
+        },
+        {
+            "name": "دریاچه سد شاه قاسم",
+            "images": ["https://kojachetor.com/wp-content/uploads/2024/09/shah-ghasem-dam-lake-2.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های بلوط زاگرس",
+        "گیاهان دارویی کوهستانی مانند بابونه، شیرین بیان، ریواس",
+        "میوه‌های جنگلی مانند انجیر، زرشک، بلوط"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "سردسیری و گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "قله دنا - 4409 متر",
+        "ناحیه لیشتر - 500 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "کوهستان‌های مرتفع زاگرس",
+        "دره‌های سرسبز",
+        "دشت‌های فصلی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های زاگرس",
+        "رسوبات آهکی",
+        "رشته‌کوه‌های چین‌خورده"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رود بشار",
+        "رودخانه خرسان",
+        "چشمه‌های طبیعی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نفت",
+        "گاز",
+        "فسفات",
+        "بوکسیت",
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "آبشار یاسوج",
+      "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/آبشار-یاسوج-1.jpg"],
+      "year_built": "نامشخص",
+      "architect": "طبیعت",
+      "constructor": "طبیعت",
+      "description": "آبشاری طبیعی با ارتفاع حدود ۱۰ متر و زیبایی‌های باغی و چشمه‌ای."
+    },
+    {
+      "name": "پارک جنگلی یاسوج",
+      "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/پارک-جنگلی-یاسوج-1.jpg"],
+      "year_built": "معاصر",
+      "architect": "نامشخص",
+      "constructor": "شهرداری یاسوج",
+      "description": "یکی از بزرگ‌ترین پارک‌های جنگلی جنوب ایران."
+    },
+    {
+        "name": "پیست اسکی کاکان",
+        "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/پیست-اسکی-دنا.jpg"],
+        "year_built": "معاصر",
+        "architect": "نامشخص",
+        "constructor": "اداره کل میراث فرهنگی، گردشگری و صنایع دستی کهگیلویه و بویراحمد",
+        "description": "یکی از مهم‌ترین پیست‌های اسکی جنوب ایران، واقع در دامنه‌های زاگرس و در نزدیکی یاسوج."
+    },
+    {
+        "name": "پارک ساحلی رود بشار",
+        "images": ["https://www.iranhotelonline.com/blog/wp-content/uploads/2023/12/rood-bashar-yasooj-park-5.jpg"],
+        "year_built": "معاصر",
+        "architect": "نامشخص",
+        "constructor": "شهرداری یاسوج",
+        "description": "پارک ساحلی بر روی رود بشار که در ورودی شهر یاسوج در قسمتی بنام ترمینال قرار دارد یکی از متنوع‌ترین و زیباترین اماکن تفریحی موجود در شهر یاسوج است."
+    },
+    {
+        "name": "تنگه مهریان",
+        "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/07/%D8%AA%D9%86%DA%AF-%D9%85%D9%87%D8%B1%DB%8C%D8%A7%D9%86.jpg2_-585x439.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "این منطقه دارای طبیعت و درختان سرسبز و هوای فوق‌العاده بوده و مناسب کمپینگ و پیک‌نیک است."
+    },
+    {
+        "name": "آبشار تنگ تامرادی",
+        "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/07/%D8%AA%D9%86%DA%AF-%D9%85%D9%87%D8%B1%DB%8C%D8%A7%D9%86.jpg2_-585x439.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "در ۲۶ کیلومتری جاده یاسوج به بابامیدان بعد از گذشتن از روستای دشتروم واقع است. در این تنگه جنگ تنگ تامرادی اتفاق افتاده است."
+    }
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/یاسوج"
+  }
+}

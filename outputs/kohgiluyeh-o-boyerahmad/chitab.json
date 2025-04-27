@@ -1,0 +1,88 @@
+{
+  "title": "ویژگی‌های جغرافیایی چیتاب",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "چیتاب"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه چیتاب",
+          "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2024/11/chitave.webp"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "مراتع طبیعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "معتدل کوهستانی"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق نسبتاً مرتفع"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "تپه ماهورها و ارتفاعات متوسط"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "لایه‌های آهکی",
+        "گسل‌های کوچک"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های کوچک"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "تنگه چیتاب",
+        "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2024/11/chitave.webp"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "تنگه چیتاب یک منطقه کوهستانی با مناظر طبیعی بی‌نظیر است که به خاطر زیبایی‌های طبیعی و رودخانه‌های جاری در آن شناخته می‌شود. این تنگه جذاب به‌عنوان مقصدی محبوب برای گردشگران طبیعت‌گردی و کوهنوردی است."
+    }  
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/چیتاب"
+  }
+}

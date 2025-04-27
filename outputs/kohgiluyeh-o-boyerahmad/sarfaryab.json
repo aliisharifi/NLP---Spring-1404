@@ -1,0 +1,113 @@
+{
+  "title": "ویژگی‌های جغرافیایی سرفاریاب",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "سرفاریاب"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه‌ ساورز",
+          "images": ["https://cdn.tabnak.ir/files/fa/news/1392/3/11/259549_934.jpg"]
+        },
+        {
+            "name": "کوه‌ نیر",
+            "images": ["https://www.kebnanews.ir/images/docs/000431/n00431167-b.jpg"]
+        },
+        {
+            "name": "کوه‌ زرد",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گیاهان مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "معتدل کوهستانی"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق مرتفع"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "تپه ماهورها و ارتفاعات"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های فعال",
+        "سنگ‌های رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی",
+        "رودخانه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "مقادیر محدودی از سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "تنگه شراب گرو",
+        "images": ["https://arjangasht.ir/wp-content/uploads/2022/06/%D8%AA%D9%86%DA%AF-%D8%B4%D8%B1%D8%A7%D8%A8-%DA%AF%DB%8C%D8%B1%D8%A7%D9%86-1152x1536.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "تنگه شراب گیران که به زبان محلی به آن تنگه شرو گرو می گویند در پنج کیلو متری شهر سرفاریاب بعد از مقبره شاه حمزه قرار دارد."
+    },
+    {
+        "name": "پهنای لیلی",
+        "images": ["https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1394/01/07/139401070036419924991413.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "پهنای لیلی یکی از زیباترین جاذبه‌های طبیعی بخش سرفاریاب است که با بیش از ۲۰ چشمه سار، گونه‌های گیاهی کمیاب و باغ‌های سرسبز ییلاقی، همواره مورد توجه گردشگران قرار گرفته است."
+      },
+      {
+        "name": "دلی یاسیر",
+        "images": ["https://cdn.yjc.ir/files/fa/news/1392/1/29/1013120_494.jpg"],
+        "year_built": "دوره صفویه",
+        "architect": "معماران محلی",
+        "constructor": "معماران محلی",
+        "description": "دلی یاسیر شهری باستانی از دوره صفویه در نزدیکی سرفاریاب است که تمامی بناهای آن از سنگ بدون ملات ساخته شده‌اند. این شهر روزگاری مسیر تابستانه راه شاهی بین فارس و خوزستان بود."
+      }
+  ],
+  "additional_info": {
+    "books_source": "https://fa.wikipedia.org/wiki/سرفاریاب"
+  }
+}
