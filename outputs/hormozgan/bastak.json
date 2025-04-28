@@ -1,0 +1,96 @@
+{
+  "title": "ویژگی‌های جغرافیایی بستک",
+  "location": {
+    "province": "هرمزگان",
+    "city": "بستک"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه لاتیدان",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/3f/Latidan_Bridge.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "دامنه‌های رشته‌کوه زاگرس",
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "نخل‌ستان‌های خرما",
+        "باغ‌های مرکبات"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": ["بیابانی گرم (BWh)"]
+    },
+    {
+      "name": "ارتفاع",
+      "description": ["۵۰۸ متر"]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": ["دشت‌ها و دامنه‌های تپه‌ای"]
+    },
+    {
+      "name": "زمین‌شناسی",
+      "description": ["ساختار چین‌خورده زاگرس"]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": ["رود لاتیدان", "چاه‌های آب زیرزمینی"]
+    },
+    {
+      "name": "منابع کشاورزی",
+      "description": ["خرما", "مرکبات"]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": ["سنگ مرمر", "سنگ تزئینی"]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "پل لاتیدان",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/Latidan_Bridge.jpg"
+      ],
+      "description": "پل تاریخی دوره صفوی بر روی رود لاتیدان."
+    },
+    {
+      "name": "مسجد جامع بستک",
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/0b/Jameh_Mosque_of_Bastak.jpg"
+      ],
+      "description": "ویرانه‌های مسجد جامع قدیمی با بادگیرهای سنتی."
+    },
+    {
+      "name": "گنبدهای نمکی بستک",
+      "images": [
+        "https://itto.org/iran/photo/gonbad-namaki-salt-dome-bastak/"
+      ],
+      "description": "گنبدهای نمکی رنگارنگ در منطقه‌ای به وسعت ۴۵۰ هکتار."
+    }
+  ],
+  "additional_info": {
+    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+  }
+}

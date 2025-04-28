@@ -1,0 +1,118 @@
+{
+    "title": "ویژگی‌های جغرافیایی پارسیان",
+    "location": {
+      "province": "هرمزگان",
+      "city": "پارسیان"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود گابریک",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/0/0b/Gabrik_River.jpg"
+            ]
+          },
+          {
+            "name": "رود شور",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/3/3c/Shur_River.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "باغ‌های مرکبات و نخل‌ستان‌های خرما",
+          "گونه‌های مقاوم به خشکی (تامارسک و درختچه‌های بومی)"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بیابانی گرم (BWh)",
+          "تابستان‌های بسیار گرم و بارش اندک"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "متوسط ۹۴ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دامنه‌های کوهستانی زاگرس",
+          "دشت‌های کم‌ارتفاع مرطوب در نزدیکی ساحل"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "چینه‌های آهکی و گل‌سنگ‌های زاگرس",
+          "گسله‌ای فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "گاز طبیعی",
+        "description": [
+          "میدان پارس جنوبی (بخش ایرانی)، بزرگ‌ترین میدان گازی جهان"
+        ]
+      },
+      {
+        "name": "شیلات",
+        "description": [
+          "بخش عمده‌ای از تولید ماهی و میگو در استان هرمزگان"
+        ]
+      },
+      {
+        "name": "کشاورزی",
+        "description": [
+          "باغات مرکبات و نخل‌ستان‌ها"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "پنجره خلیج فارس",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+        ],
+        "description": "نقطه‌ای مرتفع با چشم‌انداز گسترده خلیج فارس و سواحل پارسیان."
+      },
+      {
+        "name": "غار گیر کنار",
+        "images": [],
+        "description": "غاری آهکی در نزدیکی شهر با دسترسی خاص و مناظری زیبا."
+      },
+      {
+        "name": "ساحل مکسر",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hara_Forest_Qeshm_Island.jpg"
+        ],
+        "description": "ساحلی دنج با شن‌های طلایی و آب‌های زلال."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

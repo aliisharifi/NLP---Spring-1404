@@ -1,0 +1,118 @@
+{
+    "title": "ویژگی‌های جغرافیایی سیریک",
+    "location": {
+      "province": "هرمزگان",
+      "city": "بندر سیریک"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود میناب",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Minab_city_and_Minab_river_bed_in_Hormozgan_province,_southern_Iran.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "description": [
+          {
+            "name": "هرا (مانگرو)",
+            "images": [
+              "https://commons.wikimedia.org/wiki/File:Hara_Forest_Qeshm_Island.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی ساحلی",
+        "description": [
+          "Avicennia marina",
+          "گونه‌های شورپسند"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بیابانی گرم (BWh)",
+          "بارش سالانه ۱۰۰–۳۰۰ میلی‌متر"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۱۴۸ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت ساحلی کم‌ارتفاع",
+          "تپه‌های ماسه‌ای",
+          "شیب‌های ملایم رشته‌کوه‌های زاگرس"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "رسوبات ساحلی",
+          "گنبدهای نمکی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "آبزی‌پروری",
+        "description": [
+          "صیادی خلیج فارس",
+          "پرورش میگو"
+        ]
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "description": [
+          "اکوسیستم حفاظت‌شده تالاب غار هرا"
+        ]
+      },
+      {
+        "name": "منابع معدنی ساحلی",
+        "description": [
+          "ذخایر نمک",
+          "رسوبات گل‌ماسه"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "تورهای قایق‌سواری در جنگل حرا",
+        "images": [
+          "https://www.iraniantours.com/attraction/hara-forests/"
+        ],
+        "description": "قایق‌سواری در میان درختان مانگرو و مشاهده جانوران دریایی."
+      },
+      {
+        "name": "سواحل شنی بندر سیریک",
+        "images": [],
+        "description": "سواحلی تمیز با ماسه‌های طلایی و چشم‌انداز خلیج فارس."
+      },
+      {
+        "name": "غارها و دره‌های ساحلی",
+        "images": [],
+        "description": "کشف غارهای پنهان و دره‌های صخره‌ای در امتداد ساحل."
+      },
+      {
+        "name": "بندر چندمنظوره سیریک",
+        "images": [],
+        "description": "بندی برای تجارت و گردشگری با زیرساخت‌های نوین."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  
