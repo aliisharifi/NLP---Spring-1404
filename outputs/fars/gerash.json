@@ -1,0 +1,129 @@
+{
+    "title": "ویژگی‌های جغرافیایی گراش",
+    "location": {
+        "province": "فارس",
+        "city": "گراش"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه سیاه", "images": []},
+                {"name": "کوه سرخ", "images": ["https://lidomatrip.com/blog/wp-content/uploads/2021/07/%DA%A9%D9%88%D9%87-%D8%B3%D8%B1%D8%AE-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7%D8%B3%D8%AA-%D9%88-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A2%D9%86-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%9F-%D9%85%D8%AC%D9%84%D9%87-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%D9%88%D9%85%D8%A7%D8%AA%D8%B1%DB%8C%D9%BE.jpg"]},
+                {"name": "کوه کلات", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kalat_mountain.jpg/500px-Kalat_mountain.jpg"]}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان نخل",
+                "گیاهان مقاوم به خشکی",
+                "درختان کهور",
+                "پوشش گیاهی بیابانی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["900 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چاه‌های عمیق",
+                "آب‌های زیرزمینی",
+                "رودخانه فصلی گراش"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "نمک",
+                "گچ",
+                "سنگ آهک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "برکه کل",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg/500px-%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg"],
+            "year_built": "دوره قاجار (حدود 200 سال پیش)",
+            "architect": "معماران محلی",
+            "constructor": "مردم گراش",
+            "description": "بزرگ‌ترین آب‌انبار تاریخی ایران با قطر 29 متر و عمق 21 متر که هنوز برای مصارف کشاورزی استفاده می‌شود."
+        },
+        {
+            "name": "قلعه همایون‌دژ",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Gerash_Castle_%28Homayoun_Dezh%29_in_Kalaat.JPG/500px-The_Gerash_Castle_%28Homayoun_Dezh%29_in_Kalaat.JPG"],
+            "year_built": "پیش از دوره شاه زندو",
+            "architect": "معماران محلی",
+            "constructor": "حاکمان محلی گراش",
+            "description": "دژ تاریخی گراش که در ادوار مختلف مرکز حکومت بود و اکنون محل آرامگاه پنج شهید گمنام است."
+        },
+        {
+            "name": "سد تنگ‌آب",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%D8%B3%D8%AF_%D8%AA%D9%86%DA%AF_%D8%A2%D8%A8.jpg/500px-%D8%B3%D8%AF_%D8%AA%D9%86%DA%AF_%D8%A2%D8%A8.jpg"],
+            "year_built": "دوره ساسانی (بازسازی در صفویه)",
+            "architect": "معماران ساسانی",
+            "constructor": "ساسانیان",
+            "description": "سد تاریخی با سه پشت‌بند سنگی و ساروجی که اکنون کاملاً با رسوب پر شده است."
+        },
+        {
+            "name": "برکه حاج اسدالله",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berke_Haj_ASSDOALLAH%2CGerash%2CFars%2CIran-Photo_by_Abolhassan_Hosseini.jpg/500px-Berke_Haj_ASSDOALLAH%2CGerash%2CFars%2CIran-Photo_by_Abolhassan_Hosseini.jpg"],
+            "year_built": "دوره قاجار",
+            "architect": "معماران محلی",
+            "constructor": "حاج اسدالله",
+            "description": "دومین آب‌انبار بزرگ گراش با شش دهنه و سقف گنبدی عظیم که در فهرست آثار ملی ثبت شده است."
+        },
+        {
+            "name": "مجموعه تاریخی هفت‌برکه",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HaftBerkeh.png/500px-HaftBerkeh.png"],
+            "year_built": "دوره قاجار",
+            "architect": "معماران محلی",
+            "constructor": "مردم گراش",
+            "description": "مجموعه‌ای از هفت آب‌انبار در اندازه‌های مختلف که پنج تای آن گنبدی شکل و دو تای دیگر بدون سقف هستند."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%A7%D8%B4",
+        "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF_(%DA%AF%D8%B1%D8%A7%D8%B4)"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "title": "ویژگی‌های جغرافیایی فراشبند",
+    "location": {
+        "province": "فارس",
+        "city": "فراشبند"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان گز",
+                "گیاهان مقاوم به خشکی",
+                "درختان کنار",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["800 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "نفت و گاز",
+                "سنگ آهک",
+                "گچ"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "آبگرم آب‌بوی دهرم",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%DB%8C_%D8%A2%D8%A8_%DA%AF%D8%B1%D9%85_%D8%A2%D8%A8%E2%80%8C%D8%A8%D9%88%DB%8C_%D8%AF%D9%87%D8%B1%D9%85.jpg/500px-%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%DB%8C_%D8%A2%D8%A8_%DA%AF%D8%B1%D9%85_%D8%A2%D8%A8%E2%80%8C%D8%A8%D9%88%DB%8C_%D8%AF%D9%87%D8%B1%D9%85.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "چشمه آبگرم معدنی در 8 کیلومتری شمال غربی دهرم با خواص درمانی برای بیماری‌های پوستی و مفصلی که از دو مسیر قابل دسترسی است."
+        },
+        {
+            "name": "چشمه آبگرم جگرپز",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%DB%8C_%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%D8%AC%DA%AF%D8%B1%D9%BE%D8%B2.jpg/500px-%DA%86%D8%B4%D9%85%D9%87%E2%80%8C%DB%8C_%D8%A2%D8%A8%E2%80%8C%DA%AF%D8%B1%D9%85_%D8%AC%DA%AF%D8%B1%D9%BE%D8%B2.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "چشمه آبگرم در 18 کیلومتری دهرم با دو استخر طبیعی که در زمستان مملو از گردشگران می‌شود و پتانسیل تبدیل به قطب گردشگری پزشکی را دارد."
+        },
+        {
+            "name": "امامزاده سید نظام‌الدین",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AF%DB%8C%D9%86.jpg/500px-%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D8%AF%DB%8C%D9%86.jpg"],
+            "year_built": "دوره اسلامی (بازسازی جدید)",
+            "architect": "معماران معاصر",
+            "constructor": "مردم منطقه",
+            "description": "زیارتگاه منتسب به نواده امام سجاد(ع) در 4 کیلومتری نوجین با معماری جدید شامل گنبد، ضریح و تزئینات آینه‌کاری و آجرکاری."
+        },
+        {
+            "name": "چشمه آبگرم نوجین",
+            "images": ["https://fa.tripyar.com/uploads/picture/2936/2.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "چشمه‌ای قدیمی با خاصیت آب درمانی در جنوب نوجین که محیطی سرسبز با پوشش گیاهی متنوع و حیات وحش ایجاد کرده است."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D8%B4%D8%A8%D9%86%D8%AF",
+            "https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%AC%DB%8C%D9%86",
+            "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%D8%B1%D9%85"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

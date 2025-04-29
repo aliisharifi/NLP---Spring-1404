@@ -1,0 +1,167 @@
+{
+    "title": "ویژگی‌های جغرافیایی شیراز",
+    "location": {
+        "province": "فارس",
+        "city": "شیراز"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه خشک شیراز", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rodkhanyekhoshk.JPG/500px-Rodkhanyekhoshk.JPG"]},
+                {"name": "رودخانه پل فسا", "images": ["https://www.cafetarikh.com/images/docs/000049/n00049206-b.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه دراک", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mount-Derak.jpg/500px-Mount-Derak.jpg"]},
+                {"name": "کوه سبزپوشان", "images": ["https://api2.kojaro.com/media/2017-8-08c06259-a2af-48d4-b2a7-0ce11af111a2-67c460e0c1067c5ba761cd30?w=1200&q=80"]},
+                {"name": "کوه بمو", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Bamoo_mountain.jpg/408px-Bamoo_mountain.jpg"]},
+                {"name": "کوه چهل مقام", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Mortazalii_%281%29.JPG/500px-Mortazalii_%281%29.JPG"]},
+                {"name": "کوه باباکوهی", "images": []},
+                {"name": "کوه کتک لپویی", "images": []}
+
+            ]
+        },
+        {
+            "name": "دریاچه‌ها",
+            "description": [
+                {"name": "دریاچه مهارلو", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maharloo_Lake%2C_Iran_ESA23463799.jpeg/500px-Maharloo_Lake%2C_Iran_ESA23463799.jpeg","https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%A7%D8%B2_%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%D9%94_%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%E2%80%8C%D8%B1%D9%86%DA%AF_%D9%85%D9%87%D8%A7%D8%B1%D9%84%D9%88.jpg/500px-%D9%86%D9%85%D8%A7%DB%8C%DB%8C_%D8%A7%D8%B2_%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87%D9%94_%D8%B5%D9%88%D8%B1%D8%AA%DB%8C%E2%80%8C%D8%B1%D9%86%DA%AF_%D9%85%D9%87%D8%A7%D8%B1%D9%84%D9%88.jpg"]},
+                {"name": "دریاچه پریشان", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%D8%AF%D8%B1%D9%8A%D8%A7%DA%86%D9%87_%D9%BE%D8%B1%D9%8A%D8%B4%D8%A7%D9%86_parishan_lake_-_panoramio.jpg/500px-%D8%AF%D8%B1%D9%8A%D8%A7%DA%86%D9%87_%D9%BE%D8%B1%D9%8A%D8%B4%D8%A7%D9%86_parishan_lake_-_panoramio.jpg"]},
+                {"name": "دریاچه دشت ارژن", "images": []}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان سرو و نارنج",
+                "گیاهان دارویی مانند گل‌محمدی",
+                "پوشش گیاهی کوهستانی",
+                "درختان میوه مانند انار و انگور",
+                "گیاهان مقاوم به خشکی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1500 تا 2000 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های حاصلخیز",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "گسل‌های فعال",
+                "رسوبات آبرفتی",
+                "مناطق کوهستانی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های طبیعی",
+                "قنات‌های تاریخی",
+                "رودخانه فصلی خشک شیراز",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهن",
+                "گچ",
+                "نمک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "حافظیه",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hafez_shirazi_07.jpg/500px-Hafez_shirazi_07.jpg"],
+            "year_built": "856",
+            "architect": "آندره گدار (طراحی فعلی)",
+            "constructor": "شاه ابوالقاسم اینجو (آرامگاه اصلی)",
+            "description": "آرامگاه حافظ، شاعر بزرگ ایرانی، با معماری زیبا و فضای روح‌نواز."
+        },
+        {
+            "name": "سعدیه",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sa%27diyeh.JPG/500px-Sa%27diyeh.JPG","https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_tomb_of_Saadi_1.jpg/500px-The_tomb_of_Saadi_1.jpg"],
+            "year_built": "691 (آرامگاه اصلی)، 1370 (ساخت فعلی)",
+            "architect": "محسن فروغی (طراحی فعلی)",
+            "constructor": "شاه شجاع (آرامگاه اصلی)",
+            "description": "آرامگاه سعدی، شاعر و نویسنده مشهور ایرانی، با معماری سنتی و باغ زیبا."
+        },
+        {
+            "name": "ارگ کریم‌خانی",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Arg_of_Karim_Khan_in_Shiraz.jpg/1050px-Arg_of_Karim_Khan_in_Shiraz.jpg"],
+            "year_built": "1179",
+            "architect": "معماران زندیه",
+            "constructor": "کریم‌خان زند",
+            "description": "ارگی تاریخی با دیوارهای بلند و معماری دوره زندیه."
+        },
+        {
+            "name": "باغ ارم",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20170102_163941_HDR-01.jpg/500px-20170102_163941_HDR-01.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eram_Garden_By_Sogand_05.jpg/500px-Eram_Garden_By_Sogand_05.jpg"],
+            "year_built": "1215",
+            "architect": "نصیر الملک شیرازی",
+            "constructor": "جانی خان قشقایی و محمد قلی خان قشقایی",
+            "description": "باغی تاریخی با درختان سرو و نارنج و عمارتی زیبا."
+        },
+        {
+            "name": "مسجد نصیرالملک",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nasir_Al_Molk_Mosque_HDR_Shot.jpg/500px-Nasir_Al_Molk_Mosque_HDR_Shot.jpg"],
+            "year_built": "1294",
+            "architect": "میرزا رضا کاشی گر و حاج محمد حسن معمار",
+            "constructor": "حسن علی نصیرالملک",
+            "description": "مسجد صورتی شیراز با کاشی‌کاری و شیشه‌کاری منحصر به فرد."
+        },
+        {
+            "name": "مسجد وکیل",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vakil_mosque_Panorama.jpg/500px-Vakil_mosque_Panorama.jpg"],
+            "year_built": "1187",
+            "architect": "معماران دوره زندیه",
+            "constructor": "کریم‌خان زند",
+            "description": "مسجد تاریخی دوره زندیه با معماری چشمگیر، کاشی‌کاری‌های زیبا و محراب سنگی یکپارچه."
+        },
+        {
+            "name": "باغ عفیف‌آباد",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg/500px-%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg"],
+            "year_built": "1323",
+            "architect": "معماران قاجاری",
+            "constructor": "میرزا علی محمدخان قوام الملک دوم",
+            "description": "یکی از زیباترین باغ‌های تاریخی شیراز با عمارت قاجاری، موزه نظامی و فضای سبز چشم‌نواز."
+        },
+        {
+            "name": "دروازه قرآن",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quran_Gate_881225_02T.jpg/500px-Quran_Gate_881225_02T.jpg"],
+            "year_built": "دوره دیلمیان (قرن 4 هجری)، بازسازی در 1368",
+            "architect": "بازسازی توسط حسین ایگار",
+            "constructor": "عضدالدوله دیلمی",
+            "description": "دروازه تاریخی ورودی شیراز با طاقی که قرآن بزرگی در آن قرار داشت، نماد مهم شهر شیراز."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2",
+        "https://fa.wikipedia.org/wiki/%D8%B5%D8%AF%D8%B1%D8%A7_(%D9%81%D8%A7%D8%B1%D8%B3)",
+        "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%DB%8C%D8%A7%D9%86",
+        "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%87_%D8%B2%D9%86%DB%8C%D8%A7%D9%86"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

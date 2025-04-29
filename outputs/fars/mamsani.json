@@ -1,0 +1,128 @@
+{
+    "title": "ویژگی‌های جغرافیایی ممسنی",
+    "location": {
+        "province": "فارس",
+        "city": "ممسنی"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه فهلیان", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/%D8%B1%D9%88%D8%AF_%D8%B2%D9%87%D8%B1%D9%87_-_panoramio.jpg/500px-%D8%B1%D9%88%D8%AF_%D8%B2%D9%87%D8%B1%D9%87_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان بلوط",
+                "گیاهان دارویی مانند آویشن",
+                "درختان بنه",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1700 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه فهلیان",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "سیلیس"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "قلعه دختر نورآباد",
+            "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2021/09/04.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "ساسانیان",
+            "constructor": "ساسانیان",
+            "description": "قلعه‌ای تاریخی بر فراز کوه با معماری ساسانی."
+        },
+        {
+            "name": "تنگه بوان",
+            "images": ["https://dobaresafar.ir/wp-content/uploads/2023/05/nourabad-bowman-strait.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "تنگه‌ای زیبا با دیواره‌های بلند و طبیعت بکر در استان فارس که مقصدی محبوب برای طبیعت‌گردان و کوهنوردان است."
+        },
+        {
+            "name": "قلعه سفید",
+            "images": ["https://files.virgool.io/upload/users/2913261/posts/luqzzgjpyfxz/qu7lcfczqx4h.jpg?width=640"],
+            "year_built": "دوره ساسانی",
+            "architect": "معماران ساسانی",
+            "constructor": "ساسانیان",
+            "description": "قلعه‌ای تاریخی با معماری سنگی که بر فراز تپه‌ای مشرف به منطقه ساخته شده و از آثار مهم تاریخی استان فارس محسوب می‌شود."
+        },
+        {
+            "name": "لیدوما",
+            "images": ["https://example.com/lidoma-1.jpg"],
+            "year_built": " سال پیش از میلاد",
+            "architect": "هخامنشیان",
+            "constructor": "هخامنشیان",
+            "description": "یدوما شهری تاریخی در زمان هخامنشیان بوده و قدمتش به ۵۵۰ سال پیش از میلاد می‌رسد."
+        },
+        {
+            "name": "هرایرز",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Iran.Fars-Harayeraz.jpg/500px-Iran.Fars-Harayeraz.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "منطقه‌ای سرسبز با رودخانه‌های فصلی، چشمه‌های دائمی و جنگل‌های بلوط تنومند که محیطی خنک و دل‌انگیز دارد."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF_(%D9%85%D9%85%D8%B3%D9%86%DB%8C)",
+            "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D9%85%D9%87%E2%80%8C%D8%B2%D8%A7%D8%B1",
+            "https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%A8%D8%A7%D9%85%D9%86%DB%8C%D8%B1"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

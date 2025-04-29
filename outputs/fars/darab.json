@@ -1,0 +1,132 @@
+{
+    "title": "ویژگی‌های جغرافیایی داراب",
+    "location": {
+        "province": "فارس",
+        "city": "داراب"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه رودبال", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%AC.png/500px-%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%AC.png"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه سد رودبال", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sad_Roodbal.jpg/500px-Sad_Roodbal.jpg"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان خرما",
+                "مرکبات (پرتقال داراب معروف است)",
+                "گیاهان مقاوم به خشکی",
+                "درختان کنار و اکالیپتوس"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و نیمه‌خشک", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1180 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم‌ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "سنگ‌های رسوبی",
+                "گسل‌های فعال"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چشمه‌های آب گرم",
+                "رودخانه داراب",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ گچ",
+                "سنگ آهک",
+                "نمک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "آبشار فدامی",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fadami_waterfall_Hadi_Karimi.jpg/500px-Fadami_waterfall_Hadi_Karimi.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "آبشاری زیبا با طبیعت بکر در منطقه فدامی داراب."
+        },
+        {
+            "name": "تنگه رغز",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Raghezdarab.jpg/500px-Raghezdarab.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "دره‌ای با ۶۴ آبشار و ۱۰۰ حوضچه طبیعی که یکی از جذاب‌ترین مقاصد طبیعت‌گردی جنوب ایران محسوب می‌شود."
+        },
+        {
+            "name": "آتشکده آذرخش (مسجد سنگی)",
+            "images": ["https://api2.kojaro.com/media/2022-10-fb5aa9fe-d01f-4a5f-8eeb-4a0c4ca528ad-67c46111c1067c5ba768078d?w=1680&q=80","https://api2.kojaro.com/media/67c46111c1067c5ba768078e?w=750&q=75"],
+            "year_built": "دوره ساسانی",
+            "architect": "معماران ساسانی",
+            "constructor": "ساسانیان",
+            "description": "بنای تاریخی در دل کوه که ابتدا معبد مهرپرستان بود و سپس به آتشکده و بعد به مسجد تبدیل شد."
+        },
+        {
+            "name": "دارابگرد",
+            "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/9/9b/DarabGerd.jpeg/375px-DarabGerd.jpeg"],
+            "year_built": "دوره هخامنشی",
+            "architect": "معماران هخامنشی",
+            "constructor": "هخامنشیان",
+            "description": "شهر قدیم داراب با ساختار دایره‌ای و خندق دفاعی که از مهم‌ترین آثار تاریخی منطقه محسوب می‌شود."
+        },
+        {
+            "name": "چشمه گلابی",
+            "images": ["https://api2.kojaro.com/media/2020-7-1546960f-278e-4e67-9d7c-5419dcb0639f-67c46105c1067c5ba766a2b0?w=828&q=80","https://www.iranhotelonline.com/blog/wp-content/uploads/2023/05/1683366649_717_%DA%86%D8%B4%D9%85%D9%87-%DA%AF%D9%84%D8%A7%D8%A8%DB%8C-%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8-%D9%81%D8%A7%D8%B1%D8%B3.jpg"],
+            "year_built": "نامشخص",
+            "architect": "طبیعت",
+            "constructor": "طبیعت",
+            "description": "چشمه‌ای پرآب با سه خروجی که به دلیل شکل گلابی‌گونه و محیط سرسبز اطرافش معروف است."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8",
+            "https://fa.wikipedia.org/wiki/%D8%AC%D9%86%D8%AA%E2%80%8C%D8%B4%D9%87%D8%B1",
+            "https://fa.wikipedia.org/wiki/%D9%81%D8%AF%D8%A7%D9%85%DB%8C",
+            "https://fa.wikipedia.org/wiki/%D8%B1%D8%B3%D8%AA%D8%A7%D9%82_(%D8%AF%D8%A7%D8%B1%D8%A7%D8%A8)",
+            "https://fa.wikipedia.org/wiki/%D9%BE%"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

@@ -1,0 +1,116 @@
+{
+  "title": "ویژگی‌های جغرافیایی سروستان",
+  "location": {
+    "province": "فارس",
+    "city": "سروستان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {"name": "کوه زیره", "images": []},
+        {"name": "کوه چنار مهارلو", "images": []}
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {"name": "دریاچه مهارلو", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maharloo_Lake%2C_Iran_ESA23463799.jpeg/500px-Maharloo_Lake%2C_Iran_ESA23463799.jpeg"]}
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان منطقه شامل بادام کوهی و بنه",
+        "گیاهان دارویی مانند گل گاوزبان"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "نیمه‌خشک"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "حدود ۱۵۶۰ متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت وسیع سروستان",
+        "مجاورت با ارتفاعات زاگرس"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سازندهای آهکی و مارنی زاگرس چین‌خورده",
+        "گسل‌های فعال نفتی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌ها و قنات‌ها"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "میدان‌های نفتی سروستان"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "امامزاده بی‌بی شریفه خاتون",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Bibi_sharifeh_khatoon.jpg/250px-Bibi_sharifeh_khatoon.jpg"],
+        "year_built": "قرون متأخر اسلامی",
+        "architect": "معماران محلی",
+        "constructor": "مردم منطقه",
+        "description": "زیارتگاهی در میان باغات بادام روستای مهارلو که از اماکن مقدس و تاریخی منطقه سروستان محسوب می‌شود."
+    },
+    {
+        "name": "قلعه انگشت گبری",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Angosht_Gabri_Castle1.jpg/330px-Angosht_Gabri_Castle1.jpg"],
+        "year_built": "دوره ساسانی و قرون اولیه اسلامی",
+        "architect": "معماران ساسانی",
+        "constructor": "ساسانیان",
+        "description": "قلعه‌ای تاریخی با حصار و برج‌های دفاعی که احتمالاً کاربرد مذهبی برای زرتشتیان داشته و دارای چاه مرموزی در دل کوه است."
+    },
+    {
+        "name": "تپه شرقی مهارلو",
+        "images": [],
+        "year_built": "پیش از تاریخ",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "تپه‌های باستانی در میان باغات مهارلو که بقایای سکونتگاه‌های پیش از تاریخ را در خود جای داده و نیازمند کاوش‌های باستان‌شناسی است."
+    },
+    {
+        "name": "دریاچه مهارلو",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Maharloo_Lake%2C_Iran_ESA23463799.jpeg/500px-Maharloo_Lake%2C_Iran_ESA23463799.jpeg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "دریاچه‌ای زیبا در مجاورت روستای مهارلو که در سال 1385 به عنوان یکی از 7 منطقه نمونه گردشگری ایران انتخاب شده است."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D9%86",
+        "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87%D9%86%D8%AC%D8%A7%D9%86"
+    ],
+    "books_source": "http://chap.sch.ir/books/12315"
+  }
+}

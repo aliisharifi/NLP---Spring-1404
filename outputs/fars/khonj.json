@@ -1,0 +1,121 @@
+{
+    "title": "ویژگی‌های جغرافیایی خنج",
+    "location": {
+        "province": "فارس",
+        "city": "خنج"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه فصلی خنج", "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8h9I_Bf-NqoIMgrTykdHPwNLatjddHhJrdQ&s"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان نخل",
+                "گیاهان مقاوم به خشکی مانند کُنار",
+                "درختان کهور",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["700 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق بیابانی",
+                "پهنه گسلی خنج",
+                "دسته گسلی خنج"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه خنج",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "مسجد جامع سلجوقی و سردر مسجد خنج",
+            "images": ["https://tishineh.com/tour/Pictures/Item/3273/40737.jpg"],
+            "year_built": "سده 7-8 هجری قمری",
+            "architect": "معماران دوره سلجوقی",
+            "constructor": "حاکمان سلجوقی",
+            "description": "مجموعه تاریخی شامل مسجد جامع و سردر زیبای آن با معماری مشابه مسجد عتیق شیراز که در سال 1378 با شماره 2316 در فهرست آثار ملی ثبت شده است."
+        },
+        {
+            "name": "برکه میرشریف",
+            "images": [],
+            "year_built": "دوره تیموری",
+            "architect": "معماران تیموری",
+            "constructor": "میرشریف حاکم فارس",
+            "description": "بزرگترین آب انبار سرپوشیده خنج با معماری دوره تیموری که در سال 1384 با شماره 12707 در فهرست آثار ملی ایران به ثبت رسیده است."
+        },
+        {
+            "name": "حمام خانی",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hammam.khonj.jpg/500px-Hammam.khonj.jpg"],
+            "year_built": "دوره قاجار",
+            "architect": "معماران قاجاری",
+            "constructor": "حاکمان محلی خنج",
+            "description": "حمام تاریخی شامل رختکن، تن و گرمخانه که نمونه‌ای از معماری عمومی دوره قاجار است و در سال 1354 در فهرست آثار ملی ثبت شده است."
+        },
+        {
+            "name": "قلعه شاه آریا آرین",
+            "images": ["https://static.neshanmap.ir/places/images/b52/1356675_5410619--%D9%82%D9%84%D8%B9%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C-%D8%A2%D8%B1%DB%8C%D9%86-%D8%B4%D9%87%D8%B1.jpeg"],
+            "year_built": "دوره ساسانی",
+            "architect": "معماران ساسانی",
+            "constructor": "ساسانیان",
+            "description": "قلعه تاریخی در ارتفاعات قلاتو با بقایای حصارهای سنگی و آب انبار که از آثار مهم نظامی دوره ساسانی در منطقه خنج محسوب می‌شود."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%AE%D9%86%D8%AC",
+        "https://fa.wikipedia.org/wiki/%D9%85%D8%AD%D9%85%D9%84%D9%87"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

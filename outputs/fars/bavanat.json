@@ -1,0 +1,110 @@
+{
+  "title": "ویژگی‌های جغرافیایی بوانات",
+  "location": {
+    "province": "فارس",
+    "city": "بوانات"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {"name": "کوه ختابون", "images": ["https://s2.wklcdn.com/image_340/10209171/156354905/98200034.400x300.jpg"]}
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های مزایجان",
+        "مراتع و گیاهان دارویی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": ["نیمه‌خشک"]
+    },
+    {
+      "name": "ارتفاع",
+      "description": ["نامشخص"]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار و دره‌های سرسبز",
+        "مجاورت با رشته‌کوه‌های زاگرس"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سازندهای آهکی و مارنی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه پیرکدو مزایجان",
+        "قنات نیم‌افراز"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "مرمریت",
+        "مس",
+        "نیکل"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "امامزاده شاه میر حمزه (روستای بزم)",
+        "images": ["https://last-cdn.com/2021/10/13/EU1GsGEbfMhvGmvNUlV9RJOgeV3IMypSH73Xw153.jpeg"],
+        "year_built": "دوره اسلامی",
+        "architect": "معماران محلی",
+        "constructor": "مردم منطقه",
+        "description": "زیارتگاهی مقدس در روستای بزم که به عنوان یکی از مراکز مذهبی مهم منطقه بوانات شناخته می‌شود و دارای معماری سنتی با گنبدی آبی رنگ است."
+      },
+      {
+        "name": "تفریحگاه محمد حنیفه",
+        "images": ["https://media.chtn.ir/d/2023/10/25/3/626500.jpg?ts=1698212421000"],
+        "year_built": "پیش از اسلام (آتشکده) و دوره اسلامی (قدمگاه)",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "منطقه‌ای زیبا در دامنه کوه ختابون با چشمه‌ای پرآب و درختان چنار کهنسال که در گذشته آتشکده بوده و اکنون به عنوان زیارتگاه و تفریحگاه استفاده می‌شود."
+      },
+      {
+        "name": "آبشار بدره",
+        "images": ["https://aminmana.com/wp-content/uploads/2021/04/badreh-valley-waterfall-ilam-4.jpg"],
+        "year_built": "نامشخص",
+        "architect": "طبیعت",
+        "constructor": "طبیعت",
+        "description": "آبشار فصلی زیبا در نزدیکی محله سوریان که در فصل بهار و زمستان پرآب می‌شود و محیطی دلنشین برای طبیعت‌گردی ایجاد می‌کند."
+      },
+      {
+        "name": "مسجد جامع سوریان",
+        "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTongKQI803XtMGkHLk5Z4bC0At8vaM7owD4Q&s"],
+        "year_built": "دوره دیلمیان",
+        "architect": "معماران دوره دیلمی",
+        "constructor": "حاکمان دیلمی",
+        "description": "مسجدی تاریخی با معماری دوره دیلمیان که منبر معروف آن در موزه ایران باستان نگهداری می‌شود. این بنا از آثار مهم تاریخی منطقه بوانات محسوب می‌شود."
+      }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%A8%D9%88%D8%A7%D9%86%D8%A7%D8%AA"
+    ],
+    "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

@@ -1,0 +1,98 @@
+{
+  "title": "ویژگی‌های جغرافیایی خرامه",
+  "location": {
+    "province": "فارس",
+    "city": "خرامه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه خرامه", "images": []
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط و بنه در مناطق کوهستانی زاگرس",
+        "گیاهان مرتعی مانند آویشن و کنگر"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": ["معتدل و کوهستانی"]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "حدود ۱۵۰۰ متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "پهنه‌ی هموار شهری",
+        "قربتی به دامنه‌های زاگرس"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سنگ‌های آهکی و مارنی زاگرس",
+        "گسل‌های فرعی زاگرس"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه کر",
+        "قنات‌های کشاورزی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": ["سنگ آهک"]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "چهارطاقی گبران (آتشکده ساسانی خرامه)",
+        "images": ["https://irantour.ist/Content/Images/big/img1919159706.jpg"],
+        "year_built": "دوره ساسانی (حدود 1500 سال پیش)",
+        "architect": "معماران ساسانی",
+        "constructor": "ساسانیان",
+        "description": "آتشکده تاریخی با معماری مشابه آتشکده بهرام که در 500 متری غرب خرامه قرار دارد و از معدود آثار باقی مانده از دوران ساسانی در این منطقه است."
+    },
+    {
+        "name": "بند امیر",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CH-NB_-_Persien%2C_Bender_Emir_bei_Persepolis-_Br%C3%BCcke_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-07-160.jpg/500px-CH-NB_-_Persien%2C_Bender_Emir_bei_Persepolis-_Br%C3%BCcke_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-07-160.jpg"],
+        "year_built": "دوره ساسانی (بازسازی در دوره دیلمیان)",
+        "architect": "مهندسان آبیاری ساسانی",
+        "constructor": "عضدالدوله دیلمی",
+        "description": "سد تاریخی بر روی رود کر که در دوره ساسانیان ساخته و در زمان عضدالدوله دیلمی بازسازی شد، نشان دهنده سیستم پیشرفته آبیاری در منطقه خرامه و کربال."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%AE%D8%B1%D8%A7%D9%85%D9%87",
+        "https://fa.wikipedia.org/wiki/%D9%85%D8%B9%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF_%D8%AC%D8%A7%D8%A8%D8%B1%DB%8C",
+        "https://fa.wikipedia.org/wiki/%D8%AE%DB%8C%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF_(%D8%AE%D8%B1%D8%A7%D9%85%D9%87)",
+        "https://fa.wikipedia.org/wiki/%D8%B3%D9%84%D8%B7%D8%A7%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+  }
+}

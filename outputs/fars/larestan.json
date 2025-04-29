@@ -1,0 +1,132 @@
+{
+    "title": "ویژگی‌های جغرافیایی لارستان",
+    "location": {
+        "province": "فارس",
+        "city": "لارستان"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه شور لار", "images": []}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان نخل",
+                "گیاهان مقاوم به خشکی",
+                "درختان کهور",
+                "پوشش گیاهی بیابانی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["800 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چاه‌های عمیق",
+                "آب‌های زیرزمینی",
+                "رودخانه فصلی شور"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "نمک",
+                "گچ",
+                "سنگ آهک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "قلعه اژدهاپیکر",
+            "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/09/1-48.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "ساسانیان",
+            "constructor": "ساسانیان",
+            "description": "قلعه‌ای تاریخی با معماری خشتی و گلی."
+        },
+        {
+            "name": "بازار تاریخی لار",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%DB%8C%D8%B5%D8%B1%DB%8C%D9%87_%D9%84%D8%A7%D8%B1.jpg/500px-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%DB%8C%D8%B5%D8%B1%DB%8C%D9%87_%D9%84%D8%A7%D8%B1.jpg"],
+            "year_built": "دوره صفوی",
+            "architect": "معماران دوره صفوی",
+            "constructor": "شاه عباس صفوی",
+            "description": "بازاری سنتی با معماری اصیل ایرانی."
+        },
+        {
+            "name": "مسجد جامع لار",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%84%D8%A7%D8%B1.jpg/500px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%84%D8%A7%D8%B1.jpg"],
+            "year_built": "قرن 9 هجری",
+            "architect": "معماران دوره تیموری",
+            "constructor": "تیموریان",
+            "description": "مسجدی تاریخی با معماری سنتی."
+        },
+        {
+            "name": "عمارت باغ نشاط",
+            "images": ["https://api2.kojaro.com/media/2022-10-f8cb280a-ae9e-4988-a348-a425246bc40a-67c46111c1067c5ba768074d?w=828&q=80"],
+            "year_built": "دوره قاجار (نیمه دوم قرن 13 هجری قمری)",
+            "architect": "استاد حسین معمار لاری",
+            "constructor": "محمدعلی خان ظفرالملک",
+            "description": "عمارتی ییلاقی با باغی مصفا در لارستان که ترکیبی از معماری قاجاری و سبک محلی لارستانی است و شامل حوضخانه، شاه‌نشین و فضای باغ ایرانی می‌باشد."
+        },
+        {
+            "name": "خانه تاریخی فکری",
+            "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/01/1-8.jpg"],
+            "year_built": "دوره قاجار",
+            "architect": "معماران محلی",
+            "constructor": "خانواده فکری",
+            "description": "خانه‌ای تاریخی با معماری سنتی لارستانی."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%A7%D8%B1%D9%88%DB%8C%D9%87",
+        "https://fa.wikipedia.org/wiki/%D8%AE%D9%88%D8%B1_(%D9%81%D8%A7%D8%B1%D8%B3)",
+        "https://fa.wikipedia.org/wiki/%D8%A8%DB%8C%D8%B1%D9%85",
+        "https://fa.wikipedia.org/wiki/%D9%84%D8%B7%DB%8C%D9%81%DB%8C",
+        "https://fa.wikipedia.org/wiki/%D8%AF%D9%87%DA%A9%D9%88%DB%8C%D9%87",
+        "https://fa.wikipedia.org/wiki/%D8%B9%D9%85%D8%A7%D8%AF%D8%B4%D9%87%D8%B1",
+        "https://fa.wikipedia.org/wiki/%D9%84%D8%A7%D8%B1"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}
