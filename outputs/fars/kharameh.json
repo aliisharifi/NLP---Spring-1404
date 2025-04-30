@@ -37,7 +37,7 @@
     {
       "name": "ارتفاع",
       "description": [
-        "حدود ۱۵۰۰ متر از سطح دریا"
+        "1000 متر از سطح دریا"
       ]
     },
     {
@@ -70,18 +70,18 @@
   ],
   "tourist_attractions": [
     {
-        "name": "چهارطاقی گبران (آتشکده ساسانی خرامه)",
+        "name": "چهارطاقی گبران",
         "images": ["https://irantour.ist/Content/Images/big/img1919159706.jpg"],
-        "year_built": "دوره ساسانی (حدود 1500 سال پیش)",
-        "architect": "معماران ساسانی",
-        "constructor": "ساسانیان",
+        "year_built": "دوره ساسانی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "آتشکده تاریخی با معماری مشابه آتشکده بهرام که در 500 متری غرب خرامه قرار دارد و از معدود آثار باقی مانده از دوران ساسانی در این منطقه است."
     },
     {
         "name": "بند امیر",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/CH-NB_-_Persien%2C_Bender_Emir_bei_Persepolis-_Br%C3%BCcke_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-07-160.jpg/500px-CH-NB_-_Persien%2C_Bender_Emir_bei_Persepolis-_Br%C3%BCcke_-_Annemarie_Schwarzenbach_-_SLA-Schwarzenbach-A-5-07-160.jpg"],
-        "year_built": "دوره ساسانی (بازسازی در دوره دیلمیان)",
-        "architect": "مهندسان آبیاری ساسانی",
+        "year_built": "دوره ساسانی",
+        "architect": "نامشخص",
         "constructor": "عضدالدوله دیلمی",
         "description": "سد تاریخی بر روی رود کر که در دوره ساسانیان ساخته و در زمان عضدالدوله دیلمی بازسازی شد، نشان دهنده سیستم پیشرفته آبیاری در منطقه خرامه و کربال."
     }

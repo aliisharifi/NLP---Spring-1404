@@ -39,7 +39,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1600 متر از سطح دریا"]
+            "description": ["1400 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -81,33 +81,33 @@
         {
             "name": "دریاچه بختگان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bakhtegan_Lake.jpg/500px-Bakhtegan_Lake.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیغت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "دریاچه‌ای فصلی با تنوع زیستی منحصر به فرد."
         },
         {
             "name": "کاروانسرای نی ریز",
             "images": ["https://borna.news/files/fa/news/1395/7/6/819048_140.jpg"],
-            "year_built": "دوره صفوی",
-            "architect": "معماران دوره صفوی",
-            "constructor": "شاه عباس صفوی",
+            "year_built": "1904",
+            "architect": "نامشخص",
+            "constructor": "حاج محمدحسن فرزند آقانظر",
             "description": "کاروانسرای تاریخی با معماری صفوی."
         },
         {
             "name": "مسجد جامع نی ریز",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/0%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%86%DB%8C%D8%B1%DB%8C%D8%B2.jpg/500px-0%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%86%DB%8C%D8%B1%DB%8C%D8%B2.jpg"],
-            "year_built": "قرن 4 هجری",
-            "architect": "معماران دوره دیلمیان",
-            "constructor": "دیلمیان",
+            "year_built": "973",
+            "architect": "المقدسی",
+            "constructor": "نامشخص",
             "description": "یکی از قدیمی‌ترین مساجد استان فارس."
         },
         {
             "name": "دشت لاله‌های واژگون مشکان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%E1%83%A2%E1%83%98%E1%83%A2%E1%83%90.jpg/500px-%E1%83%A2%E1%83%98%E1%83%A2%E1%83%90.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیغت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "دشتی پوشیده از لاله‌های واژگون، گل‌های نادر و زیبایی که هر بهار در این منطقه می‌رویند."
         }
     ],

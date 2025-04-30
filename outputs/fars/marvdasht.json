@@ -50,7 +50,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1600 تا 1800 متر از سطح دریا"]
+            "description": ["1000 از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -94,47 +94,47 @@
             "name": "تخت جمشید",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg/1200px-%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg"],
             "year_built": "518 پیش از میلاد",
-            "architect": "داریوش بزرگ و خشایارشا",
-            "constructor": "هخامنشیان",
+            "architect": "نامشخص",
+            "constructor": "داریوش بزرگ و خشایارشا",
             "description": "پایتخت تشریفاتی امپراتوری هخامنشی و یکی از مهم‌ترین آثار تاریخی جهان."
         },
         {
             "name": "نقش رستم",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/500px-Naqsh-e_Rustam_necropolis_in_Iran.jpg"],
-            "year_built": "هزاره سوم پیش از میلاد تا دوره ساسانی",
-            "architect": "هخامنشیان و ساسانیان",
-            "constructor": "داریوش بزرگ و شاهان ساسانی",
+            "year_built": "1200 پیش از میلاد",
+            "architect": "نامشخص",
+            "constructor": "داریوش بزرگ",
             "description": "گورستان سلطنتی هخامنشیان و نقش‌برجسته‌های ساسانی."
         },
         {
             "name": "پاسارگاد",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/500px-Pasargad_Tomb_Cyrus3.jpg"],
             "year_built": "546 پیش از میلاد",
-            "architect": "کوروش بزرگ",
-            "constructor": "هخامنشیان",
+            "architect": "نامشخص",
+            "constructor": "کوروش بزرگ",
             "description": "پایتخت کوروش بزرگ و آرامگاه او، از آثار ثبت‌شده در یونسکو."
         },
         {
             "name": "شهر استخر",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Estakhr_Darafsh_%2855%29.JPG/500px-Estakhr_Darafsh_%2855%29.JPG"],
             "year_built": "دوره هخامنشی تا ساسانی",
-            "architect": "هخامنشیان و ساسانیان",
-            "constructor": "شاهان هخامنشی و ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "شهر تاریخی در نزدیکی تخت جمشید با آثار باستانی متعدد."
         },
         {
             "name": "بند امیر",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Band_Amir_by_Eug%C3%A8ne_Flandin.jpg/960px-Band_Amir_by_Eug%C3%A8ne_Flandin.jpg"],
             "year_built": "دوره دیلمیان",
-            "architect": "امیر عضدالدوله دیلمی",
-            "constructor": "دیلمیان",
+            "architect": "نامشخص",
+            "constructor": "امیر عضدالدوله دیلمی",
             "description": "سد تاریخی با معماری منحصر به فرد و کاربری آبیاری."
         },
         {
             "name": "نقش رجب",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naqsh-e_Rajab_02.jpg/500px-Naqsh-e_Rajab_02.jpg"],
-            "year_built": "قرن سوم میلادی (دوره ساسانی)",
-            "architect": "هنرمندان دوره ساسانی",
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
             "constructor": "اردشیر بابکان و شاپور اول",
             "description": "مجموعه‌ای از نقش‌برجسته‌های ساسانی شامل تاج‌گذاری اردشیر بابکان و شاپور اول، واقع در نزدیکی تخت جمشید."
         }

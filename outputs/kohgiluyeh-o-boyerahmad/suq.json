@@ -54,7 +54,8 @@
     {
       "name": "توپوگرافی",
       "description": [
-        "دشت‌ها و تپه‌های کم ارتفاع"
+        "دشت‌ها و تپه‌های کم ارتفاع",
+        "1100 متر از سطح دریا"
       ]
     },
     {
@@ -84,15 +85,15 @@
     {
       "name": "آبشار طوف خیمه سوق",
       "images": ["https://jazebeha.com/wp-content/uploads/2019/05/1716921.jpg"],
-      "year_built": "نامشخص",
-      "architect": "طبیعت",
-      "constructor": "طبیعت",
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
       "description": "آبشار طوف خیمه سوق از توابع شهرستان کهگیلویه در استان کهگیلویه و بویراحمد است. ارتفاع اين آبشار نزديک به پنجاه متر است."
     },
     {
         "name": "حوالی سد مارون",
         "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/b/bf/%D8%B1%D9%87%D8%A7_%D8%B3%D8%A7%D8%B2%DB%8C_%D8%A2%D8%A8_%D8%A7%D8%B2_%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86_%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86.jpeg/500px-%D8%B1%D9%87%D8%A7_%D8%B3%D8%A7%D8%B2%DB%8C_%D8%A2%D8%A8_%D8%A7%D8%B2_%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86_%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86.jpeg"],
-        "year_built": "۱۳۷۰",
+        "year_built": "1991",
         "architect": "وزارت نیرو",
         "constructor": "شرکت‌های عمرانی",
         "description": "محدوده‌ای اطراف سد مارون که با مناظر زیبا، آب و هوای مطبوع و فضای مناسب برای گردشگری شناخته می‌شود."
@@ -100,9 +101,9 @@
       {
         "name": "کوه دژکوه",
         "images": ["https://img9.irna.ir/d/r2/2025/01/05/3/171602620.jpg?ts=1736054997539"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "کوهی در ۱۵ کیلومتری شهر سوق که علاوه بر جلوه‌های طبیعی، میزبان مکان‌های مذهبی و آثار تاریخی نیز می‌باشد."
       }
   ],

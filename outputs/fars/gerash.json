@@ -38,7 +38,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["900 متر از سطح دریا"]
+            "description": ["1000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -81,32 +81,32 @@
         {
             "name": "برکه کل",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg/500px-%D8%A8%D8%B1%DA%A9%D9%87_%DA%A9%D9%84.jpg"],
-            "year_built": "دوره قاجار (حدود 200 سال پیش)",
-            "architect": "معماران محلی",
-            "constructor": "مردم گراش",
+            "year_built": "1869",
+            "architect": "نامشخص",
+            "constructor": "حاج اسدالله دهباشی",
             "description": "بزرگ‌ترین آب‌انبار تاریخی ایران با قطر 29 متر و عمق 21 متر که هنوز برای مصارف کشاورزی استفاده می‌شود."
         },
         {
             "name": "قلعه همایون‌دژ",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Gerash_Castle_%28Homayoun_Dezh%29_in_Kalaat.JPG/500px-The_Gerash_Castle_%28Homayoun_Dezh%29_in_Kalaat.JPG"],
-            "year_built": "پیش از دوره شاه زندو",
-            "architect": "معماران محلی",
-            "constructor": "حاکمان محلی گراش",
+            "year_built": "دوره زندیه",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "دژ تاریخی گراش که در ادوار مختلف مرکز حکومت بود و اکنون محل آرامگاه پنج شهید گمنام است."
         },
         {
             "name": "سد تنگ‌آب",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/%D8%B3%D8%AF_%D8%AA%D9%86%DA%AF_%D8%A2%D8%A8.jpg/500px-%D8%B3%D8%AF_%D8%AA%D9%86%DA%AF_%D8%A2%D8%A8.jpg"],
-            "year_built": "دوره ساسانی (بازسازی در صفویه)",
-            "architect": "معماران ساسانی",
-            "constructor": "ساسانیان",
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "سد تاریخی با سه پشت‌بند سنگی و ساروجی که اکنون کاملاً با رسوب پر شده است."
         },
         {
             "name": "برکه حاج اسدالله",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Berke_Haj_ASSDOALLAH%2CGerash%2CFars%2CIran-Photo_by_Abolhassan_Hosseini.jpg/500px-Berke_Haj_ASSDOALLAH%2CGerash%2CFars%2CIran-Photo_by_Abolhassan_Hosseini.jpg"],
-            "year_built": "دوره قاجار",
-            "architect": "معماران محلی",
+            "year_built": "1869",
+            "architect": "نامشخص",
             "constructor": "حاج اسدالله",
             "description": "دومین آب‌انبار بزرگ گراش با شش دهنه و سقف گنبدی عظیم که در فهرست آثار ملی ثبت شده است."
         },
@@ -114,8 +114,8 @@
             "name": "مجموعه تاریخی هفت‌برکه",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HaftBerkeh.png/500px-HaftBerkeh.png"],
             "year_built": "دوره قاجار",
-            "architect": "معماران محلی",
-            "constructor": "مردم گراش",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "مجموعه‌ای از هفت آب‌انبار در اندازه‌های مختلف که پنج تای آن گنبدی شکل و دو تای دیگر بدون سقف هستند."
         }
     ],

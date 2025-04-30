@@ -43,7 +43,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["860 متر از سطح دریا"]
+            "description": ["1000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -87,7 +87,7 @@
             "name": "غار شاپور",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Shaapoor_Cave_Panorama_360_virtual_Reality.jpg/500px-Shaapoor_Cave_Panorama_360_virtual_Reality.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
+            "architect": "نامشخص",
             "constructor": "شاپور اول",
             "description": "غاری با مجسمه عظیم شاپور اول و نقوش تاریخی."
         },
@@ -95,32 +95,32 @@
             "name": "تنگ چوگان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kazeroun_-_Tange_Chogan_-_panoramio_%2813%29.jpg/500px-Kazeroun_-_Tange_Chogan_-_panoramio_%2813%29.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
+            "architect": "نامشخص",
             "constructor": "شاپور اول",
             "description": "دره‌ای تاریخی با نقش‌برجسته‌های ساسانی و طبیعت زیبا."
         },
         {
             "name": "شهر باستانی بیشاپور",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Anahita_Temple_of_Bishapur_%28Kazerun%29_1.jpg/500px-Anahita_Temple_of_Bishapur_%28Kazerun%29_1.jpg"],
-            "year_built": "266 میلادی",
-            "architect": "ساسانیان",
+            "year_built": "266",
+            "architect": "نامشخص",
             "constructor": "شاپور اول",
             "description": "شهری تاریخی با معماری ساسانی و موزاییک‌های منحصر به فرد."
         },
         {
             "name": "پارک ملی بمو",
             "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/a/a6/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A8%D9%85%D9%88.jpg/500px-%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A8%D9%85%D9%88.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "پارکی ملی با تنوع زیستی و طبیعت بکر."
         },
         {
             "name": "امامزاده سید حسین",
             "images": ["https://kazerun.online/wp-content/uploads/2024/10/imamzadeh-seyyed-hossein-as-a-treasure-of-history-culture-and-faith-1500x750.webp"],
-            "year_built": "قرن ۸ هجری قمری",
-            "architect": "معماران دوره تیموری",
-            "constructor": "تیموریان",
+            "year_built": "دوره تیموریان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "زیارتگاهی معروف با گنبدی فیروزه‌ای و معماری سنتی."
         }
     ],

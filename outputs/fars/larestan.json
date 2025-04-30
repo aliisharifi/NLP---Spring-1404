@@ -36,7 +36,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["800 متر از سطح دریا"]
+            "description": ["1000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -80,30 +80,30 @@
             "name": "قلعه اژدهاپیکر",
             "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/09/1-48.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی با معماری خشتی و گلی."
         },
         {
             "name": "بازار تاریخی لار",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%DB%8C%D8%B5%D8%B1%DB%8C%D9%87_%D9%84%D8%A7%D8%B1.jpg/500px-%D8%A8%D8%A7%D8%B2%D8%A7%D8%B1_%D9%82%DB%8C%D8%B5%D8%B1%DB%8C%D9%87_%D9%84%D8%A7%D8%B1.jpg"],
             "year_built": "دوره صفوی",
-            "architect": "معماران دوره صفوی",
+            "architect": "نامشخص",
             "constructor": "شاه عباس صفوی",
             "description": "بازاری سنتی با معماری اصیل ایرانی."
         },
         {
             "name": "مسجد جامع لار",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%84%D8%A7%D8%B1.jpg/500px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%84%D8%A7%D8%B1.jpg"],
-            "year_built": "قرن 9 هجری",
-            "architect": "معماران دوره تیموری",
-            "constructor": "تیموریان",
+            "year_built": "1620",
+            "architect": "نامشخص",
+            "constructor": "فرخ لقا الملک",
             "description": "مسجدی تاریخی با معماری سنتی."
         },
         {
             "name": "عمارت باغ نشاط",
             "images": ["https://api2.kojaro.com/media/2022-10-f8cb280a-ae9e-4988-a348-a425246bc40a-67c46111c1067c5ba768074d?w=828&q=80"],
-            "year_built": "دوره قاجار (نیمه دوم قرن 13 هجری قمری)",
+            "year_built": "دوره قاجار",
             "architect": "استاد حسین معمار لاری",
             "constructor": "محمدعلی خان ظفرالملک",
             "description": "عمارتی ییلاقی با باغی مصفا در لارستان که ترکیبی از معماری قاجاری و سبک محلی لارستانی است و شامل حوضخانه، شاه‌نشین و فضای باغ ایرانی می‌باشد."
@@ -112,7 +112,7 @@
             "name": "خانه تاریخی فکری",
             "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/01/1-8.jpg"],
             "year_built": "دوره قاجار",
-            "architect": "معماران محلی",
+            "architect": "نامشخص",
             "constructor": "خانواده فکری",
             "description": "خانه‌ای تاریخی با معماری سنتی لارستانی."
         }

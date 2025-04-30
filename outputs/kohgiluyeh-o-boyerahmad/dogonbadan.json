@@ -51,7 +51,8 @@
     {
       "name": "ارتفاع",
       "description": [
-        "مناطق هموار با کوه‌های پراکنده"
+        "مناطق هموار با کوه‌های پراکنده",
+        "726 متر از سطح دریا"
       ]
     },
     {
@@ -93,7 +94,7 @@
     {
       "name": "سد کوثر",
       "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/سد-کوثر.jpg"],
-      "year_built": "1370",
+      "year_built": "2004",
       "architect": "شرکت سایبر",
       "constructor": "وزارت نیرو ایران",
       "description": "سدی بزرگ برای تامین آب شرب و مصارف صنعتی و کشاورزی."
@@ -101,7 +102,7 @@
     {
       "name": "سد چمشیر",
       "images": ["https://farhikhtegandaily.com/images/news/189809/thumbs/189809.jpg?v=1713618552"],
-      "year_built": "1402",
+      "year_built": "2023",
       "architect": "مهندسان مشاور مهاب قدس",
       "constructor": "وزارت نیرو ایران",
       "description": "سد چمشیر یک سد بتنی سنگریزه‌ای در ۲۰ کیلومتری جنوب شرقی گچساران، بر روی رودخانه زهره، برای تولید برق و آبیاری زمین‌های کشاورزی ساخته شده است."
@@ -109,33 +110,33 @@
     {
       "name": "سرو کهنسال لار",
       "images": ["https://www.iribnews.ir/files/fa/news/1400/8/16/7219396_670.jpg"],
-      "year_built": "تقریباً 750 پیش از میلاد",
-      "architect": "طبیعت",
-      "constructor": "طبیعت",
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
       "description": "درخت سرو معطر ۲۷۷۰ ساله در روستای لار با تنه‌ای خوش‌بو که یکی از کهنسال‌ترین درختان ایران به شمار می‌آید."
     },
     {
       "name": "روستای مارین",
       "images": ["https://api2.kojaro.com/media/2018-11-9680f3f8-0529-4b73-9886-156eccf5c930-67c460fac1067c5ba764fdf4?w=1200&q=80"],
-      "year_built": "بسیار قدیمی، قدمت چند صد ساله",
-      "architect": "معماران بومی",
-      "constructor": "مردم محلی",
+      "year_built": "دوره هخامنشی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "روستایی تاریخی با بافت پلکانی زیبا، آب و هوای خوش و چشمه‌های طبیعی، که به ماسوله جنوب معروف شده است."
     },
     {
       "name": "آرامگاه بی بی حکیمه خاتون",
       "images": ["https://aftab.club/wp-content/uploads/47955.webp"],
-      "year_built": "دوره آل بویه (حدود قرن چهارم هجری)",
-      "architect": "معماران اسلامی",
-      "constructor": "معتقدان محلی و حکام دوره",
+      "year_built": "دوره آل بویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "آرامگاه دختر امام موسی کاظم (ع)، واقع در دل کوه‌های گچساران با گنبدی خاص، که زیارتگاه مردم منطقه و کشور است."
     },
     {
-      "name": "دیل (روستا)",
+      "name": "روستا دیل",
       "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dili_rosta.jpg/500px-Dili_rosta.jpg"],
-      "year_built": "قدمت چند هزار ساله، دوران ساسانیان",
-      "architect": "معماران بومی",
-      "constructor": "مردم محلی",
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "بزرگ‌ترین روستای بویراحمد گرمسیری با جاذبه‌های تاریخی همچون قلعه شاه بهمن و گنبدان گبر که قدمت آن‌ها به دوره ساسانیان بازمی‌گردد."
     }   
   ],

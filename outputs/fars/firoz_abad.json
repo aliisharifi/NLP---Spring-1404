@@ -23,9 +23,7 @@
         },
         {
             "name": "دریاچه ها",
-            "description": [
-                {"name": "", "images": []}
-            ]
+            "description": []
         },
         {
             "name": "پوشش گیاهی",
@@ -87,33 +85,33 @@
         {
             "name": "شهر گور",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D9%88_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg/500px-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D9%88_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg"],
-            "year_built": "224 میلادی",
-            "architect": "اردشیر بابکان",
-            "constructor": "ساسانیان",
+            "year_built": "224",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان",
             "description": "شهر دایره‌ای شکل ساسانی با معماری منحصر به فرد."
         },
         {
             "name": "کاخ اردشیر بابکان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Firozahur.jpg/500px-Firozahur.jpg"],
-            "year_built": "224 میلادی",
-            "architect": "ساسانیان",
+            "year_built": "224",
+            "architect": "نامشخص",
             "constructor": "اردشیر بابکان",
             "description": "کاخ ساسانی با معماری باشکوه و گنبدهای بزرگ."
         },
         {
             "name": "آبشار مارگون",
             "images": ["https://api2.kojaro.com/media/2022-9-c4fd4c21-e1b6-4721-973c-09c1c254e097-67c46111c1067c5ba76801ee?w=828&q=80"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "بلندترین آبشار طبیعی استان فارس."
         },
         {
             "name": "قلعه دختر",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ghaledokhtar_Firuzabad_Fars.jpg/500px-Ghaledokhtar_Firuzabad_Fars.jpg"],
-            "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "اردشیر ساسانی",
+            "year_built": "224",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان",
             "description": "قلعه‌ای مستحکم بر فراز کوه."
         }
     ],

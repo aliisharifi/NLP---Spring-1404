@@ -46,7 +46,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1050 متر از سطح دریا"]
+            "description": ["1000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -89,41 +89,41 @@
         {
             "name": "مسجد جامع جهرم",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AC%D9%87%D8%B1%D9%85_%D9%81%D8%A7%D8%B1%D8%B3.JPG/500px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AC%D9%87%D8%B1%D9%85_%D9%81%D8%A7%D8%B1%D8%B3.JPG"],
-            "year_built": "قرن ۷ هجری قمری",
-            "architect": "نامشخص (دوره ایلخانی)",
-            "constructor": "ایلخانیان",
+            "year_built": "دوره صفویه",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "یکی از قدیمی‌ترین مساجد استان فارس با معماری تاریخی."
         },
         {
             "name": "باغ تالار جهرم",
             "images": [],
             "year_built": "دوره قاجار",
-            "architect": "معماران قاجاری",
-            "constructor": "حاکمان محلی جهرم",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "باغی تاریخی با عمارتی زیبا و درختان کهنسال."
         },
         {
             "name": "آبگرم معدنی جهرم",
             "images": ["https://img9.irna.ir/old/Image/1395/13950819/82301363/N82301363-71159307.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "آبگرم با خواص درمانی و فضای طبیعی."
         },
         {
             "name": "قلعه گبری جهرم",
             "images": ["https://jahrom.ir/wp-content/uploads/2019/06/%DA%AF%D8%A8%D8%B1%DB%8C3.jpg"],
-            "year_built": "پیش از اسلام",
+            "year_built": "دوره ساسانی",
             "architect": "نامشخص",
-            "constructor": "ساسانیان یا پیش از آن",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی با معماری خشتی و گلی."
         },
         {
             "name": "امامزاده سلطان ابراهیم",
             "images": [],
-            "year_built": "قرن ۸ هجری قمری",
-            "architect": "معماران دوره تیموری",
-            "constructor": "تیموریان",
+            "year_built": "دوره ایلخانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "زیارتگاهی معروف با گنبدی فیروزه‌ای و معماری سنتی."
         }
     ],

@@ -66,7 +66,7 @@
     {
       "name": "ارتفاع",
       "description": [
-        "حدود 750 متر از سطح دریا"
+        "حدود 1280 متر از سطح دریا"
       ]
     },
     {
@@ -105,41 +105,41 @@
     {
       "name": "آبشار کمر دوغ",
       "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/آبشار-کمر_دوغ.jpg"],
-      "year_built": "نامشخص",
-      "architect": "طبیعت",
-      "constructor": "طبیعت",
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
       "description": "آبشار بلند و دیدنی نزدیک دهدشت در منطقه چاروسا."
     },
     {
         "name": "غار نزل",
         "images": ["https://mt-shahan.ir/wp-content/uploads/2023/07/nezel-14020430-7.jpg"],
-        "year_built": "میلیون‌ها سال پیش",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "غاری طبیعی در منطقه جوی خانه چرام، دارای دو حلقه چاه عمیق و مسیرهای ناشناخته که تاکنون تا عمق ۲۱۰ متر اکتشاف شده است."
       },
       {
         "name": "کاروانسرای دهدشت",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/IMG_%D8%A8%D9%84%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%D9%BE%D9%88%D8%B1_%D8%AF%D9%87%D8%AF%D8%B4%D8%AA_03.jpg/375px-IMG_%D8%A8%D9%84%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%D9%BE%D9%88%D8%B1_%D8%AF%D9%87%D8%AF%D8%B4%D8%AA_03.jpg"],
-        "year_built": "دوران صفوی (حدود قرن دهم هجری قمری)",
-        "architect": "معماران صفوی",
-        "constructor": "حکومت صفوی",
+        "year_built": "دوره صفوی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "کاروانسرایی تاریخی با ۳۸ حجره و معماری سنتی در بافت قدیمی دهدشت، ثبت شده در فهرست آثار ملی ایران."
       },
       {
         "name": "تنگ پیرزال",
         "images": ["https://static.cdn.asset.aparat.com/avt/29305823-4756-b__2078.jpg"],
-        "year_built": "تشکیل طبیعی، میلیون‌ها سال پیش",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "تنگه‌ای زیبا با طول ۴.۵ کیلومتر در دل کوه سیاه، دارای چشمه‌های فصلی، رودخانه‌های کوچک و چشم‌اندازهای زمین‌شناسی کم‌نظیر."
       },
       {
         "name": "آبشار آبریز",
         "images": ["https://cdn.isna.ir/d/2024/03/29/2/62974081.jpg?ts=1711735461579"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "آبشاری فصلی با سرچشمه‌ای از کوه نیر در منطقه دشمن‌زیاری که بهترین زمان بازدید آن از اسفند تا خرداد است."
       }
   ],

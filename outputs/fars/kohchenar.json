@@ -40,7 +40,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1600 متر از سطح دریا"]
+            "description": ["1800 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -82,25 +82,25 @@
         {
             "name": "نقش‌ برجسته تنگ قندیل",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sarab-e_Qandil_Panel_view.jpg/500px-Sarab-e_Qandil_Panel_view.jpg"],
-            "year_built": "دوره ساسانی (قرن 3 میلادی)",
-            "architect": "هنرمندان ساسانی",
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
             "constructor": "شاپور یکم ساسانی",
             "description": "نقش برجسته تاریخی از مراسم ازدواج شاپور یکم با ملکه آذرآناهید به همراه تصویر کرتیر موبد، از مهم‌ترین آثار ساسانی منطقه."
           },
           {
             "name": "غار کله‌کفتری",
             "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYKsxVTjzwbc2VSRzT_CxhYChYQo4G_aJKg&s"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "دومین غار عمودی استان فارس با 800 متر طول و 80 متر عمق در ارتفاعات جنوب شرقی قائمیه که برای غارنوردی مناسب است."
           },
           {
             "name": "چشمه آبگرم سراب بهرام",
             "images": ["https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2023/10/Sarab-Bahram-Lamard-hot-spring.jpg.webp"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "چشمه آبگرم معدنی با خواص درمانی در منطقه قائمیه که در میان طبیعت زیبای کوهپایه‌ای قرار دارد."
           }
     ],

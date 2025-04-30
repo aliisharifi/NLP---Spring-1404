@@ -33,7 +33,7 @@
     {
       "name": "ارتفاع",
       "description": [
-        "حدود ۱۷۰۰ متر از سطح دریا"
+        "1500 متر از سطح دریا"
       ]
     },
     {
@@ -68,33 +68,33 @@
     {
         "name": "چشمه ابوالمهدی",
         "images": ["https://toptourist.ir/wp-content/uploads/2020/08/a83deb44e24303664c2baeb2703437f9_536433.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "چشمه‌ای زلال و دائمی با آب شیرین که در دامنه‌های ارسنجان قرار دارد. این چشمه به دلیل آب گوارا و محیط سرسبز اطرافش، یکی از تفرجگاه‌های محبوب منطقه محسوب می‌شود."
       },
       {
         "name": "تنگه پیر چوپان",
         "images": ["https://lh3.googleusercontent.com/gps-cs-s/AC9h4noCPsjaOK-uchjQyX0vSiLZONvaGwys5AgEH7k6TqTP3FxxVJvs2Sh0ENt0UgzR3D-bAx9rtB9yqqp2So5lRyBqjAOegrjxOEKyrQIgP-VFZmIykgi7UA7m_Shwq56q0vxgZAF-DA=s1360-w1360-h1020-rw"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "تنگه‌ای زیبا با دیواره‌های بلند سنگی و پوشش گیاهی متنوع که مسیر پیاده‌روی مناسبی برای طبیعت‌گردان است. نام این تنگه از افسانه‌های محلی درباره یک چوپان مقدس گرفته شده است."
       },
       {
         "name": "قصر الدشت",
         "images": ["https://api2.kojaro.com/media/2024-9-e985beb6-3512-4688-bd23-9a40b4821183-67c46118c1067c5ba768d732?w=1200&q=80"],
         "year_built": "دوره قاجار",
-        "architect": "معماران قاجاری",
-        "constructor": "حاکمان محلی ارسنجان",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "عمارتی تاریخی مربوط به دوره قاجار که در گذشته محل اقامت حاکمان منطقه بوده است. این بنا با معماری سنتی و استفاده از مصالح محلی ساخته شده و اکنون نیازمند مرمت است."
       },
       {
         "name": "باغ قوام",
         "images": ["https://lh3.googleusercontent.com/gps-cs-s/AB5caB96JoIIGBdB8rOEGbEHYdmvG4js2wgu6k1NFaef2-5KDNSs0EO-sMsFfqINRyli3rDe77kWtWK1K0QzCg-I-K8GmDSPPAXKklC6tjbwn7Vqpvhrc_sg31OnW8Y6X8aqMWm-cUVr=w270-h312-n-k-no"],
-        "year_built": "دوره قاجار",
-        "architect": "معماران دوره قاجار",
-        "constructor": "خاندان قوام الملک",
+        "year_built": "1878",
+        "architect": "نامشخص",
+        "constructor": "علی‌محمدخان قوام‌الملک دوم",
         "description": "باغی تاریخی با درختان کهنسال و سیستم آبیاری سنتی که نمونه‌ای از باغ‌های ایرانی است. این باغ در گذشته محل پذیرایی از مهمانان حکومتی بوده و دارای عمارتی زیبا در میان باغ است."
     }
   ],

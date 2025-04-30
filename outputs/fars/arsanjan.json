@@ -12,7 +12,7 @@
     {
       "name": "کوه‌ها",
       "description": [
-        {"name": "کوه‌های قلات", "images": ["https://cdn.alibaba.ir/ostorage-ugc/resize/756x450/randd-threepio/766f3688b21ace97225ff70804f65bc78834d6974ce9cba0a85c033aad312203_original.jpg"]}
+        {"name": "کوه‌ قلات", "images": ["https://cdn.alibaba.ir/ostorage-ugc/resize/756x450/randd-threepio/766f3688b21ace97225ff70804f65bc78834d6974ce9cba0a85c033aad312203_original.jpg"]}
       ]
     },
     {
@@ -39,9 +39,7 @@
     },
     {
       "name": "ارتفاع",
-      "description": [
-        "حدود ۱۶۴۰ متر از سطح دریا"
-      ]
+      "description": ["1300 متر از سطح دریا"]
     },
     {
       "name": "توپوگرافی",
@@ -76,8 +74,8 @@
     {
         "name": "مدرسه سعیدیه ارسنجان",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C%D9%87_%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86.jpg/500px-%D9%85%D8%AF%D8%B1%D8%B3%D9%87_%D8%B3%D8%B9%DB%8C%D8%AF%DB%8C%D9%87_%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%D8%A7%D9%86.jpg"],
-        "year_built": "دوره صفوی (قرن 11 هجری قمری)",
-        "architect": "معماران دوره صفوی",
+        "year_built": "دوره صفوی",
+        "architect": "نامشخص",
         "constructor": "سعیدالدین ارسنجانی",
         "description": "مدرسه تاریخی با معماری اصیل صفوی که از مراکز علمی مهم منطقه بوده و دارای حجره‌های متعدد برای طلاب علوم دینی بوده است. این بنا با شماره ۱۸۰۲ در فهرست آثار ملی ثبت شده است."
     },
@@ -85,24 +83,24 @@
         "name": "سد دختر",
         "images": [],
         "year_built": "دوره ساسانی",
-        "architect": "مهندسان ساسانی",
-        "constructor": "ساسانیان",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "سد تاریخی با معماری خاص دوره ساسانی که از سنگ و ساروج ساخته شده و نشان دهنده دانش پیشرفته مهندسی آب در ایران باستان است. ارتفاع فعلی باقیمانده سد حدود ۱۵ متر است."
     },
     {
         "name": "غار سیده خاتون",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Eshkaft_khaton_1.jpg/500px-Eshkaft_khaton_1.jpg"],
-        "year_built": "پیش از تاریخ (۶۰-۷۰ هزار سال پیش)",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "غار طبیعی با پیشینه سکونت انسان‌های اولیه که در بررسی‌های باستان‌شناسی، ابزارهای سنگی و آثار زندگی مربوط به دوران پارینه‌سنگی در آن کشف شده است. این غار در فهرست میراث طبیعی ایران ثبت شده است."
     },
     {
         "name": "دریاچه طشک",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tashk_lake.jpg/500px-Tashk_lake.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "دریاچه‌ای فصلی با وسعت حدود ۸۰۰ کیلومتر مربع که زیستگاه مهم پرندگان مهاجر است و در کنار دریاچه بختگان قرار دارد. این دریاچه در سال‌های پرآب یکی از زیباترین مناظر طبیعی منطقه را ایجاد می‌کند."
     }
   ],

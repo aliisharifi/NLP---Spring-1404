@@ -38,7 +38,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1750 متر از سطح دریا"]
+            "description": ["1700 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -81,33 +81,33 @@
         {
             "name": "آبشار استهبان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abshare_Estahban.jpg/500px-Abshare_Estahban.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "آبشاری زیبا با مناظر بکر طبیعی در منطقه استهبان که در فصل بهار پرآب می‌شود."
         },
         {
             "name": "قلعه دختر استهبان",
             "images": ["https://api2.kojaro.com/media/67c460f3c1067c5ba7640a84?w=750&q=75"],
             "year_built": "دوره ساسانی",
-            "architect": "معماران ساسانی",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی بر فراز کوه با معماری سنگی و چشم‌اندازی از شهر استهبان."
         },
         {
             "name": "چنار هزارساله",
             "images": ["https://static0.parsine.com/servev2/YTc5ZgJNClbw/5Uwvb7W7Zm0,/file.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "درخت چنار کهنسال با عمری بیش از 1000 سال، از جاذبه‌های طبیعی منحصر به فرد استهبان."
         },
         {
             "name": "آتشکده قشنگ خوابی (قشم قاوی)",
             "images": [],
             "year_built": "دوره ساسانی",
-            "architect": "معماران ساسانی",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "آتشکده‌ای تاریخی از دوره ساسانیان در منطقه خیر که با معماری خاص خود توجه هر بیننده‌ای را جلب می‌کند."
         }
     ],

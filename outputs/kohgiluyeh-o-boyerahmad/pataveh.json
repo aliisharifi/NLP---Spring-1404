@@ -40,7 +40,8 @@
     {
       "name": "ارتفاع",
       "description": [
-        "مناطق مرتفع"
+        "مناطق مرتفع",
+        "2000 متر از سطح دریا"
       ]
     },
     {
@@ -76,17 +77,17 @@
     {
         "name": "غار دهشیخ",
         "images": ["https://media.karnaval.ir/uploads/2024/06/57b1f03d-fc69-4531-90b3-a2d86403e8c2.jpg?size=950"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": " این غارهفت دالان تودرتو و شش درب ورودی و خروجی دارد و گردشگران می‌توانند تنها با ورود از یک درب، وارد غار شوند."
     },
     {
         "name": "پل تاریخی پاتاوه",
         "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2023/11/shakhes-4.jpg"],
-        "year_built": "سلسله ساسانی",
-        "architect": "معماران ایرانی",
-        "constructor": "ساسانیان",
+        "year_built": "دوره ساسانی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "این پل تاریخی که در منطقه حفاظت شده دنا قرار دارد به منظور تسهیل در عبور و مرور کاروان ها ساخته شده است. به خاطر طراحی چشمگیر آجرکاری و طاق آن معروف است."
     }
   ],

@@ -37,7 +37,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["2000 متر از سطح دریا"]
+            "description": ["1700 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -62,7 +62,7 @@
             "description": [
                 "چشمه‌های آب معدنی",
                 "قنات‌های تاریخی",
-                "رودخانه آباده",
+                "رودخانه ها",
                 "آب‌های زیرزمینی"
             ]
         },
@@ -85,7 +85,7 @@
             "name": "کاروانسرای ایزدخواست",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Izadkhast_caravanserail_samanide.jpg/500px-Izadkhast_caravanserail_samanide.jpg"],
             "year_built": "دوره صفوی",
-            "architect": "معماران دوره صفوی",
+            "architect": "نامشخص",
             "constructor": "شاه عباس صفوی",
             "description": "کاروانسرای تاریخی با معماری صفوی."
         },
@@ -93,32 +93,32 @@
             "name": "دژ ایزدخواست",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Izadkhast_Fortress.jpg/1200px-Izadkhast_Fortress.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی بر فراز صخره‌های طبیعی."
         },
         {
             "name": "پل تاریخی ایزدخواست",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/%D9%BE%D9%84_%D8%A7%DB%8C%D8%B2%D8%AF%D8%AE%D9%88%D8%A7%D8%B3%D8%AA.jpg/500px-%D9%BE%D9%84_%D8%A7%DB%8C%D8%B2%D8%AF%D8%AE%D9%88%D8%A7%D8%B3%D8%AA.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "پلی تاریخی با معماری ساسانی."
         },
         {
             "name": "عمارت کلاه‌فرنگی آباده",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/%DA%A9%D9%84%D8%A7%D9%87_%D9%81%D8%B1%D9%86%DA%AF%DB%8C_%D8%A2%D8%A8%D8%A7%D8%AF%D9%87_2.jpg/500px-%DA%A9%D9%84%D8%A7%D9%87_%D9%81%D8%B1%D9%86%DA%AF%DB%8C_%D8%A2%D8%A8%D8%A7%D8%AF%D9%87_2.jpg"],
-            "year_built": "دوره قاجار (قرن 13 هجری قمری)",
-            "architect": "معماران قاجاری",
-            "constructor": "حاکمان محلی آباده در دوره قاجار",
+            "year_built": "دوره قاجار",
+            "architect": "برادران امامی و علی کاکا منصور",
+            "constructor": "عبدالوهاب",
             "description": "عمارتی تاریخی با معماری خاص دوره قاجار که به شکل کلاه فرنگی ساخته شده و امروزه به موزه مردم‌شناسی آباده تبدیل شده است."
         },
         {
             "name": "تیمچه صرافیان",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Timche_Sarafian_inside_2.jpg/250px-Timche_Sarafian_inside_2.jpg"],
-           "year_built": "دوره قاجار (قرن 13 هجری قمری)",
-            "architect": "معماران قاجاری",
-            "constructor": "تجار و صرافان محلی آباده",
+           "year_built": "دوره قاجار",
+            "architect": "رضا یزدی",
+            "constructor": "حاج محمد صادق لطفعلی‌خان",
             "description": "بازارچه تاریخی و سرپوشیده دوره قاجار که مرکز مبادلات تجاری و صرافی در آباده بوده است."
         }
     ],

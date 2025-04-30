@@ -62,7 +62,8 @@
     {
       "name": "ارتفاع",
       "description": [
-        "مناطق کوهستانی و دشتی"
+        "مناطق کوهستانی و دشتی",
+        "1050 متر از سطح دریا"
       ]
     },
     {
@@ -100,7 +101,7 @@
     {
         "name": "چاه تلخآب علیا",
         "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Chahtalkh.jpg/500px-Chahtalkh.jpg"],
-        "year_built": "۱۳۱۷",
+        "year_built": "1938",
         "architect": "نامشخص",
         "constructor": "نامشخص",
         "description": "روستایی با اصالت بختیاری و گویش لری جنوبی در شهرستان باشت."
@@ -108,7 +109,7 @@
     {
         "name": "روستای نیمدور",
         "images": [],
-        "year_built": "بیش از ۵۰۰ سال پیش",
+        "year_built": "1525",
         "architect": "نامشخص",
         "constructor": "نامشخص",
         "description": "روستایی پلکانی با باغ‌های میوه، چشمه‌سارها و آبشارهای زیبا."
@@ -124,32 +125,32 @@
       {
         "name": "مُزک",
         "images": ["https://www.eneshat.com/images/2018/01/mazdak-darta055.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "منطقه‌ای سرسبز و بکر با پوشش گیاهی خاص، مناسب برای گردشگران طبیعت‌دوست."
       },
       {
         "name": "سرابیز",
         "images": ["https://www.kebnanews.ir/images/docs/000408/n00408153-r-b-002.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "چشمه‌سارها و سرآب‌های طبیعی با آب زلال و فضای سرسبز."
       },
       {
         "name": "پارک ساحلی باشت",
         "images": ["https://sobhezagros.ir/images/2024/11/20241104110454_original_15.webp"],
-        "year_built": "۱۳۹۵",
-        "architect": "شهرداری باشت",
+        "year_built": "2016",
+        "architect": "نامشخص",
         "constructor": "شهرداری باشت",
         "description": "پارکی زیبا با فضای سبز کنار رودخانه، مناسب برای پیاده‌روی و پیک‌نیک."
       },
       {
         "name": "پارک باوی باشت",
         "images": ["https://s3.dana.ir/dana/uploads/23/11/1394/644914.jpg"],
-        "year_built": "۱۴۰۰",
-        "architect": "شهرداری باشت",
+        "year_built": "2021",
+        "architect": "نامشخص",
         "constructor": "شهرداری باشت",
         "description": "هفتمین پارک بزرگ شهر باشت با طراحی مدرن و فضای مناسب برای خانواده‌ها."
       }

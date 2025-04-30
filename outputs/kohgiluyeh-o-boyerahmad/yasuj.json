@@ -79,8 +79,7 @@
     {
       "name": "ارتفاع",
       "description": [
-        "قله دنا - 4409 متر",
-        "ناحیه لیشتر - 500 متر"
+        "1590 متر از سطح دریا"
       ]
     },
     {
@@ -124,9 +123,9 @@
     {
       "name": "آبشار یاسوج",
       "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/آبشار-یاسوج-1.jpg"],
-      "year_built": "نامشخص",
-      "architect": "طبیعت",
-      "constructor": "طبیعت",
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
       "description": "آبشاری طبیعی با ارتفاع حدود ۱۰ متر و زیبایی‌های باغی و چشمه‌ای."
     },
     {
@@ -140,15 +139,15 @@
     {
         "name": "پیست اسکی کاکان",
         "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/پیست-اسکی-دنا.jpg"],
-        "year_built": "معاصر",
+        "year_built": "1994",
         "architect": "نامشخص",
-        "constructor": "اداره کل میراث فرهنگی، گردشگری و صنایع دستی کهگیلویه و بویراحمد",
+        "constructor": "نامشخص",
         "description": "یکی از مهم‌ترین پیست‌های اسکی جنوب ایران، واقع در دامنه‌های زاگرس و در نزدیکی یاسوج."
     },
     {
         "name": "پارک ساحلی رود بشار",
         "images": ["https://www.iranhotelonline.com/blog/wp-content/uploads/2023/12/rood-bashar-yasooj-park-5.jpg"],
-        "year_built": "معاصر",
+        "year_built": "2014",
         "architect": "نامشخص",
         "constructor": "شهرداری یاسوج",
         "description": "پارک ساحلی بر روی رود بشار که در ورودی شهر یاسوج در قسمتی بنام ترمینال قرار دارد یکی از متنوع‌ترین و زیباترین اماکن تفریحی موجود در شهر یاسوج است."
@@ -156,17 +155,17 @@
     {
         "name": "تنگه مهریان",
         "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/07/%D8%AA%D9%86%DA%AF-%D9%85%D9%87%D8%B1%DB%8C%D8%A7%D9%86.jpg2_-585x439.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "این منطقه دارای طبیعت و درختان سرسبز و هوای فوق‌العاده بوده و مناسب کمپینگ و پیک‌نیک است."
     },
     {
         "name": "آبشار تنگ تامرادی",
         "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/07/%D8%AA%D9%86%DA%AF-%D9%85%D9%87%D8%B1%DB%8C%D8%A7%D9%86.jpg2_-585x439.jpg"],
-        "year_built": "نامشخص",
-        "architect": "طبیعت",
-        "constructor": "طبیعت",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "در ۲۶ کیلومتری جاده یاسوج به بابامیدان بعد از گذشتن از روستای دشتروم واقع است. در این تنگه جنگ تنگ تامرادی اتفاق افتاده است."
     }
   ],

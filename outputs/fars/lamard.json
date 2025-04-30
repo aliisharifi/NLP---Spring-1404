@@ -45,7 +45,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["500 متر از سطح دریا"]
+            "description": ["1000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -88,15 +88,15 @@
         {
             "name": "چشمه آبگرم اوباد",
             "images": ["https://cdn.balad.ir/crowd-images/all/original/25cf278ed6e2477eae3a71bd503d3bef-ei_1704360130760.jpg?x-img=v1/crop,x_38,y_0,w_1004,h_565/resize,h_225/format,type_webp,lossless_false/autorotate"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "چشمه آبگرم درمانی با خواص شفابخش برای بیماری‌های مفصلی که گردشگران داخلی و خارجی را جذب می‌کند. مساحت حوضچه کمتر از 100 مترمربع است."
         },
         {
             "name": "روستای لاورخشت",
             "images": [],
-            "year_built": "طبیعی/تاریخی",
+            "year_built": "",
             "architect": "مردم محلی",
             "constructor": "مردم محلی",
             "description": "جنوبی‌ترین روستای لامرد با طبیعت بکر، خاک حاصلخیز و آثار تاریخی که فرهنگ محلی را به نمایش می‌گذارد. در مسیر تنگ خور قرار دارد."
@@ -104,16 +104,16 @@
           {
             "name": "تنگ خور",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Tange_Khoor_Mount._Hadi_Karimi.jpg/500px-Tange_Khoor_Mount._Hadi_Karimi.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "منطقه‌ای خوش‌آب‌وهوا با نخلستان‌های زیبا، آب روان و اردوگاه شهید رجایی که برای پیاده‌روی و طبیعت‌گردی ایده‌آل است."
           },
           {
             "name": "مجموعه تاریخی علی‌خان اشکنان",
             "images": ["https://fa.tripyar.com/uploads/picture/3241/2.jpg"],
             "year_built": "دوره قاجار",
-            "architect": "معماران قاجاری",
+            "architect": "نامشخص",
             "constructor": "علی‌خان اشکنانی",
             "description": "مجموعه‌ای شامل مسجد با تزیینات گچبری و نقاشی چوبی، حمام سنتی و آب‌انبار که در فهرست آثار ملی ثبت شده است."
           }

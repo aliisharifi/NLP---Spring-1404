@@ -50,7 +50,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1500 تا 2000 متر از سطح دریا"]
+            "description": ["1500 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -93,31 +93,31 @@
         {
             "name": "حافظیه",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hafez_shirazi_07.jpg/500px-Hafez_shirazi_07.jpg"],
-            "year_built": "856",
-            "architect": "آندره گدار (طراحی فعلی)",
-            "constructor": "شاه ابوالقاسم اینجو (آرامگاه اصلی)",
+            "year_built": "1935",
+            "architect": "آندره گدار",
+            "constructor": "شاه ابوالقاسم اینجو",
             "description": "آرامگاه حافظ، شاعر بزرگ ایرانی، با معماری زیبا و فضای روح‌نواز."
         },
         {
             "name": "سعدیه",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sa%27diyeh.JPG/500px-Sa%27diyeh.JPG","https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/The_tomb_of_Saadi_1.jpg/500px-The_tomb_of_Saadi_1.jpg"],
-            "year_built": "691 (آرامگاه اصلی)، 1370 (ساخت فعلی)",
-            "architect": "محسن فروغی (طراحی فعلی)",
-            "constructor": "شاه شجاع (آرامگاه اصلی)",
+            "year_built": "1950",
+            "architect": "محسن فروغی",
+            "constructor": "شاه شجاع",
             "description": "آرامگاه سعدی، شاعر و نویسنده مشهور ایرانی، با معماری سنتی و باغ زیبا."
         },
         {
             "name": "ارگ کریم‌خانی",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Arg_of_Karim_Khan_in_Shiraz.jpg/1050px-Arg_of_Karim_Khan_in_Shiraz.jpg"],
-            "year_built": "1179",
-            "architect": "معماران زندیه",
+            "year_built": "1766",
+            "architect": "نامشخص",
             "constructor": "کریم‌خان زند",
             "description": "ارگی تاریخی با دیوارهای بلند و معماری دوره زندیه."
         },
         {
             "name": "باغ ارم",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/20170102_163941_HDR-01.jpg/500px-20170102_163941_HDR-01.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eram_Garden_By_Sogand_05.jpg/500px-Eram_Garden_By_Sogand_05.jpg"],
-            "year_built": "1215",
+            "year_built": "1893",
             "architect": "نصیر الملک شیرازی",
             "constructor": "جانی خان قشقایی و محمد قلی خان قشقایی",
             "description": "باغی تاریخی با درختان سرو و نارنج و عمارتی زیبا."
@@ -125,7 +125,7 @@
         {
             "name": "مسجد نصیرالملک",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nasir_Al_Molk_Mosque_HDR_Shot.jpg/500px-Nasir_Al_Molk_Mosque_HDR_Shot.jpg"],
-            "year_built": "1294",
+            "year_built": "1876",
             "architect": "میرزا رضا کاشی گر و حاج محمد حسن معمار",
             "constructor": "حسن علی نصیرالملک",
             "description": "مسجد صورتی شیراز با کاشی‌کاری و شیشه‌کاری منحصر به فرد."
@@ -133,23 +133,23 @@
         {
             "name": "مسجد وکیل",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Vakil_mosque_Panorama.jpg/500px-Vakil_mosque_Panorama.jpg"],
-            "year_built": "1187",
-            "architect": "معماران دوره زندیه",
+            "year_built": "1751",
+            "architect": "نامشخص",
             "constructor": "کریم‌خان زند",
             "description": "مسجد تاریخی دوره زندیه با معماری چشمگیر، کاشی‌کاری‌های زیبا و محراب سنگی یکپارچه."
         },
         {
             "name": "باغ عفیف‌آباد",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg/500px-%D8%B9%D9%81%DB%8C%D9%81%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_2.jpg"],
-            "year_built": "1323",
-            "architect": "معماران قاجاری",
+            "year_built": "1863",
+            "architect": "نامشخص",
             "constructor": "میرزا علی محمدخان قوام الملک دوم",
             "description": "یکی از زیباترین باغ‌های تاریخی شیراز با عمارت قاجاری، موزه نظامی و فضای سبز چشم‌نواز."
         },
         {
             "name": "دروازه قرآن",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Quran_Gate_881225_02T.jpg/500px-Quran_Gate_881225_02T.jpg"],
-            "year_built": "دوره دیلمیان (قرن 4 هجری)، بازسازی در 1368",
+            "year_built": "950",
             "architect": "بازسازی توسط حسین ایگار",
             "constructor": "عضدالدوله دیلمی",
             "description": "دروازه تاریخی ورودی شیراز با طاقی که قرآن بزرگی در آن قرار داشت، نماد مهم شهر شیراز."

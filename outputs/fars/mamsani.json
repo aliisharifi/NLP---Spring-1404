@@ -36,7 +36,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["1700 متر از سطح دریا"]
+            "description": ["1600 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -80,40 +80,40 @@
             "name": "قلعه دختر نورآباد",
             "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2021/09/04.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی بر فراز کوه با معماری ساسانی."
         },
         {
             "name": "تنگه بوان",
             "images": ["https://dobaresafar.ir/wp-content/uploads/2023/05/nourabad-bowman-strait.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "تنگه‌ای زیبا با دیواره‌های بلند و طبیعت بکر در استان فارس که مقصدی محبوب برای طبیعت‌گردان و کوهنوردان است."
         },
         {
             "name": "قلعه سفید",
             "images": ["https://files.virgool.io/upload/users/2913261/posts/luqzzgjpyfxz/qu7lcfczqx4h.jpg?width=640"],
             "year_built": "دوره ساسانی",
-            "architect": "معماران ساسانی",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "قلعه‌ای تاریخی با معماری سنگی که بر فراز تپه‌ای مشرف به منطقه ساخته شده و از آثار مهم تاریخی استان فارس محسوب می‌شود."
         },
         {
             "name": "لیدوما",
             "images": ["https://example.com/lidoma-1.jpg"],
-            "year_built": " سال پیش از میلاد",
-            "architect": "هخامنشیان",
-            "constructor": "هخامنشیان",
-            "description": "یدوما شهری تاریخی در زمان هخامنشیان بوده و قدمتش به ۵۵۰ سال پیش از میلاد می‌رسد."
+            "year_built": "550 سال پیش از میلاد",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "لیدوما شهری تاریخی در زمان هخامنشیان بوده و قدمتش به ۵۵۰ سال پیش از میلاد می‌رسد."
         },
         {
             "name": "هرایرز",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Iran.Fars-Harayeraz.jpg/500px-Iran.Fars-Harayeraz.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "منطقه‌ای سرسبز با رودخانه‌های فصلی، چشمه‌های دائمی و جنگل‌های بلوط تنومند که محیطی خنک و دل‌انگیز دارد."
         }
     ],

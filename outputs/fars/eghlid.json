@@ -47,7 +47,7 @@
         },
         {
             "name": "ارتفاع",
-            "description": ["2260 متر از سطح دریا"]
+            "description": ["2000 متر از سطح دریا"]
         },
         {
             "name": "توپوگرافی",
@@ -91,40 +91,40 @@
             "name": "حوضچه دختر گبر و کتیبه پهلوی",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hozche-Dokhtar-Gabr-sangneveshte-eghlid.jpg/500px-Hozche-Dokhtar-Gabr-sangneveshte-eghlid.jpg"],
             "year_built": "دوره ساسانی",
-            "architect": "ساسانیان",
-            "constructor": "ساسانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "حوضچه سنگی تراشیده شده در دل کوه با کتیبه‌ای به خط پهلوی ساسانی از آثار تاریخی مهم اقلید."
         },
         {
             "name": "دریاچه کافتر",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg/960px-Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "دریاچه‌ای آب شیرین به مساحت ۴۸ کیلومتر مربع و زیستگاه ارزشمند پرندگان مهاجر در جنوب شرقی اقلید."
         },
         {
             "name": "تنگ براق",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Iran_-_Pars_Province_-_Sadeh_-_Tang_Boragh_-_panoramio.jpg/500px-Iran_-_Pars_Province_-_Sadeh_-_Tang_Boragh_-_panoramio.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "دوره ساسانی",
+            "architect": "",
+            "constructor": "",
             "description": "تفرجگاه کوهستانی با پوشش گیاهی انبوه و کتیبه پهلوی ساسانی در ۸۰ کیلومتری جنوب اقلید."
         },
         {
             "name": "امامزاده سید محمد",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/7/75/Em.S.Kaftar.jpg"],
             "year_built": "دوره اسلامی",
-            "architect": "معماران محلی",
-            "constructor": "مردم منطقه",
+            "architect": "",
+            "constructor": "",
             "description": "بقعه متبرکه در کنار دریاچه کافتر با محیطی سرسبز و چشمه‌سارهای متعدد."
         },
         {
             "name": "چشمه محمد رسول‌الله",
             "images": ["https://gardeshgari724.com/upload/post/2019/04/b41e6971a7c2773-img-5ca8aaff6ee7f.jpg"],
-            "year_built": "نامشخص",
-            "architect": "طبیعت",
-            "constructor": "طبیعت",
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
             "description": "چشمه‌ای جوشان از زیر تپه سنگی که باغ‌های اطراف را آبیاری می‌کند و قبلاً به نام رودخانه شکاب معروف بود."
         }
     ],
