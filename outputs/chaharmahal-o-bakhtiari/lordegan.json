@@ -11,13 +11,13 @@
           {
             "name": "رود ارمند",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bazoft_River.jpg"
+              "https://api2.kojaro.com/media/2020-5-44403e81-03db-4ceb-b03c-2659080e02b1-67c46104c1067c5ba7667aee"
             ]
           },
           {
             "name": "رود خرسان",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/8/8e/Khersan_River.jpg"
+              "https://static.neshanmap.ir/places/images/817/1789283_7486860--%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B1%D8%B3%D8%A7%D9%86.jpeg"
             ]
           }
         ]
@@ -28,14 +28,12 @@
           {
             "name": "سبزکوه",
             "images": [
-              "https://example.com/images/sabzkooh.jpg"
+              "https://i1.delgarm.com/pic/750/0/1/images/news/a735/1393/04/14/sabzkuh/J1404555352.jpg"
             ]
           },
           {
             "name": "کوه ریگ",
-            "images": [
-              "https://example.com/images/kuh-rig.jpg"
-            ]
+            "images": []
           },
           {
             "name": "کوه سرخ",
@@ -45,19 +43,17 @@
           },
           {
             "name": "کوه دالان",
-            "images": [
-              "https://example.com/images/kuh-dalan.jpg"
-            ]
+            "images": []
           }
         ]
       },
       {
-        "name": "دریاچه‌ها و سدها",
+        "name": "دریاچه‌ها",
         "description": [
           {
             "name": "دریاچه پشت سد کارون ۴",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/4/4d/Karun4_Dam_Lake.jpg"
+              "https://cdn.mashreghnews.ir/d/2021/12/02/4/3328024.jpg"
             ]
           }
         ]
@@ -117,37 +113,37 @@
       {
         "name": "چشمه برم",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/2/2c/Cheshmeh_Beram.jpg"
+          "https://safarzon.com/mag/wp-content/uploads/2019/06/%DA%86%D8%B4%D9%85%D9%87-%D8%A8%D8%B1%D9%85-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-3.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "چشمه‌ای در مرکز شهر که علاوه بر تأمین آب، از سرچشمه‌های رود کارون به‌شمار می‌آید."
       },
       {
         "name": "آبشار آتشگاه",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/8/89/Atashgah_Waterfall.jpg"
+          "https://media.karnaval.ir/uploads/2020/06/75014e62-61b4-4866-aaf3-0109096b93e1.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "طولانی‌ترین آبشار ایران بر روی شاخه‌ای از رود کارون."
       },
       {
         "name": "دره تنگ زندان",
         "images": [
-          "https://example.com/images/tange-zendan.jpg"
+          "https://www.alibaba.ir/mag/wp-content/uploads/2022/08/Teng-Zendan-waterfall-28.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "دره‌ای صخره‌ای با چندین آبشار کوچک و مسیر صعب‌العبور."
       },
       {
         "name": "پارک جنگلی پروز",
         "images": [
-          "https://example.com/images/parvaz_forest_park.jpg"
+          "https://api2.kojaro.com/media/2020-5-ec4ab480-3b2a-439b-b15e-8a905b773b61-67c46104c1067c5ba7667ebb"
         ],
         "year_built": "۱۳۷۵",
         "architect": "شهرداری لردگان",

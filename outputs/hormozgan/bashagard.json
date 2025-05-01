@@ -7,14 +7,7 @@
     "geographical_features": [
       {
         "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه گاندیری",
-            "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/a/a5/Gandiri_River.jpg"
-            ]
-          }
-        ]
+        "description": []
       },
       {
         "name": "کوه‌ها",
@@ -22,7 +15,7 @@
           {
             "name": "رشته‌کوه بشاگرد (شرقی و غربی)",
             "images": [
-              "https://itto.org/iran/attraction/1181-Bashagard-Mountain/"
+              "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
             ]
           },
           {
@@ -94,18 +87,27 @@
       {
         "name": "کوه بشاگرد",
         "images": [
-          "https://itto.org/iran/attraction/1181-Bashagard-Mountain/"
+          "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
         ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "رشته‌کوه‌های بشاگرد با قله‌ی مهر و مناظری بکر."
       },
       {
         "name": "امامزاده سید نجم‌الدین (درکلاهو)",
         "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "زیارتگاهی در بخش گافر و پارمون و مقصد زائران محلی."
       },
       {
         "name": "تنگه شیرز",
         "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "دره‌ای با دیواره‌های صخره‌ای و چشمه‌های فصلی."
       }
     ],

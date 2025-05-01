@@ -11,7 +11,7 @@
           {
             "name": "خلیج عمان",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+              "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D8%B9%D9%85%D8%A7%D9%86#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Muttrah-Muscat_%D9%85%D8%B7%D8%B1%D8%AD%D8%8C_%D9%85%D8%B3%D9%82%D8%B7_30.jpg"
             ]
           }
         ]
@@ -22,13 +22,7 @@
           {
             "name": "رشته‌کوه بشاگرد",
             "images": [
-              "https://itto.org/iran/attraction/1181-Bashagard-Mountain/"
-            ]
-          },
-          {
-            "name": "کوه مهر",
-            "images": [
-              "https://itto.org/iran/attraction/1181-Bashagard-Mountain/"
+              "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
             ]
           }
         ]
@@ -36,7 +30,7 @@
       {
         "name": "پوشش گیاهی",
         "description": [
-          "جنگل‌های مانگرو (Avicennia marina)"
+          "جنگل‌های مانگرو"
         ]
       }
     ],
@@ -44,7 +38,7 @@
       {
         "name": "اقلیم",
         "description": [
-          "گرم بیابانی (BWh)",
+          "گرم بیابانی",
           "تابستان‌های بسیار داغ و زمستان‌های معتدل"
         ]
       },
@@ -82,22 +76,31 @@
       {
         "name": "سواحل خلیج عمان",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+          "https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C_%D8%B9%D9%85%D8%A7%D9%86#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Muttrah-Muscat_%D9%85%D8%B7%D8%B1%D8%AD%D8%8C_%D9%85%D8%B3%D9%82%D8%B7_30.jpg"
         ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "سواحل شنی و صخره‌ای مناسب برای شنا و تفریحات آبی."
       },
       {
         "name": "جنگل حرا",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hara_Forest_Qeshm_Island.jpg"
+          "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
         ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "تورهای طبیعت‌گردی در جنگل‌های مانگرو کنار ساحل."
       },
       {
         "name": "رشته‌کوه بشاگرد",
         "images": [
-          "https://itto.org/iran/attraction/1181-Bashagard-Mountain/"
+          "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
         ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "مسیرهای پیاده‌روی و صعود به قله‌های ۲۰۰۰ متری."
       }
     ],

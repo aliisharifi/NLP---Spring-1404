@@ -11,7 +11,7 @@
           {
             "name": "رود میناب",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:Minab_River"
+              "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8_%28%D8%B1%D9%88%D8%AF%29#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:%D9%86%D9%85%D8%A7%DB%8C_%D8%B4%D9%87%D8%B1.jpg"
             ]
           }
         ]
@@ -39,7 +39,7 @@
           {
             "name": "جنگل‌های مانگرو",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hara_Forest_Qeshm_Island.jpg"
+              "https://www.irna.ir/sd/14d28d2f60ea1dc49a3ddaf83fd56dad898fe4be4cd300ee07948f2902ba7b2ebf5f0e75f93c0525f49442c583f687c8.jpg"
             ]
           }
         ]
@@ -111,12 +111,18 @@
     "tourist_attractions": [
       {
         "name": "قلعه هزارِه (بیتی مینُو)",
-        "images": [],
+        "images": ["https://simayemakran.ir/wp-content/uploads/2020/12/%D9%82%D9%84%D8%B9%D9%87%D9%87%D8%B2%D8%A7%D8%B1%D9%87%D9%85%DB%8C%D9%86%D8%A7%D8%A8-1100x700.jpg"],
+        "year_built": "هزاره یکم پیش از میلاد",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "بقایای دژی ساسانی در ورودی شهر که با افسانه‌های محلی دو خواهر (بیتی مینو و بیتی نازنین) مرتبط است."
       },
       {
         "name": "بازار پنجشنبه",
         "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "بازاری هفتگی با فروش صنایع دستی، ماهی و میوه‌های گرمسیری."
       }
     ],

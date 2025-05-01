@@ -11,7 +11,7 @@
           {
             "name": "رود خرسان",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:رودخانه_در_کهکیلویه_و_بویراحمد_-_panoramio_(1).jpg"
+              "https://static.neshanmap.ir/places/images/817/1789283_7486860--%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B1%D8%B3%D8%A7%D9%86.jpeg"
             ]
           }
         ]
@@ -21,31 +21,29 @@
         "description": [
           {
             "name": "کوه چوبین",
-            "images": [
-              "https://commons.wikimedia.org/wiki/File:Kuh-e_Chubin.jpg"
-            ]
+            "images": []
           },
           {
             "name": "قله هفت‌تنان",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:Haft_Tanan_Peak.jpg"
+              "https://ghajer.com/assets/image/upload/photo_2017-05-16_08-23-42.jpg"
             ]
           },
           {
             "name": "زردکوه (شاخه‌ای از زاگرس)",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:Zard-Kuh.jpg"
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_of_Zardkuh.jpg/1024px-View_of_Zardkuh.jpg"
             ]
           }
         ]
       },
       {
-        "name": "دریاچه‌ها و چشمه‌ها",
+        "name": "دریاچه‌ها",
         "description": [
           {
             "name": "چشمه دیمه",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:Dimeh_Spring_2019-08-19_01.jpg"
+              "https://media.karnaval.ir/uploads/2020/08/e465dd6b-bfe8-4efe-927c-426d07162290.jpg"
             ]
           }
         ]
@@ -102,9 +100,7 @@
     "tourist_attractions": [
       {
         "name": "بازار تاریخی فارسان",
-        "images": [
-          "https://commons.wikimedia.org/wiki/File:قلعه_چالشتر.jpg"
-        ],
+        "images": [],
         "year_built": "قاجار",
         "architect": "نامشخص",
         "constructor": "نامشخص",
@@ -112,9 +108,7 @@
       },
       {
         "name": "پارک جنگلی کوه چوبین",
-        "images": [
-          "https://commons.wikimedia.org/wiki/File:Kuh-e_Chubin.jpg"
-        ],
+        "images": [],
         "year_built": "۱۳۷۰",
         "architect": "شهرداری فارسان",
         "constructor": "شهرداری فارسان",
@@ -123,11 +117,11 @@
       {
         "name": "چشمه دیمه",
         "images": [
-          "https://commons.wikimedia.org/wiki/File:Dimeh_Spring_2019-08-19_01.jpg"
+          "https://media.karnaval.ir/uploads/2020/08/e465dd6b-bfe8-4efe-927c-426d07162290.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "چشمه‌ای با آب زلال و هوای مطبوع که در ۱۵ کیلومتری مرکز شهر قرار دارد."
       }
     ],

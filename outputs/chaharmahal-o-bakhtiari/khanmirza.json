@@ -11,7 +11,7 @@
           {
             "name": "رود ارمند",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:WV_banner_Chaharmahal_and_Bakhtiari_province_Armand_River.jpg"
+              "https://api2.kojaro.com/media/2020-5-44403e81-03db-4ceb-b03c-2659080e02b1-67c46104c1067c5ba7667aee"
             ]
           }
         ]
@@ -22,23 +22,23 @@
           {
             "name": "رشته‌کوه زاگرس",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:Zagros_Mountains.jpg"
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
             ]
           },
           {
             "name": "رشته‌کوه زردکوه",
             "images": [
-              "https://commons.wikimedia.org/wiki/File:View_of_Zardkuh.jpg"
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_of_Zardkuh.jpg/1024px-View_of_Zardkuh.jpg"
             ]
           }
         ]
       },
       {
-        "name": "دریاچه‌ها و تالاب‌ها",
+        "name": "دریاچه‌ها",
         "description": [
           {
             "name": "تالاب آلونی",
-            "images": []
+            "images": ["https://aftab.club/wp-content/uploads/57773-300x200.webp"]
           }
         ]
       },
@@ -99,47 +99,39 @@
     "tourist_attractions": [
       {
         "name": "تالاب آلونی",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "images": ["https://aftab.club/wp-content/uploads/57773-300x200.webp"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "تالابی ثبت‌شده در کنوانسیون رامسر و زیستگاه پرندگان مهاجر."
       },
       {
         "name": "رود ارمند (رفتینگ)",
         "images": [
-          "https://commons.wikimedia.org/wiki/File:WV_banner_Chaharmahal_and_Bakhtiari_province_Armand_River.jpg"
+          "https://api2.kojaro.com/media/2020-5-44403e81-03db-4ceb-b03c-2659080e02b1-67c46104c1067c5ba7667aee"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "مناسب برای ورزش رفتینگ و قایقرانی در دل کوهستان."
       },
       {
         "name": "تنگه حفاظت‌شده رحیم‌آباد",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "images": ["https://reiseniran.de/wp-content/uploads/2021/06/%D8%AA%D9%86%DA%AF%D9%87-%DA%86%D8%A7%DA%A9%D8%B1%D9%88%D8%AF-%D8%B1%D9%88%D8%AF%D8%B3%D8%B1-819x1024.jpeg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "دره‌ای بکر با دیواره‌های سنگی و مسیرهای پیاده‌روی."
       },
       {
         "name": "منطقه حفاظت‌شده سبزکوه بختیاری",
         "images": [
-          "https://commons.wikimedia.org/wiki/File:View_of_Zardkuh.jpg"
+          "https://i1.delgarm.com/images/news/a735/1393/04/14/sabzkuh/J1404555352.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "محیطی حفاظتی برای گونه‌های جنگل بلوط و جانوران بومی."
-      },
-      {
-        "name": "طبیعت بکر پاسگاه بردبلند کلاموئی",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
-        "description": "منطقه‌ای حفاظت‌شده با چشمه‌ها و چشم‌اندازهای کوهستانی."
       }
     ],
     "additional_info": {

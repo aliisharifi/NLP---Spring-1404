@@ -11,13 +11,13 @@
           {
             "name": "خلیج فارس",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/c/ca/Persian_Gulf.jpg"
+              "https://img9.irna.ir/d/r2/2020/02/18/4/156976610.jpg"
             ]
           },
           {
             "name": "تنگه هرمز",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/0/07/Strait_of_Hormuz.png"
+              "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stra%C3%9Fe_von_Hormuz.jpg"
             ]
           }
         ]
@@ -27,7 +27,7 @@
         "description": [
           {
             "name": "کوه حلواء",
-            "images": []
+            "images": ["https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%AD%D9%84%D9%88%D8%A7#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Halva_hill,_Abu_Musa.jpg"]
           }
         ]
       },
@@ -94,16 +94,25 @@
       {
         "name": "سواحل بکر ابوموسی",
         "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "سواحل شنی و صخره‌ای مناسب شنا و آفتاب‌گیری."
       },
       {
         "name": "غواصی و آبزی‌نگاری",
         "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "تنوع زیستی دریایی شامل لاک‌پشت، دلفین و مرجان‌ها."
       },
       {
         "name": "سایت‌های باستان‌شناسی",
         "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "آثار سفال و ابزار سنگی از دوره ساسانی تا اسلامی."
       }
     ],

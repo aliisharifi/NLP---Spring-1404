@@ -11,7 +11,7 @@
           {
             "name": "رود شور",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bandar_Abbas_Shoor_River.jpg"
+              "https://img9.irna.ir/d/r1/2019/10/02/3/156669001.jpg"
             ]
           }
         ]
@@ -22,24 +22,18 @@
           {
             "name": "کوه گنو",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/3/3e/Mt_Geno_Bandar_Abbas.jpg"
-            ]
-          },
-          {
-            "name": "کوه پولادی",
-            "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/1/14/Mt_Pooladi.jpg"
+              "https://mrbilit.com/mag/wp-content/uploads/2021/01/3-119.jpg"
             ]
           }
         ]
       },
       {
-        "name": "تالاب‌ها و جنگل‌های حرا",
+        "name": "تالاب‌ها",
         "description": [
           {
             "name": "جنگل‌های حرا (جزیره قشم)",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hara_Forest_Qeshm_Island.jpg"
+              "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
             ]
           }
         ]
@@ -56,7 +50,7 @@
       {
         "name": "اقلیم",
         "description": [
-          "بیابانی گرم (BWh)",
+          "بیابانی گرم",
           "رطوبت بالا"
         ]
       },
@@ -101,26 +95,27 @@
       {
         "name": "قلعه پرتغالی جزیره هرمز",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/3/3c/Fort_of_Our_Lady_of_the_Conception_Hormuz.jpg"
+          "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/03/%D8%B9%DA%A9%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5.jpg"
         ],
-        "year_built": "۱۵۰۷",
+        "year_built": "1507",
         "architect": "آلفونسو د آلبوکرک",
         "constructor": "نیروی نظامی پرتغال",
         "description": "یکی از برجای‌مانده‌ترین آثار استعمار پرتغال در خلیج فارس." 
       },
       {
         "name": "بازار سنتی بندرعباس",
-        "images": [
-          "https://surfiran.com/images/bazaar-bandar-abbas.jpg"
-        ],
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "بازاری قدیمی در بلوار طالقانی با انواع صنایع دستی، ادویه و سوغات محلی."
       },
       {
         "name": "معبد ویشنو (هندوها)",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/5/53/Vishnu_Temple_Bandar_Abbas.jpg"
+          "https://safarmarket.com/blog/data/uploaded_files/a5ac544aceb2414dcecccb2c.jpg"
         ],
-        "year_built": "۱۸۹۲",
+        "year_built": "1892",
         "architect": "جامعه هندی مهاجر",
         "constructor": "تاجران هندی",
         "description": "معبد تاریخی اختصاص‌یافته به خدای ویشنو که توسط هندوهای مقیم ساخته شده."

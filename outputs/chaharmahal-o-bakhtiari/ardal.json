@@ -10,7 +10,9 @@
         "description": [
           {
             "name": "رود خرسان",
-            "images": []
+            "images": [
+              "https://static.neshanmap.ir/places/images/817/1789283_7486860--%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B1%D8%B3%D8%A7%D9%86.jpeg"
+            ]
           }
         ]
       },
@@ -20,23 +22,19 @@
           {
             "name": "رشته‌کوه زاگرس",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
             ]
-          },
-          {
-            "name": "بلندترین قله پیرامون (۳ کیلومتری شمال‌شرقی)",
-            "images": []
           }
         ]
       },
       {
-        "name": "دریاچه‌ها و چشمه‌ها",
+        "name": "دریاچه‌ها",
         "description": []
       },
       {
         "name": "پوشش گیاهی",
         "description": [
-          "جنگل‌های بلوط زاگرس (Quercus brantii)",
+          "جنگل‌های بلوط زاگرس",
           "مراتع کوهستانی"
         ]
       }
@@ -52,7 +50,7 @@
       {
         "name": "ارتفاع",
         "description": [
-          "۱٬۶۹۲ متر"
+          "۱۶۹۲ متر"
         ]
       },
       {
@@ -91,24 +89,24 @@
       {
         "name": "آبشار زردلیمه",
         "images": [
-          "https://commons.wikimedia.org/wiki/File:Zarde_Limeh_waterfalls.jpg"
+          "https://www.alibaba.ir/mag/wp-content/uploads/2022/07/zard-lime-waterfall-1.jpg"
         ],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "یکی از بزرگ‌ترین آبشارهای استان، عرض ۶۵ متر و ارتفاع ۴۰ متر."
       },
       {
         "name": "آبشار درهٔ عشق",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "images": ["https://safarzon.com/mag/wp-content/uploads/2019/06/%D8%AF%D8%B1%D9%87-%D8%B9%D8%B4%D9%82-%D8%B4%D8%A7%D8%AE%D8%B5.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "آبشاری بلند در درهٔ سرسبز با چندین ریزآبشار."
       },
       {
         "name": "قلعه اردل",
-        "images": [],
+        "images": ["https://cdn.yjc.ir/files/fa/news/1399/2/17/11848386_506.jpg"],
         "year_built": "دوره قاجار",
         "architect": "نامشخص",
         "constructor": "نامشخص",
@@ -116,7 +114,7 @@
       },
       {
         "name": "پل بهشت‌آباد",
-        "images": [],
+        "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/11/2-98.jpg"],
         "year_built": "دوره قاجار",
         "architect": "نامشخص",
         "constructor": "نامشخص",
@@ -124,18 +122,18 @@
       },
       {
         "name": "پارک جنگلی هلن",
-        "images": [],
-        "year_built": "۱۳۷۵",
+        "images": ["https://api2.kojaro.com/media/2020-5-0f800663-6cd7-4f5f-b048-9b2869a412a4-67c46104c1067c5ba76683e6?w=1920&q=80"],
+        "year_built": "1996",
         "architect": "شهرداری اردل",
         "constructor": "شهرداری اردل",
         "description": "پارکی جنگلی با مسیرهای پیاده‌روی و چشم‌انداز کوهستان."
       },
       {
         "name": "چشمه سردآب رستم‌آباد",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "images": ["https://hamsafarshim.ir/wp-content/uploads/2024/08/6KONCGlgWMIFCx-649bf3d9ccef403687fc424972ab9482.webp"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "چشمه‌ای با آب بسیار سرد در روستای رستم‌آباد."
       }
     ],

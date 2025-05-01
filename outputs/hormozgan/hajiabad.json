@@ -10,11 +10,11 @@
         "description": [
           {
             "name": "آبشار تزرج",
-            "images": []
+            "images": ["https://www.vilajar.com/Dashboard/GetArticleImage/21220"]
           },
           {
             "name": "چشمه سبزپوشان",
-            "images": []
+            "images": ["https://kojachetor.com/wp-content/uploads/2025/01/sabz-pooshan-spring-6.jpg"]
           }
         ]
       },
@@ -23,11 +23,11 @@
         "description": [
           {
             "name": "کوه هماگ",
-            "images": []
+            "images": ["https://img9.irna.ir/d/r2/2019/11/25/3/156781743.jpg"]
           },
           {
             "name": "رشته‌کوه زاگرس",
-            "images": []
+            "images": ["https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"]
           }
         ]
       },
@@ -86,18 +86,18 @@
     "tourist_attractions": [
       {
         "name": "قلعه تاریخی حاجی‌آباد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
+        "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/04/5-24.jpg"],
+        "year_built": "دوره‌های ایلخانی، تیموری، و صفوی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "قلعه‌ای مربوط به دوره ایلخانیان تا صفویه که با شمارهٔ ۷۲۷۱ در آثار ملی ایران ثبت شده است."
       },
       {
         "name": "منطقه حفاظت‌شده هماگ",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
+        "images": ["https://img9.irna.ir/d/r2/2019/11/25/3/156781743.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "بلندترین ارتفاع استان هرمزگان با تنوع زیستی فراوان و اقلیم معتدل کوهستانی."
       }
     ],

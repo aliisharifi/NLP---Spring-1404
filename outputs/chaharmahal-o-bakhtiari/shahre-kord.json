@@ -11,25 +11,25 @@
           {
             "name": "رود کارون",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/3/3f/Karun_River_Zard_Kuh.jpg"
+              "https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1395/06/23/139506231235511958647884.jpg"
             ]
           },
           {
             "name": "رود بازفت",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/5/5a/Bazoft_River.jpg"
+              "https://anyja.ir/assets/upload/blog/AR-194-1400-1-11-13-50-lpz4p.jpg"
             ]
           },
           {
-            "name": "رود آرماند",
+            "name": "رود ارمند",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/8/8b/Armand_River.jpg"
+              "https://api2.kojaro.com/media/2020-5-44403e81-03db-4ceb-b03c-2659080e02b1-67c46104c1067c5ba7667aee"
             ]
           },
           {
             "name": "چشمه کوهرنگ",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/2/2e/Koohrang_Spring.jpg"
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Koohrang_2.jpg/1024px-Koohrang_2.jpg"
             ]
           }
         ]
@@ -40,19 +40,19 @@
           {
             "name": "کوه زردکوه",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/7/7a/Zard_Kuh.jpg"
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_of_Zardkuh.jpg/1024px-View_of_Zardkuh.jpg"
             ]
           },
           {
             "name": "کوه‌های زاگرس",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/1/1b/Zagros_Mountains.jpg"
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
             ]
           },
           {
             "name": "کوه جهان‌بین",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/4/44/Jahanbin_Mountains.jpg"
+              "https://api2.kojaro.com/media/2017-12-920893b0-8546-490d-b8e7-1e876b16eca0-67c460eac1067c5ba762e18e"
             ]
           }
         ]
@@ -63,13 +63,13 @@
           {
             "name": "تالاب چغاخور",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/a/a3/Choghakhor_Wetland.jpg"
+              "https://www.eligasht.com/Blog/wp-content/uploads/2018/04/%D8%AA%D8%A7%D9%84%D8%A7%D8%A8-%DA%86%D8%BA%D8%A7%D8%BA%D8%AE%D9%88%D8%B1.jpg"
             ]
           },
           {
             "name": "دریاچه سد زاینده‌رود",
             "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/d/dd/Zayanderud_Dam_Lake.jpg"
+              "https://www.alaedin.travel/Files/Jazebe/chadegan/zayanderud-dam-in-chadegan/Alaedin-Travel-Agency-Attraction-Dam-Zayanderud-Chadegan-1.jpg"
             ]
           }
         ]
@@ -133,9 +133,9 @@
       {
         "name": "پل زمان‌خان",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zaman_Khan_Bridge.jpg"
+          "https://media.karnaval.ir/uploads/2017/08/zamankhan-bridge1.jpg"
         ],
-        "year_built": "نامشخص",
+        "year_built": "دوره صفوی",
         "architect": "نامشخص",
         "constructor": "نامشخص",
         "description": "پل تاریخی بر روی رودخانه زاینده‌رود با چشم‌انداز کوهستانی."
@@ -143,51 +143,43 @@
       {
         "name": "قلعه چالشتر",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/c/cc/Chaleshtor_Castle.jpg"
+          "https://www.alaedin.travel/Files/Jazebe/shahrekord/chaleshtar-village-in-shahrekord/Alaedin-Travel-chaleshtar-village-in-shahrekord-1.jpg"
         ],
-        "year_built": "نامشخص",
+        "year_built": "دوره قاجار",
         "architect": "نامشخص",
-        "constructor": "نامشخص",
+        "constructor": "محمدرضا خان چالشتری",
         "description": "قلعه باستانی واقع در روستای چالشتر با معماری دیدنی."
       },
       {
         "name": "پارک ملت",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mellat_Park_Shahrekord.jpg"
-        ],
+        "images": [],
         "year_built": "نامشخص",
         "architect": "نامشخص",
-        "constructor": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "پارکی سرسبز در مرکز شهرکرد با امکانات تفریحی."
       },
       {
         "name": "امامزاده حکیمه خاتون",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/3/35/Hakimeh_Khatun_Shrine.jpg"
-        ],
-        "year_built": "نامشخص",
+        "images": [],
+        "year_built": "دوره تیموری",
         "architect": "نامشخص",
         "constructor": "نامشخص",
         "description": "بقعه متبرک در حومه شهرکرد مورد احترام مردم."
       },
       {
         "name": "میدان فردوسی",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ferdowsi_Square_Shahrekord.jpg"
-        ],
+        "images": [],
         "year_built": "نامشخص",
         "architect": "نامشخص",
-        "constructor": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "میدان مرکزی با مجسمه شاعر بزرگ ایران."
       },
       {
         "name": "پارک لاله",
-        "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/2/2d/Laleh_Park_Shahrekord.jpg"
-        ],
+        "images": [],
         "year_built": "نامشخص",
         "architect": "نامشخص",
-        "constructor": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
         "description": "پارکی کوچک و دنج در بخش شمالی شهر."
       }
     ],
