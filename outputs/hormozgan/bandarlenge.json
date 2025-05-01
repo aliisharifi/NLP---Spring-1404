@@ -1,0 +1,131 @@
+{
+  "title": "ویژگی‌های جغرافیایی بندرلنگه",
+  "location": {
+    "province": "هرمزگان",
+    "city": "بندرلنگه"
+  },
+  "geographical_features": [
+    {
+      "name": "سواحل",
+      "description": [
+        {
+          "name": "خلیج فارس",
+          "images": [
+            "https://img9.irna.ir/d/r2/2020/02/18/4/156976610.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "جزایر نزدیک",
+      "description": [
+        {
+          "name": "جزیره قشم",
+          "images": [
+            "https://jainjas.com/storage/Images/Blog/1/17bbc13c8eab431e9e9e59d970904a85.jpg"
+          ]
+        },
+        {
+          "name": "جزیره لارک",
+          "images": [
+            "https://www.snapptrip.com/blog/wp-content/uploads/2023/06/%D9%84%D8%A7%D8%B1%DA%A9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های حرا (مانگرو)",
+        "نخل‌ستان‌های ساحلی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و بیابانی"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "متوسط ۱۸ متر (از −۵ تا ۷۲ متر)"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت ساحلی مسطح",
+        "تپه‌های شنی کم‌ارتفاع"
+      ]
+    },
+    {
+      "name": "زمین‌شناسی",
+      "description": [
+        "رسوبات ماسه‌ای و صخره‌های آهکی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "ماهی‌گیری و شیلات",
+      "description": [
+        "صید ماهی و میگو",
+        "تجارت دریایی"
+      ]
+    },
+    {
+      "name": "کشاورزی",
+      "description": [
+        "نخل‌کاری و تولید خرما"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "عمارت فکری",
+      "images": [
+        "https://api2.kojaro.com/media/2017-7-d5eac4d4-6965-4008-b7d2-bedfde3b6fe8-67c460dbc1067c5ba7610d24"
+      ],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "عبدالواحد فکری",
+      "description": "بنایی تاریخی با پلان متقارن و تالار مرکزی." 
+    },
+    {
+      "name": "قلعه لشتان",
+      "images": [
+        "https://borna.news/files/fa/news/1401/1/12/2333460_211.jpg"
+      ],
+      "year_built": "قرن ۹ هجری",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای سنگی در ۶ کیلومتری شرق شهر." 
+    },
+    {
+      "name": "پارک ساحلی کوثر",
+      "images": [
+        "https://static.neshanmap.ir/places/images/a01/653733_2105234--%D9%BE%D8%A7%D8%B1%DA%A9-%D8%B3%D8%A7%D8%AD%D9%84%DB%8C-%DA%A9%D9%88%D8%AB%D8%B1.jpeg"
+      ],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "پارکی ساحلی با امکانات تفریحی و تفریح‌های آبی." 
+    },
+    {
+      "name": "جزیره مارو",
+      "images": [
+        "https://www.mysafar.com/mag/wp-content/uploads/2025/03/%D8%B9%DA%A9%D8%B3-1-1024x576.webp"
+      ],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جزیره‌ای بکر با آب‌های زلال و صخره‌های مرجانی." 
+    }
+  ],
+  "additional_info": {
+    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+  }
+}

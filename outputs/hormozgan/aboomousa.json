@@ -1,0 +1,123 @@
+{
+    "title": "ویژگی‌های جغرافیایی ابوموسی",
+    "location": {
+      "province": "هرمزگان",
+      "city": "ابوموسی"
+    },
+    "geographical_features": [
+      {
+        "name": "دریا و تنگه‌ها",
+        "description": [
+          {
+            "name": "خلیج فارس",
+            "images": [
+              "https://img9.irna.ir/d/r2/2020/02/18/4/156976610.jpg"
+            ]
+          },
+          {
+            "name": "تنگه هرمز",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stra%C3%9Fe_von_Hormuz.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه حلواء",
+            "images": ["https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D9%87_%D8%AD%D9%84%D9%88%D8%A7#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:Halva_hill,_Abu_Musa.jpg"]
+          }
+        ]
+      },
+      {
+        "name": "ژئوساخت",
+        "description": [
+          "گنبد نمکی ابوموسی",
+          "رخدادهای هالوکینتیک و دیاپیر شور"
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "گیاهان مقاوم به شوری در حاشیه سواحل"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بسیار گرم و بیابانی",
+          "بارش بسیار اندک"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "متوسط ۴۶ متر",
+          "بیشینه ۱۱۰ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "ساحل مسطح",
+          "فلات‌های کوچک سنگلاخی"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "دیادپیرهای نمکی",
+          "چینه‌های رسوبی میوسن – پلیوژن"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "اکسید سرخ",
+          "میدان‌های نفتی کوچک"
+        ]
+      },
+      {
+        "name": "منابع دریایی",
+        "description": [
+          "صید ماهی و میگو"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "سواحل بکر ابوموسی",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
+        "description": "سواحل شنی و صخره‌ای مناسب شنا و آفتاب‌گیری."
+      },
+      {
+        "name": "غواصی و آبزی‌نگاری",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
+        "description": "تنوع زیستی دریایی شامل لاک‌پشت، دلفین و مرجان‌ها."
+      },
+      {
+        "name": "سایت‌های باستان‌شناسی",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "شهرداری شهرکرد",
+        "description": "آثار سفال و ابزار سنگی از دوره ساسانی تا اسلامی."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

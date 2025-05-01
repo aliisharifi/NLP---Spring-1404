@@ -1,0 +1,168 @@
+{
+    "title": "ویژگی‌های جغرافیایی بندر خمیر",
+    "location": {
+      "province": "هرمزگان",
+      "city": "بندر خمیر"
+    },
+    "geographical_features": [
+      {
+        "name": "دریا و تالاب‌ها",
+        "description": [
+          {
+            "name": "خلیج فارس",
+            "images": [
+              "https://img9.irna.ir/d/r2/2020/02/18/4/156976610.jpg"
+            ]
+          },
+          {
+            "name": "تالاب خورخوران",
+            "images": [
+              "https://kite.ir/UploadData/Other/SHAKHES.jpg_wnz0ptu0.d3c.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "جنگل‌ها",
+        "description": [
+          {
+            "name": "جنگل‌های حرا (مانگرو)",
+            "images": [
+              "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "گنبدهای نمکی",
+        "description": [
+          {
+            "name": "گنبدهای نمکی بندر خمیر",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "چشمه‌ها",
+        "description": [
+          {
+            "name": "چشمه آبگرم لاشتان",
+            "images": []
+          },
+          {
+            "name": "چشمه آبگرم سیاکوش",
+            "images": []
+          }
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "گرم بیابانی"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۱۶ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت ساحلی کم‌ارتفاع",
+          "فلات‌های کوچک سنگلاخی"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "گنبد نمکی و حوضچه‌های شور"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "خلیج فارس",
+          "تالاب خورخوران",
+          "جنگل‌های حرا",
+          "چشمه‌های آبگرم"
+        ]
+      },
+      {
+        "name": "منابع دریایی",
+        "description": [
+          "شیلات و آبزی‌پروری"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "جنگل‌های حرا",
+        "images": [
+          "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "مانگروهای گسترده در سواحل بندرخمیر و تالاب خورخوران."
+      },
+      {
+        "name": "تالاب خورخوران",
+        "images": [
+          "https://kite.ir/UploadData/Other/SHAKHES.jpg_wnz0ptu0.d3c.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بزرگ‌ترین تالاب خاورمیانه و زیستگاه گونه‌های متعدد پرنده."
+      },
+      {
+        "name": "چشمه آبگرم لاشتان",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چشمه‌ای درمانی در فاصلهٔ ۷ کیلومتری شرق شهر با استخرهای طبیعی." 
+      },
+      {
+        "name": "چشمه آبگرم سیاکوش",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چشمه‌ای طبیعی با غارهای کوچک و آبشارهای ریز در اطراف."
+      },
+      {
+        "name": "گنبدهای نمکی",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "گنبدهای رنگارنگ نمکی که منظره‌ای چشم‌نواز ایجاد کرده‌اند."
+      },
+      {
+        "name": "قلعه تاریخی بندر خمیر",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "description": "قلعه‌ای قدیمی بر فراز تپه با دید پانورامای خلیج فارس."
+      },
+      {
+        "name": "پل لاتیدان",
+        "images": [],
+        "year_built": "دوره صفوی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "بلندترین پل تاریخی ایران از دورهٔ صفوی بر روی رود لاتیدان."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

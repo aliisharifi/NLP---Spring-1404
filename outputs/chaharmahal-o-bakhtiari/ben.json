@@ -1,0 +1,102 @@
+{
+    "title": "ویژگی‌های جغرافیایی بن",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "بن"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود زاینده‌رود",
+            "images": [
+              "https://bayanbox.ir/view/203491992807905413/BEN-Pictures-260.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
+            ]
+          },
+          {
+            "name": "زردکوه",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_of_Zardkuh.jpg/1024px-View_of_Zardkuh.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "گونه‌های گیاهی دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "کوهستانی",
+          "تابستان‌های خنک و زمستان‌های سرد"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۲۲۲۸ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "رشته‌کوه‌های بلند",
+          "دره‌های عمیق"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "ساختار چین‌خورده کوهستانی",
+          "گسل‌های فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "رودخانه زاینده‌رود",
+          "چشمه‌های زیرزمینی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "گرداب بن",
+        "images": [
+          "https://media.mehrnews.com/old/Larg1/1392/01/11/IMG12320341.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چرخش طبیعی آب در سطح رودخانه زاینده‌رود که مناظری کم‌نظیر ایجاد می‌کند."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

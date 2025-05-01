@@ -1,0 +1,128 @@
+{
+    "title": "ویژگی‌های جغرافیایی بندرعباس",
+    "location": {
+      "province": "هرمزگان",
+      "city": "بندرعباس"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود شور",
+            "images": [
+              "https://img9.irna.ir/d/r1/2019/10/02/3/156669001.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه گنو",
+            "images": [
+              "https://mrbilit.com/mag/wp-content/uploads/2021/01/3-119.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "تالاب‌ها",
+        "description": [
+          {
+            "name": "جنگل‌های حرا (جزیره قشم)",
+            "images": [
+              "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "نخل‌ستان‌های ساحلی",
+          "جنگل‌های حرا"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بیابانی گرم",
+          "رطوبت بالا"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۹ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت ساحلی",
+          "کوه‌های مجاور"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "رسوبات دریایی",
+          "سواحل ماسه‌ای"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "خلیج فارس و دریای عمان",
+          "رود شور"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "کائولین",
+          "اورانیوم (معدن گوشین)"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "قلعه پرتغالی جزیره هرمز",
+        "images": [
+          "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/03/%D8%B9%DA%A9%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5.jpg"
+        ],
+        "year_built": "1507",
+        "architect": "آلفونسو د آلبوکرک",
+        "constructor": "نیروی نظامی پرتغال",
+        "description": "یکی از برجای‌مانده‌ترین آثار استعمار پرتغال در خلیج فارس." 
+      },
+      {
+        "name": "بازار سنتی بندرعباس",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "بازاری قدیمی در بلوار طالقانی با انواع صنایع دستی، ادویه و سوغات محلی."
+      },
+      {
+        "name": "معبد ویشنو (هندوها)",
+        "images": [
+          "https://safarmarket.com/blog/data/uploaded_files/a5ac544aceb2414dcecccb2c.jpg"
+        ],
+        "year_built": "1892",
+        "architect": "جامعه هندی مهاجر",
+        "constructor": "تاجران هندی",
+        "description": "معبد تاریخی اختصاص‌یافته به خدای ویشنو که توسط هندوهای مقیم ساخته شده."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

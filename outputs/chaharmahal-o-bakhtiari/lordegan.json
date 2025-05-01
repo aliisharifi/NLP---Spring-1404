@@ -1,0 +1,158 @@
+{
+    "title": "ویژگی‌های جغرافیایی لردگان",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "لردگان"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود ارمند",
+            "images": [
+              "https://api2.kojaro.com/media/2020-5-44403e81-03db-4ceb-b03c-2659080e02b1-67c46104c1067c5ba7667aee"
+            ]
+          },
+          {
+            "name": "رود خرسان",
+            "images": [
+              "https://static.neshanmap.ir/places/images/817/1789283_7486860--%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B1%D8%B3%D8%A7%D9%86.jpeg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "سبزکوه",
+            "images": [
+              "https://i1.delgarm.com/pic/750/0/1/images/news/a735/1393/04/14/sabzkuh/J1404555352.jpg"
+            ]
+          },
+          {
+            "name": "کوه ریگ",
+            "images": []
+          },
+          {
+            "name": "کوه سرخ",
+            "images": [
+              "https://example.com/images/kuh-sorkh.jpg"
+            ]
+          },
+          {
+            "name": "کوه دالان",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها",
+        "description": [
+          {
+            "name": "دریاچه پشت سد کارون ۴",
+            "images": [
+              "https://cdn.mashreghnews.ir/d/2021/12/02/4/3328024.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "زالزالک",
+          "بن (پسته وحشی)",
+          "گیاهان دارویی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": ["نیمه‌مرطوب گرم با زمستان‌های نیمه‌سرد"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۱۷۶۴ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت نسبتاً مسطح میان رشته‌کوه زاگرس",
+          "دره‌های عمیق",
+          "فلات‌های کوتاه"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "ساختار چین‌خورده زاگرس",
+          "گسل‌های فعال"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "چشمه برم",
+          "رودخانه‌های فصلی",
+          "سد کارون ۴"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "میدان‌های نفتی (۳۵٬۰۰۰ بشکه/روز)"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "چشمه برم",
+        "images": [
+          "https://safarzon.com/mag/wp-content/uploads/2019/06/%DA%86%D8%B4%D9%85%D9%87-%D8%A8%D8%B1%D9%85-%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86-3.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چشمه‌ای در مرکز شهر که علاوه بر تأمین آب، از سرچشمه‌های رود کارون به‌شمار می‌آید."
+      },
+      {
+        "name": "آبشار آتشگاه",
+        "images": [
+          "https://media.karnaval.ir/uploads/2020/06/75014e62-61b4-4866-aaf3-0109096b93e1.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "طولانی‌ترین آبشار ایران بر روی شاخه‌ای از رود کارون."
+      },
+      {
+        "name": "دره تنگ زندان",
+        "images": [
+          "https://www.alibaba.ir/mag/wp-content/uploads/2022/08/Teng-Zendan-waterfall-28.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "دره‌ای صخره‌ای با چندین آبشار کوچک و مسیر صعب‌العبور."
+      },
+      {
+        "name": "پارک جنگلی پروز",
+        "images": [
+          "https://api2.kojaro.com/media/2020-5-ec4ab480-3b2a-439b-b15e-8a905b773b61-67c46104c1067c5ba7667ebb"
+        ],
+        "year_built": "۱۳۷۵",
+        "architect": "شهرداری لردگان",
+        "constructor": "شهرداری لردگان",
+        "description": "پارکی جنگلی با امکانات گردشگری در نزدیکی شهر."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

@@ -1,0 +1,144 @@
+{
+    "title": "ویژگی‌های جغرافیایی اردل",
+    "location": {
+      "province": "چهارمحال و بختیاری",
+      "city": "اردل"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود خرسان",
+            "images": [
+              "https://static.neshanmap.ir/places/images/817/1789283_7486860--%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AE%D8%B1%D8%B3%D8%A7%D9%86.jpeg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های بلوط زاگرس",
+          "مراتع کوهستانی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "تابستان‌های گرم و خشک",
+          "زمستان‌های بسیار سرد و برفی"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۱۶۹۲ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "زمین‌لرزه و چین‌خوردگی زاگرس",
+          "فلات‌های کوهستانی"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "گسل‌های فعال زاگرس",
+          "چینه‌های رسوبی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "چشمه‌های فصلی و آب‌های زیرزمینی",
+          "رود خرسان"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ گچ",
+          "پیرولوزیت",
+          "سنگ‌های تزئینی"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "آبشار زردلیمه",
+        "images": [
+          "https://www.alibaba.ir/mag/wp-content/uploads/2022/07/zard-lime-waterfall-1.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "یکی از بزرگ‌ترین آبشارهای استان، عرض ۶۵ متر و ارتفاع ۴۰ متر."
+      },
+      {
+        "name": "آبشار درهٔ عشق",
+        "images": ["https://safarzon.com/mag/wp-content/uploads/2019/06/%D8%AF%D8%B1%D9%87-%D8%B9%D8%B4%D9%82-%D8%B4%D8%A7%D8%AE%D8%B5.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "آبشاری بلند در درهٔ سرسبز با چندین ریزآبشار."
+      },
+      {
+        "name": "قلعه اردل",
+        "images": ["https://cdn.yjc.ir/files/fa/news/1399/2/17/11848386_506.jpg"],
+        "year_built": "دوره قاجار",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "قلعه‌ای تاریخی متعلق به سلسله قاجار."
+      },
+      {
+        "name": "پل بهشت‌آباد",
+        "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/11/2-98.jpg"],
+        "year_built": "دوره قاجار",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "پل سنگی تاریخی بر روی یکی از انشعابات رود خرسان."
+      },
+      {
+        "name": "پارک جنگلی هلن",
+        "images": ["https://api2.kojaro.com/media/2020-5-0f800663-6cd7-4f5f-b048-9b2869a412a4-67c46104c1067c5ba76683e6?w=1920&q=80"],
+        "year_built": "1996",
+        "architect": "شهرداری اردل",
+        "constructor": "شهرداری اردل",
+        "description": "پارکی جنگلی با مسیرهای پیاده‌روی و چشم‌انداز کوهستان."
+      },
+      {
+        "name": "چشمه سردآب رستم‌آباد",
+        "images": ["https://hamsafarshim.ir/wp-content/uploads/2024/08/6KONCGlgWMIFCx-649bf3d9ccef403687fc424972ab9482.webp"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چشمه‌ای با آب بسیار سرد در روستای رستم‌آباد."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

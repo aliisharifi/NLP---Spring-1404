@@ -1,0 +1,118 @@
+{
+    "title": "ویژگی‌های جغرافیایی بشاگرد",
+    "location": {
+      "province": "هرمزگان",
+      "city": "سردشت"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": []
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "رشته‌کوه بشاگرد (شرقی و غربی)",
+            "images": [
+              "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
+            ]
+          },
+          {
+            "name": "کوه مهر",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "باغ‌های خرما و مرکبات",
+          "آلوچه وحشی",
+          "بادام تلخ",
+          "پسته وحشی",
+          "زیره"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "زمستان‌های سرد",
+          "تابستان‌های گرم و خشک"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "متوسط ۷۲۷ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "رشته‌کوه‌های تند زاگرس",
+          "دره‌های عمیق"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "سنگ‌های رسوبی کرتاسه",
+          "گنبدهای نمکی منطقه"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "محصولات کشاورزی",
+        "description": [
+          "سیر",
+          "خرما",
+          "انار",
+          "انجیر",
+          "عسل وحشی"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "ذخایر سنگ مرمر",
+          "سنگ تزئینی"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "کوه بشاگرد",
+        "images": [
+          "https://iranjob118.com/wp-content/uploads/2023/03/1-704.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "رشته‌کوه‌های بشاگرد با قله‌ی مهر و مناظری بکر."
+      },
+      {
+        "name": "امامزاده سید نجم‌الدین (درکلاهو)",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "زیارتگاهی در بخش گافر و پارمون و مقصد زائران محلی."
+      },
+      {
+        "name": "تنگه شیرز",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "دره‌ای با دیواره‌های صخره‌ای و چشمه‌های فصلی."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

@@ -1,0 +1,149 @@
+{
+    "title": "ویژگی‌های جغرافیایی قشم",
+    "location": {
+      "province": "هرمزگان",
+      "city": "قشم"
+    },
+    "geographical_features": [
+      {
+        "name": "دریا و تنگه‌ها",
+        "description": [
+          {
+            "name": "خلیج فارس",
+            "images": [
+              "https://img9.irna.ir/d/r2/2020/02/18/4/156976610.jpg"
+            ]
+          },
+          {
+            "name": "تنگه هرمز",
+            "images": [
+              "https://upload.wikimedia.org/wikipedia/commons/c/cf/Stra%C3%9Fe_von_Hormuz.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه کیش‌کوه",
+            "images": []
+          },
+          {
+            "name": "رشته‌کوه زاگرس",
+            "images": [
+              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "حجم سنگی و غارها",
+        "description": [
+          {
+            "name": "غار نمکدان",
+            "images": [
+              "https://www.alibaba.ir/mag/wp-content/uploads/2021/10/00002.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "جنگل‌های حرا (مانگرو)",
+          "گیاهان ساحلی"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": ["گرم و بیابانی"]
+      },
+      {
+        "name": "ارتفاع",
+        "description": ["۰–۳۹۷ متر"]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "فلات‌های سنگلاخی",
+          "تپه‌های چین‌خورده"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "ژئومرفولوژی زاگرس پلئو–پلیستوسن",
+          "گنبدهای نمکی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": ["آب خلیج فارس", "آب شور نمکدان"]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": ["نمک", "نفت و گاز دریایی"]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "غار نمکدان",
+        "images": [
+          "https://www.alibaba.ir/mag/wp-content/uploads/2021/10/00002.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "غاری با گنبدهای عظیم نمکی در جنوب جزیره."
+      },
+      {
+        "name": "دره چاه‌کوه",
+        "images": [
+          "https://www.snapptrip.com/blog/wp-content/uploads/2018/10/%D8%AF%D8%B1%D9%87-%DA%86%D8%A7%D9%87%DA%A9%D9%88%D9%87.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "دره‌ای با دیواره‌های شیارخورده توسط فرسایش باران."
+      },
+      {
+        "name": "درّهٔ ستارگان",
+        "images": [
+          "https://www.alibaba.ir/mag/wp-content/uploads/2020/03/01.jpg"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "لایه‌های خاکی فرسایشی که اشکال ستاره‌ای ایجاد کرده‌اند."
+      },
+      {
+        "name": "قلعه پرتغالی",
+        "images": [
+          "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/03/%D8%B9%DA%A9%D8%B3-%D8%B4%D8%A7%D8%AE%D8%B5.jpg"
+        ],
+        "year_built": "دوره صفوی",
+        "architect": "",
+        "constructor": "",
+        "description": "بازمانده استقرار پرتغالی‌ها در خلیج فارس."
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "images": [
+          "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+        ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "مانگروهای گسترده با گونه Avicennia marina."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  

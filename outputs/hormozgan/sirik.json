@@ -1,0 +1,127 @@
+{
+    "title": "ویژگی‌های جغرافیایی سیریک",
+    "location": {
+      "province": "هرمزگان",
+      "city": "بندر سیریک"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "رود میناب",
+            "images": [
+              "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%86%D8%A7%D8%A8_%28%D8%B1%D9%88%D8%AF%29#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:%D9%86%D9%85%D8%A7%DB%8C_%D8%B4%D9%87%D8%B1.jpg"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "description": [
+          {
+            "name": "هرا (مانگرو)",
+            "images": [
+              "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "پوشش گیاهی ساحلی",
+        "description": [
+          "Avicennia marina",
+          "گونه‌های شورپسند"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "بیابانی گرم",
+          "بارش سالانه ۱۰۰–۳۰۰ میلی‌متر"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "۱۴۸ متر"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت ساحلی کم‌ارتفاع",
+          "تپه‌های ماسه‌ای",
+          "شیب‌های ملایم رشته‌کوه‌های زاگرس"
+        ]
+      },
+      {
+        "name": "زمین‌شناسی",
+        "description": [
+          "رسوبات ساحلی",
+          "گنبدهای نمکی"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "آبزی‌پروری",
+        "description": [
+          "صیادی خلیج فارس",
+          "پرورش میگو"
+        ]
+      },
+      {
+        "name": "جنگل‌های حرا",
+        "description": [
+          "اکوسیستم حفاظت‌شده تالاب غار هرا"
+        ]
+      },
+      {
+        "name": "منابع معدنی ساحلی",
+        "description": [
+          "ذخایر نمک",
+          "رسوبات گل‌ماسه"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "تورهای قایق‌سواری در جنگل حرا",
+        "images": [
+          "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
+        ],
+        "description": "قایق‌سواری در میان درختان مانگرو و مشاهده جانوران دریایی."
+      },
+      {
+        "name": "سواحل شنی بندر سیریک",
+        "images": ["https://cdn.donya-e-eqtesad.com/thumbnail/m5TZPUQa9cub/QHn8O9nsSzT8qCU7RegsN6Pbb5v74eEtbKeSOh05RaY2X_e9Hxpfokt7TZyzEhnm/%D8%B9%DA%A9%D8%B3+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AE%D8%A8%D8%B1+%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C+%D8%A8%D9%86%D8%AF%D8%B1%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9+copy.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "سواحلی تمیز با ماسه‌های طلایی و چشم‌انداز خلیج فارس."
+      },
+      {
+        "name": "غارها و دره‌های ساحلی",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "کشف غارهای پنهان و دره‌های صخره‌ای در امتداد ساحل."
+      },
+      {
+        "name": "بندر چندمنظوره سیریک",
+        "images": ["https://cdn.tinn.ir/thumbnail/63kBACABvfID/U7Ccvlt33jn-OqlMlImgutVLjEcw-jhlF2WJsSK4fMDDVSZN8IEX4Zd7jkGxwBqLJ5jM-fGYwhs1w24HZ1koLIrZGHouzfjA/%D8%A8%D9%86%D8%AF%D8%B1+%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9+.jpg"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "بندی برای تجارت و گردشگری با زیرساخت‌های نوین."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  
