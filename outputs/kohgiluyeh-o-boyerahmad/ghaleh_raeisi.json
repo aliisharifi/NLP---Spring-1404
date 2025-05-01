@@ -1,0 +1,103 @@
+{
+  "title": "ویژگی‌های جغرافیایی قلعه رئیسی",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "قلعه رئیسی"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه برفکان",
+          "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط زاگرسی",
+        "گیاهان مرتعی",
+        "بنه و بادام کوهی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "کوهستانی-معتدل"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": ["1500 متر از سطح دریا"]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "ارتفاعات و دره‌های عمیق"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های زاگرس",
+        "سنگ‌های آهکی و رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی",
+        "رودخانه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "آبشار چاروسا",
+      "images": ["https://jazebeha.com/wp-content/uploads/2019/05/2-1.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "بخش چاروسا با وجود جنگل‌ها و منابع طبیعی که دارد یکی از زیباترین و پرجاذبه‌ترین مناطق گردشگری استان کهگیلویه و بویراحمد است."
+    },
+    {
+        "name": "آبشار کمر دوغ",
+        "images": ["https://jazebeha.com/wp-content/uploads/2019/05/%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%DA%A9%D9%85%D8%B1%D8%AF%D9%88%D8%BA_4.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "آبشار زیبای کمردوغ نزدیک به ۱۰۰ متر ارتفاع و بیش از ۶۰ متر عرض دارد."
+      },
+      {
+        "name": "بقعه امامزاده شهسوار",
+        "images": ["https://jazebeha.com/wp-content/uploads/2019/05/30837.jpg"],
+        "year_built": "دوره صفویه",
+        "architect": "نامشخص",
+        "constructor": "کلانتر وقت منطقه در دوره زندیه",
+        "description": "بقعه امامزاده شهسوار در روستای جاورده چاروسا، با قدمتی از دوره زندیه و گنبد مخروطی گچی، یکی از اماکن مذهبی تاریخی شهرستان کهگیلویه است که در قبرستان قدیمی این روستا واقع شده و مورد احترام مردم منطقه می‌باشد."
+      }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/قلعه_رئیسی"
+  }
+}

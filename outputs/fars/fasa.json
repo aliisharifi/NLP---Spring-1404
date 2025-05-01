@@ -1,0 +1,130 @@
+{
+    "title": "ویژگی‌های جغرافیایی فسا",
+    "location": {
+        "province": "فارس",
+        "city": "فسا"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه خرمن", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kharmankooh_pas_az_baran-88_-_panoramio.jpg/1200px-Kharmankooh_pas_az_baran-88_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان گز و کنار",
+                "گیاهان مقاوم به خشکی",
+                "درختان پسته وحشی",
+                "گل‌های وحشی فصل بهار"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و نیمه‌خشک", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1000 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم‌ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "سنگ‌های رسوبی",
+                "گسل‌های فعال"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چشمه‌های آب معدنی",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ گچ",
+                "سنگ آهک",
+                "نمک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "تپه ملیان",
+            "images": ["https://api2.kojaro.com/media/2019-11-8e4a8660-ed0e-4c33-8d83-f2fd19821574-67c46100c1067c5ba765ef1c?w=828&q=80"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "محوطه‌ای تاریخی مربوط به دوران پیش از اسلام با آثاری از تمدن عیلام."
+        },
+        {
+            "name": "مسجد جامع فسا",
+            "images": ["https://media.shabestan.news/old/fa/Original/1402/01/02/IMG12262794.jpg"],
+            "year_built": "دوره ایلخانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "مسجدی تاریخی با معماری سنتی و کتیبه‌های قدیمی."
+        },
+        {
+            "name": "آتشکده فسا",
+            "images": [],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "آتشکده‌ای باستانی با معماری دوره ساسانی."
+        },
+        {
+            "name": "پارک جنگلی فسا",
+            "images": [],
+            "year_built": "2024",
+            "architect": "نانشخص",
+            "constructor": "شهرداری فسا",
+            "description": "پارکی جنگلی با فضای سبز و امکانات تفریحی."
+        },
+        {
+            "name": "امامزاده اسماعیل",
+            "images": ["blob:https://farsnews.ir/b5c0c68e-9516-49db-90f7-eb5e3288a505"],
+            "year_built": "دوره ایلخانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "زیارتگاهی معروف با گنبدی فیروزه‌ای و معماری سنتی."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D9%81%D8%B3%D8%A7",
+            "https://fa.wikipedia.org/wiki/%D8%B2%D8%A7%D9%87%D8%AF%D8%B4%D9%87%D8%B1",
+            "https://fa.wikipedia.org/wiki/%D9%82%D8%B1%D9%87%E2%80%8C%D8%A8%D9%84%D8%A7%D8%BA_(%D9%81%D8%B3%D8%A7)",
+            "https://fa.wikipedia.org/wiki/%D8%B4%D8%B4%D8%AF%D9%87",
+            "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%A7%D9%86%E2%80%8C%D8%B4%D9%87%D8%B1",
+            "https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%A8%D9%86%D8%AF%DA%AF%D8%A7%D9%86"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

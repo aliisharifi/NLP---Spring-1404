@@ -1,0 +1,121 @@
+{
+    "title": "ویژگی‌های جغرافیایی کوار",
+    "location": {
+        "province": "فارس",
+        "city": "کوار"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه قره آغاج", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sassanian-Era_Bridge%2C_Iran.jpg/500px-Sassanian-Era_Bridge%2C_Iran.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه سپیدار", "images": ["https://api2.kojaro.com/media/2018-4-b4e84494-5495-4523-9a7c-0c9ff883d451-67c460f0c1067c5ba763ad94?w=828&q=80"]}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان پسته وحشی",
+                "گیاهان دارویی مانند آویشن",
+                "درختان گز",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1500 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه ها",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "سیلیس"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "مجموعه آبنارنگ",
+            "images": [],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "مجموعه‌ای از چشمه‌ها و آبشارهای طبیعی با مناظر بکر در منطقه کوار که محیطی خنک و دل‌انگیز دارد."
+        },
+        {
+            "name": "زیارتگاه خضر نبی",
+            "images": ["https://cdn.tabnak.ir/files/fa/news/1390/3/19/97128_476.jpg"],
+            "year_built": "دوره اسلامی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "زیارتگاه و تفرجگاهی در کوار که علاوه بر جنبه مذهبی، دارای چشمه و طبیعت زیبایی است و محل دفن یک شهید گمنام نیز می‌باشد."
+        },
+        {
+            "name": "قبرستان تاریخی اکبرآباد",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": "نامشخص",
+            "constructor": "مردم اکبرآباد",
+            "description": "قبرستانی تاریخی از دوره قاجار که در سال 1386 با شماره 19715 در فهرست آثار ملی ایران به ثبت رسیده است."
+        },
+        {
+            "name": "امامزاده شاهزاده ابوالقاسم",
+            "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/07/2-20.jpg"],
+            "year_built": "دوره اسلامی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "مشهورترین زیارتگاه کوار که به نواده امام موسی کاظم(ع) منسوب است و در دامنه کوه مشرف به دشت کوار قرار دارد."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%DA%A9%D9%88%D8%A7%D8%B1",
+        "https://fa.wikipedia.org/wiki/%D8%A7%DA%A9%D8%A8%D8%B1%D8%A2%D8%A8%D8%A7%D8%AF_(%DA%A9%D9%88%D8%A7%D8%B1)"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

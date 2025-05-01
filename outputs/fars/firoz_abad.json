@@ -1,0 +1,125 @@
+{
+    "title": "ویژگی‌های جغرافیایی فیروزآباد",
+    "location": {
+        "province": "فارس",
+        "city": "فیروزآباد"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه آتشگاه", "images": []},
+                {"name": "رودخانه فیروزآباد", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Firuzabad_River_%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF_-_panoramio.jpg/500px-Firuzabad_River_%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه تنگاب", "images": ["https://api2.kojaro.com/media/2018-4-80e0793c-920e-45dd-93bf-b01554d3cb4c-67c460f0c1067c5ba763adec?w=384&q=80"]},
+                {"name": "کوه سپیدار", "images": ["https://api2.kojaro.com/media/2018-4-b4e84494-5495-4523-9a7c-0c9ff883d451-67c460f0c1067c5ba763ad94?w=828&q=80"]},
+                {"name": "کوه پادنا", "images": ["https://cdn.yjc.ir/files/fa/news/1396/11/29/7597354_122.jpg"]},
+                {"name": "کوه قلات", "images": ["https://cdn.alibaba.ir/ostorage-ugc/resize/190x140/randd-threepio/f6b92c67a9a0b1891fc75f23e83700a416514566d5bd77c6b1419b7798ef550c_original.jpg"]}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان بنه و بادام کوهی",
+                "گیاهان دارویی مانند آویشن",
+                "درختان کنار",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1300 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "دره‌های عمیق"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب گرم",
+                "قنات‌های تاریخی",
+                "رودخانه فیروزآباد",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "شهر گور",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D9%88_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg/500px-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D9%85%D9%86%D8%A7%D8%B1%D9%87_%D9%88_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A7%DB%8C%D8%B1%D9%87_%D8%A7%DB%8C_%DA%AF%D9%88%D8%B1.jpg"],
+            "year_built": "224",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان",
+            "description": "شهر دایره‌ای شکل ساسانی با معماری منحصر به فرد."
+        },
+        {
+            "name": "کاخ اردشیر بابکان",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Firozahur.jpg/500px-Firozahur.jpg"],
+            "year_built": "224",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان",
+            "description": "کاخ ساسانی با معماری باشکوه و گنبدهای بزرگ."
+        },
+        {
+            "name": "آبشار مارگون",
+            "images": ["https://api2.kojaro.com/media/2022-9-c4fd4c21-e1b6-4721-973c-09c1c254e097-67c46111c1067c5ba76801ee?w=828&q=80"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "بلندترین آبشار طبیعی استان فارس."
+        },
+        {
+            "name": "قلعه دختر",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Ghaledokhtar_Firuzabad_Fars.jpg/500px-Ghaledokhtar_Firuzabad_Fars.jpg"],
+            "year_built": "224",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان",
+            "description": "قلعه‌ای مستحکم بر فراز کوه."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D8%A2%D8%A8%D8%A7%D8%AF",
+            "https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D9%85%D9%86%D8%AF_(%D9%81%DB%8C%D8%B1%D9%88%D8%B2%D"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

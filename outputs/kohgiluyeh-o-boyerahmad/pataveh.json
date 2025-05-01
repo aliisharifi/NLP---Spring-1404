@@ -1,0 +1,97 @@
+{
+  "title": "ویژگی‌های جغرافیایی پاتاوه",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "پاتاوه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+      {
+        "name": "تالاب برم شیر", "images": ["https://api2.kojaro.com/media/2018-10-40555a47-728d-4813-9d07-f79459f888cb-67c460f9c1067c5ba764de52?w=1200&q=80"]
+      }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گونه‌های مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "معتدل کوهستانی"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق مرتفع",
+        "2000 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دامنه‌های کوهستانی",
+        "دشت‌های کوچک"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "تشکیلات آهکی",
+        "گسل‌های زاگرس"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "غار دهشیخ",
+        "images": ["https://media.karnaval.ir/uploads/2024/06/57b1f03d-fc69-4531-90b3-a2d86403e8c2.jpg?size=950"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": " این غارهفت دالان تودرتو و شش درب ورودی و خروجی دارد و گردشگران می‌توانند تنها با ورود از یک درب، وارد غار شوند."
+    },
+    {
+        "name": "پل تاریخی پاتاوه",
+        "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2023/11/shakhes-4.jpg"],
+        "year_built": "دوره ساسانی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "این پل تاریخی که در منطقه حفاظت شده دنا قرار دارد به منظور تسهیل در عبور و مرور کاروان ها ساخته شده است. به خاطر طراحی چشمگیر آجرکاری و طاق آن معروف است."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/پاتاوه"
+  }
+}

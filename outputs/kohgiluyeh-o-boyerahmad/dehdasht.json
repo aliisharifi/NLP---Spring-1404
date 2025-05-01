@@ -1,0 +1,149 @@
+{
+  "title": "ویژگی‌های جغرافیایی دهدشت",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "دهدشت"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه مارون",
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/09/5-9.jpg"]
+        },
+        {
+            "name": "رودخانه تغار",
+            "images": ["https://besharnews.ir/wp-content/uploads/2024/03/%DB%B2%DB%B0%DB%B2%DB%B4%DB%B0%DB%B3%DB%B2%DB%B9_%DB%B1%DB%B7%DB%B5%DB%B0%DB%B2%DB%B1-1100x700.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه ساورز",
+          "images": ["https://cdn.tabnak.ir/files/fa/news/1392/3/11/259549_934.jpg", "https://cdn.tabnak.ir/files/fa/news/1392/3/11/259550_964.jpg"]
+        },
+        {
+            "name": "کوه نیر",
+            "images": ["https://www.kebnanews.ir/images/docs/000431/n00431167-b.jpg"]
+        },
+        {
+            "name": "کوه پات",
+            "images": []
+        },
+        {
+            "name": "کوه خائیز",
+            "images": ["https://api2.kojaro.com/media/2018-4-8e983108-1cf9-4832-b20c-99b3c65af5dd-67c460f1c1067c5ba763bc69?w=828&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+            "name": "دریاچه سد مارون",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86_%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86.jpg/500px-%D8%AF%D8%B1%DB%8C%D8%A7%DA%86%D9%87_%D8%B3%D8%AF_%D9%85%D8%A7%D8%B1%D9%88%D9%86_%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های بلوط",
+        "مراتع کوهستانی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "حدود 1280 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های باز",
+        "کوه‌های متوسط الارتفاع"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های زاگرس",
+        "لایه‌های رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه مارون",
+        "چشمه‌های محلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ گچ",
+        "سنگ آهک",
+        "معادن شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "آبشار کمر دوغ",
+      "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/آبشار-کمر_دوغ.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "آبشار بلند و دیدنی نزدیک دهدشت در منطقه چاروسا."
+    },
+    {
+        "name": "غار نزل",
+        "images": ["https://mt-shahan.ir/wp-content/uploads/2023/07/nezel-14020430-7.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "غاری طبیعی در منطقه جوی خانه چرام، دارای دو حلقه چاه عمیق و مسیرهای ناشناخته که تاکنون تا عمق ۲۱۰ متر اکتشاف شده است."
+      },
+      {
+        "name": "کاروانسرای دهدشت",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/IMG_%D8%A8%D9%84%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%D9%BE%D9%88%D8%B1_%D8%AF%D9%87%D8%AF%D8%B4%D8%AA_03.jpg/375px-IMG_%D8%A8%D9%84%D8%A7%D8%AF%D8%B4%D8%A7%D9%87%D9%BE%D9%88%D8%B1_%D8%AF%D9%87%D8%AF%D8%B4%D8%AA_03.jpg"],
+        "year_built": "دوره صفوی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "کاروانسرایی تاریخی با ۳۸ حجره و معماری سنتی در بافت قدیمی دهدشت، ثبت شده در فهرست آثار ملی ایران."
+      },
+      {
+        "name": "تنگ پیرزال",
+        "images": ["https://static.cdn.asset.aparat.com/avt/29305823-4756-b__2078.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "تنگه‌ای زیبا با طول ۴.۵ کیلومتر در دل کوه سیاه، دارای چشمه‌های فصلی، رودخانه‌های کوچک و چشم‌اندازهای زمین‌شناسی کم‌نظیر."
+      },
+      {
+        "name": "آبشار آبریز",
+        "images": ["https://cdn.isna.ir/d/2024/03/29/2/62974081.jpg?ts=1711735461579"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "آبشاری فصلی با سرچشمه‌ای از کوه نیر در منطقه دشمن‌زیاری که بهترین زمان بازدید آن از اسفند تا خرداد است."
+      }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/دهدشت"
+  }
+}

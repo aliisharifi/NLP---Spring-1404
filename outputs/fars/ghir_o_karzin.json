@@ -1,0 +1,119 @@
+{
+    "title": "ویژگی‌های جغرافیایی قیر و کارزین",
+    "location": {
+        "province": "فارس",
+        "city": "قیر و کارزین"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": []
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان نخل",
+                "گیاهان مقاوم به خشکی مانند کُنار",
+                "درختان کهور",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1200 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "نفت",
+                "گچ",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "قلعه دختر تنگ روئین",
+            "images": [],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "قلعه‌ای تاریخی در تنگه روئین با معماری دفاعی دوره ساسانی که بر فراز صخره‌ها ساخته شده و بر منطقه اشراف کامل دارد."
+        },
+        {
+            "name": "چشمه آبگرم قیر",
+            "images": [],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "چشمه آبگرم معدنی با خواص درمانی که در نزدیکی شهر قیر قرار دارد و مورد توجه مردم محلی و گردشگران است."
+        },
+        {
+            "name": "سنگ‌نگاره قیر و کارزین",
+            "images": ["https://img9.irna.ir/d/r2/2021/12/20/4/169293494.jpg?ts=1639999452331"],
+            "year_built": "دوره پارت‌ها",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "نقوش سنگی تاریخی در گردنه گلومشک که از آثار مهم باستانی منطقه و مربوط به تمدن پارت‌ها می‌باشد."
+        },
+        {
+            "name": "قلعه گبری قیر",
+            "images": ["https://api2.kojaro.com/media/2019-1-14e69813-8c45-4e6b-a6f1-cc6c4385ef88-67c460fbc1067c5ba765319f?w=1200&q=80"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "قلعه‌ای تاریخی در دامنه کوه مشرف به شهر قیر که به احتمال زیاد مربوط به دوران پیش از اسلام یا ساسانیان است."
+        }
+    ],
+    "additional_info": {
+       "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D9%82%DB%8C%D8%B1_(%D9%81%D8%A7%D8%B1%D8%B3)",
+        "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86",
+        "https://fa.wikipedia.org/wiki/%D8%A7%D9%85%D8%A7%D9%85%E2%80%8C%D8%B4%D9%87%D8%B1",
+        "https://fa.wikipedia.org/wiki/%D9%85%D8%A8%D8%A7%D8%B1%DA%A9%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_(%D9%82%DB%8C%D8%B1_%D9%88_%DA%A9%D8%A7%D8%B1%D8%B2%DB%8C%D9%86)",
+        "https://fa.wikipedia.org/wiki/%D8%A7%D9%81%D8%B2%D8%B1"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

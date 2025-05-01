@@ -1,0 +1,158 @@
+{
+  "title": "ویژگی‌های جغرافیایی دیشموک",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "دیشموک"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه آجم",
+          "images": ["https://cdn.yjc.ir/files/fa/news/1402/12/27/19088804_674.jpg"]
+        },
+        {
+            "name": "رودخانه تنگ براق",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg/250px-Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه غارون",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/%DA%A9%D9%88%D9%87_%D9%82%D8%A7%D8%B1%D9%88%D9%86.jpg/330px-%DA%A9%D9%88%D9%87_%D9%82%D8%A7%D8%B1%D9%88%D9%86.jpg"]
+        },
+        {
+            "name": "کوه دل افروز",
+            "images": ["https://irs01.wisgoon.com/irs01/f3/5d/6e/40/irs01_s3old_sgp01_1068x2312_O2SsJVzW_1694962_1652549491182550826.jpeg"]
+        },
+        {
+            "name": "کوه مانگشت",
+            "images": []
+        },
+        {
+            "name": "کوه برفکون",
+            "images": []
+        },
+        {
+            "name": "کوه منگار",
+            "images": ["https://s6.picofile.com/file/8383048468/IMG_20191201_WA00140.jpg"]
+        },
+        {
+            "name": "کوه کله",
+            "images": []
+        },
+        {
+            "name": "کوه بورک",
+            "images": []
+        },
+        {
+            "name": "کوه ممبل",
+            "images": []
+        },
+        {
+            "name": "کوه شاه‌نشین",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گونه‌های مرتعی و دارویی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "کوهستانی و نیمه‌سردسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق مرتفع و کوهستانی",
+        "1600 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دره‌ها و تپه‌های بلند"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های زاگرس",
+        "تشکیلات آهکی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی",
+        "رودخانه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های آهکی",
+        "مقداری ذخایر معدنی",
+        "نیترات پتاسیم",
+        "نفت"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "قلعه تاریخی دیشموک",
+      "images": ["https://api2.kojaro.com/media/2020-11-58bd6de7-6aa5-4a52-966d-b1b43ad9bf98-67c46107c1067c5ba766fe4a?w=1200&q=80"],
+      "year_built": "دوره زندیه و قاجاریه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی بر صخره‌ای گچی با ساختاری منحصر به‌فرد و راهروهای زیرزمینی."
+    },
+    {
+        "name": "گور دخمه یا برد دالو",
+        "images": [],
+        "year_built": "دوره مادها",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "گور دخمه‌ای سنگی معروف به برد دالو یا سنگ آستودان که بر فراز کوهی مشرف به شهر دیشموک قرار دارد و یکی از آثار باستانی ارزشمند منطقه به شمار می‌آید."
+      },
+      {
+        "name": "امامزاده میرسالار",
+        "images": ["https://static.iqna.ir/1/news/201502/85877683904661676301305084678.jpg"],
+        "year_built": "دوره اسلامی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "آرامگاه امامزاده میرسالار، واقع در ۵ کیلومتری جنوب شهر دیشموک، مکانی مذهبی و زیارتی محبوب میان اهالی و گردشگران منطقه."
+      },
+      {
+        "name": "قلعه شاه منصور",
+        "images": ["https://shoaresal.ir/files/fa/multimedia/1398/7/24/227396_286.jpg"],
+        "year_built": "دوره قاجار",
+        "architect": "نامشخص",
+        "constructor": "رستم خان و نیای ملک منصور خان شبانکاره‌ای",
+        "description": "قلعه‌ای تاریخی در روستای لیراب که در گذشته محل سکونت و دفاع شاه منصور بوده و امروزه به عنوان یکی از آثار گردشگری مهم دیشموک شناخته می‌شود."
+      }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/دیشموک"
+  }
+}

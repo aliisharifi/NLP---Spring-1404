@@ -1,0 +1,148 @@
+{
+  "title": "ویژگی‌های جغرافیایی لنده",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "لنده"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه مارون",
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/09/5-9.jpg"]
+        },
+        {
+            "name": "رودخانه جن",
+            "images": ["https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%AC%D9%86#/media/%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87:%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%AC%D9%86.png"]
+        }
+      ]
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+            "name": "کوه سیاه",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Cracker_Peak_and_Mount_Siyeh_from_Skyline.JPG/500px-Cracker_Peak_and_Mount_Siyeh_from_Skyline.JPG"]
+        },
+        {
+            "name": "کوه سفید",
+            "images": ["https://s2.wklcdn.com/image_289/8675227/89174153/58141349Master.jpg"]
+        },
+        {
+            "name": "کوه سمهر",
+            "images": []
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط ایرانی",
+        "بنه",
+        "گونه‌های مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق پست و کوهپایه‌ای",
+        "1200 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های حاصلخیز و تپه ماهورها"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "گسل‌های زاگرس",
+        "لایه‌های رسوبی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌ها",
+        "رودخانه مارون"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "مقدار کم نفت"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "منطقه گردشگری موگرمون",
+      "images": ["https://sobhezagros.ir/images/2024/3/20240312102522_original_42.webp","https://sobhezagros.ir/images/2024/3/20240312102522_original_42.webp"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "طبیعت زیبای بخش موگرمون در شهرستان لنده و در فاصله ۱۰ کیلومتری شهرلنده با چشمه‌های جوشان و خروشان"
+    },
+    {
+        "name": "سایت پروازی پاراگلایدر سورای",
+        "images": [],
+        "year_built": "2019",
+        "architect": "نامشخص",
+        "constructor": "اداره ورزش و جوانان استان کهگیلویه و بویراحمد",
+        "description": "نخستین سایت آموزشی و پروازی پاراگلایدر در استان کهگیلویه و بویراحمد که در منطقه شیتاب ساخته شده و برای علاقه‌مندان به ورزش‌های هوایی بسیار جذاب است."
+      },
+      {
+        "name": "صحرای آبلش",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "دشتی سرسبز در دل طبیعت کهگیلویه و بویراحمد با پوشش گیاهی متنوع، مناسب برای گردشگری بهاری."
+      },
+      {
+        "name": "روستای آبرزگه",
+        "images": ["https://t0.gstatic.com/images?q=tbn:ANd9GcSU8ISCrTcHC1J178OWXvzTUqY4UoGjS79kGnmzlJR-fdBm4d2R6g"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "روستایی سنتی با معماری بومی در دل طبیعت کهگیلویه و بویراحمد، مناسب برای سفرهای فرهنگی و طبیعت‌گردی."
+      },
+      {
+        "name": "روستای کهناب",
+        "images": [],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "روستایی تاریخی با معماری بومی که جاذبه‌ای کمتر شناخته شده اما زیبا در شهرستان لنده است."
+      },
+      {
+        "name": "نقش برجسته شتر بر کوه مشرف به شهر",
+        "images": ["https://cdn.nody.ir/files/2021/05/21/nody-%D8%B1%D8%A7%D9%87-%D9%88%D8%B1%D9%88%D8%AF-%D8%A8%D9%87-%D8%AF%D9%81%DB%8C%D9%86%D9%87-%D8%B4%D8%AA%D8%B1-1621617026.jpg"],
+        "year_built": "پیش از اسلام",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "نقشی تاریخی از شتر که بر صخره‌ای مشرف به شهر حک شده و از آثار ارزشمند تاریخی و هنری منطقه به شمار می‌آید."
+      }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/لنده"
+  }
+}

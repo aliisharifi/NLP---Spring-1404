@@ -1,0 +1,153 @@
+{
+    "title": "ویژگی‌های جغرافیایی مرودشت",
+    "location": {
+        "province": "فارس",
+        "city": "مرودشت"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه کر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aliemadian-pol_khan1.jpg/330px-Aliemadian-pol_khan1.jpg"]},
+                {"name": "رودخانه سیوند", "images": ["http://shirazhamsafar.ir/ckfinder/userfiles/images/%D8%B3%D8%AF%20%D8%B3%DB%8C%D9%88%D9%86%D8%AF.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه بید سندل", "images":[]},
+                {"name": "کوه حسین", "images": []},
+                {"name": "کوه قلعه", "images": []},
+                {"name": "کوه قلعه شکسته", "images": ["https://api2.kojaro.com/media/2018-5-a58d3404-7729-482a-8370-410916d5941d-67c460f2c1067c5ba763e97c?w=828&q=80"]},
+                {"name": "کوه سیاه", "images": []},
+                {"name": "کوه سید محمد", "images": []},
+                {"name": "کوه سارون", "images": []},
+                {"name": "کوه پالنگری", "images": []},
+                {"name": "کوه رحمت", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Hope_%284303776186%29.jpg/500px-Hope_%284303776186%29.jpg"]}
+
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه سد درودزن", "images": ["https://last-cdn.com//2018/09/24/6264-Nh4nvfCCPIU7Z5E1YHCM.jpeg"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "گیاهان مقاوم به خشکی",
+                "درختان بادام و پسته وحشی",
+                "پوشش گیاهی استپی",
+                "گل‌های وحشی فصل بهار"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1000 از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های حاصلخیز",
+                "کوه‌های کم‌ارتفاع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "مناطق کوهستانی",
+                "گسل‌های فعال"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "رودخانه کر",
+                "چشمه‌های طبیعی",
+                "قنات‌های تاریخی",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "تخت جمشید",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg/1200px-%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg"],
+            "year_built": "518 پیش از میلاد",
+            "architect": "نامشخص",
+            "constructor": "داریوش بزرگ و خشایارشا",
+            "description": "پایتخت تشریفاتی امپراتوری هخامنشی و یکی از مهم‌ترین آثار تاریخی جهان."
+        },
+        {
+            "name": "نقش رستم",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Naqsh-e_Rustam_necropolis_in_Iran.jpg/500px-Naqsh-e_Rustam_necropolis_in_Iran.jpg"],
+            "year_built": "1200 پیش از میلاد",
+            "architect": "نامشخص",
+            "constructor": "داریوش بزرگ",
+            "description": "گورستان سلطنتی هخامنشیان و نقش‌برجسته‌های ساسانی."
+        },
+        {
+            "name": "پاسارگاد",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/500px-Pasargad_Tomb_Cyrus3.jpg"],
+            "year_built": "546 پیش از میلاد",
+            "architect": "نامشخص",
+            "constructor": "کوروش بزرگ",
+            "description": "پایتخت کوروش بزرگ و آرامگاه او، از آثار ثبت‌شده در یونسکو."
+        },
+        {
+            "name": "شهر استخر",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Estakhr_Darafsh_%2855%29.JPG/500px-Estakhr_Darafsh_%2855%29.JPG"],
+            "year_built": "دوره هخامنشی تا ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "شهر تاریخی در نزدیکی تخت جمشید با آثار باستانی متعدد."
+        },
+        {
+            "name": "بند امیر",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Band_Amir_by_Eug%C3%A8ne_Flandin.jpg/960px-Band_Amir_by_Eug%C3%A8ne_Flandin.jpg"],
+            "year_built": "دوره دیلمیان",
+            "architect": "نامشخص",
+            "constructor": "امیر عضدالدوله دیلمی",
+            "description": "سد تاریخی با معماری منحصر به فرد و کاربری آبیاری."
+        },
+        {
+            "name": "نقش رجب",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Naqsh-e_Rajab_02.jpg/500px-Naqsh-e_Rajab_02.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "اردشیر بابکان و شاپور اول",
+            "description": "مجموعه‌ای از نقش‌برجسته‌های ساسانی شامل تاج‌گذاری اردشیر بابکان و شاپور اول، واقع در نزدیکی تخت جمشید."
+        }
+    ],
+    "additional_info": {
+            "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA",
+            "https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%AF%D8%A7%D9%86_(%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA)",
+            "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D9%88%D9%82_(%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA)",
+            "https://fa.wikipedia.org/wiki/%D8%B2%D9%86%DA%AF%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_(%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA)",
+            "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D9%85%D9%81%DB%8C%D8%B1%D9%88%D8%B2",
+            "https://fa.wikipedia.org/wiki/%D8%AE%D8%A7%D9%86%D9%85%DB%8C%D9%86"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

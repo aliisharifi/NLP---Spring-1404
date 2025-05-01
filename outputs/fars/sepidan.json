@@ -1,0 +1,123 @@
+{
+  "title": "ویژگی‌های جغرافیایی سپیدان",
+  "location": {
+    "province": "فارس",
+    "city": "سپیدان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {"name": "کوه‌ رنج", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/RoanjPanorama.jpg/500px-RoanjPanorama.jpg"]},
+        {"name": "کوه‌ برم فیروز اردکان", "images": []}
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {"name": "دریاچه برم فیروز", "images": ["https://last-cdn.com/2018/12/09/KIh7X5Jlt81mUwGLoRX4q8Gtc4fSMGIWD10F3Zwt.jpeg"]},
+        {"name": "دریاچه برم شیش پر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/%D8%B4%D8%B4%E2%80%8C%D9%BE%DB%8C%D8%B1.jpg/500px-%D8%B4%D8%B4%E2%80%8C%D9%BE%DB%8C%D8%B1.jpg"]}
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط و بنه",
+        "گیاهان مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "سردسیر",
+        "بارش سالانه تا 1200 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "2000 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دره‌ای میان کوه‌های زاگرس",
+        "روستای تل زری تا 3300 متر"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سازندهای آهکی",
+        "گسل‌های زاگرس"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "آبشار مارگون",
+        "چشمه‌ها"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "سنگ گچ",
+        "مارن و خاک رس",
+        "سنگ مرمریت"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+        "name": "امامزاده سلطان نورالدین علوی غازی",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B9%D9%84%D9%88%D9%8A_%D8%BA%D8%A7%D8%B2%D9%8A_2014-01-26_22-34.jpg/250px-%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B3%D9%84%D8%B7%D8%A7%D9%86_%D9%86%D9%88%D8%B1%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%B9%D9%84%D9%88%D9%8A_%D8%BA%D8%A7%D8%B2%D9%8A_2014-01-26_22-34.jpg"],
+        "year_built": "دوره ایلخانی",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "زیارتگاهی تاریخی با معماری آجری و گنبد فیروزه‌ای که مدفن یکی از عرفای بزرگ قرن هفتم هجری است. این بنا دارای تزئینات گچبری زیبا و کتیبه‌های تاریخی ارزشمندی می‌باشد."
+    },
+    {
+        "name": "روستای مارگون",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Margoon_farm_%282470496602%29.jpg/250px-Margoon_farm_%282470496602%29.jpg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "روستایی پلکانی با معماری سنتی در دل کوهستان که به خاطر آبشار معروف مارگون و بافت تاریخی خود شناخته می‌شود. این روستا نمونه‌ای بارز از هماهنگی معماری با طبیعت است."
+    },
+    {
+        "name": "پیست اسکی پولادکف",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Pooladkaf_Ski_Track_%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%DA%A9%D9%81_-_panoramio.jpg/250px-Pooladkaf_Ski_Track_%D9%BE%DB%8C%D8%B3%D8%AA_%D8%A7%D8%B3%DA%A9%DB%8C_%D9%BE%D9%88%D9%84%D8%A7%D8%AF%DA%A9%D9%81_-_panoramio.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Pooladkaf_Ski_Resort.jpg/250px-Pooladkaf_Ski_Resort.jpg"],
+        "year_built": "2002",
+        "architect": "علی شامس",
+        "constructor": "گروه صنعتی پولادکف",
+        "description": "تنها پیست اسکی استان فارس که در ارتفاعات 2800 متری قرار دارد. این پیست دارای امکاناتی مانند تله‌سیژ، رستوران و محل اسکان بوده و همه ساله میزبان علاقه‌مندان به ورزش‌های زمستانی است."
+    },
+    {
+        "name": "آبشار چیکان",
+        "images": ["https://last-cdn.com/2021/04/03/EWrUe6XvEH0Nziqz9O2pX6qxEj533yW9Y5MIxUSE.jpeg"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "آبشاری با ارتفاع حدود 30 متر که در فصل بهار پرآب‌ترین حالت خود را دارد. این آبشار در میان صخره‌های سنگی و درختان بلوط قرار گرفته و محیطی مناسب برای طبیعت‌گردی فراهم کرده است."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%DA%A9%D8%A7%D9%86_(%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86)",
+        "https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%A7%D8%B4%D9%87%D8%B1_(%D8%B3%D9%BE%DB%8C%D8%AF%D8%A7%D9%86)"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

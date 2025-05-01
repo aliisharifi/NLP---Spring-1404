@@ -1,0 +1,122 @@
+{
+    "title": "ویژگی‌های جغرافیایی استهبان",
+    "location": {
+        "province": "فارس",
+        "city": "استهبان"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه رودبال", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%AC.png/500px-%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D8%B1%D9%88%D8%AF%D8%A8%D8%A7%D9%84_%D8%A7%DB%8C%D8%AC.png"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه قلتان", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان انجیر",
+                "گیاهان دارویی مانند آویشن",
+                "درختان بادام",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1700 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه ها",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "سیلیس"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "آبشار استهبان",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Abshare_Estahban.jpg/500px-Abshare_Estahban.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "آبشاری زیبا با مناظر بکر طبیعی در منطقه استهبان که در فصل بهار پرآب می‌شود."
+        },
+        {
+            "name": "قلعه دختر استهبان",
+            "images": ["https://api2.kojaro.com/media/67c460f3c1067c5ba7640a84?w=750&q=75"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "قلعه‌ای تاریخی بر فراز کوه با معماری سنگی و چشم‌اندازی از شهر استهبان."
+        },
+        {
+            "name": "چنار هزارساله",
+            "images": ["https://static0.parsine.com/servev2/YTc5ZgJNClbw/5Uwvb7W7Zm0,/file.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "درخت چنار کهنسال با عمری بیش از 1000 سال، از جاذبه‌های طبیعی منحصر به فرد استهبان."
+        },
+        {
+            "name": "آتشکده قشنگ خوابی (قشم قاوی)",
+            "images": [],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "آتشکده‌ای تاریخی از دوره ساسانیان در منطقه خیر که با معماری خاص خود توجه هر بیننده‌ای را جلب می‌کند."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D9%87%D8%A8%D8%A7%D9%86",
+        "https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%D8%AC",
+        "https://fa.wikipedia.org/wiki/%D8%B1%D9%88%D9%86%DB%8C%D8%B2"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

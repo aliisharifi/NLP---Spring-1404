@@ -1,0 +1,139 @@
+{
+    "title": "ویژگی‌های جغرافیایی اقلید",
+    "location": {
+        "province": "فارس",
+        "city": "اقلید"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه شکاب", "images": []},
+                {"name": "رودخانه شادکام", "images": []},
+                {"name": "رودخانه کر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Paddies_around_Kor_River%2C_Kamfirouz_%D8%B4%D8%A7%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A7%D8%B7%D8%B1%D8%A7%D9%81_%D8%B1%D9%88%D8%AF_%DA%A9%D8%B1%D8%8C_%DA%A9%D8%A7%D9%85%D9%81%DB%8C%D8%B1%D9%88%D8%B2_-_panoramio.jpg/500px-Paddies_around_Kor_River%2C_Kamfirouz_%D8%B4%D8%A7%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A7%D8%B7%D8%B1%D8%A7%D9%81_%D8%B1%D9%88%D8%AF_%DA%A9%D8%B1%D8%8C_%DA%A9%D8%A7%D9%85%D9%81%DB%8C%D8%B1%D9%88%D8%B2_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه بل", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bell_Mountain_located_in_Eqlid-Fars-Iran.jpg/960px-Bell_Mountain_located_in_Eqlid-Fars-Iran.jpg"]},
+                {"name": "کوه آلما", "images": []},
+                {"name": "کوه سید محمد", "images": []},
+                {"name": "کوه پلانگری", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه کافتر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg/500px-Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg"]},
+                {"name": "دریاچه تنگ براق", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg/250px-Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg"]},
+                {"name": "دریاچه سد ملاصدرا", "images": ["https://api2.kojaro.com/media/2018-6-9809e3d2-1c8b-40d2-9404-6486cf2f806f-67c460f3c1067c5ba7640d3e?w=1920&q=80"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان بادام و پسته وحشی",
+                "گیاهان دارویی مانند گل گاوزبان",
+                "درختان گز",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "سرد"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["2000 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق کوهستانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه ها",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ مرمر",
+                "تراورتن",
+                "سنگ آهک",
+                "گچ"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "حوضچه دختر گبر و کتیبه پهلوی",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hozche-Dokhtar-Gabr-sangneveshte-eghlid.jpg/500px-Hozche-Dokhtar-Gabr-sangneveshte-eghlid.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "حوضچه سنگی تراشیده شده در دل کوه با کتیبه‌ای به خط پهلوی ساسانی از آثار تاریخی مهم اقلید."
+        },
+        {
+            "name": "دریاچه کافتر",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg/960px-Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "دریاچه‌ای آب شیرین به مساحت ۴۸ کیلومتر مربع و زیستگاه ارزشمند پرندگان مهاجر در جنوب شرقی اقلید."
+        },
+        {
+            "name": "تنگ براق",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Iran_-_Pars_Province_-_Sadeh_-_Tang_Boragh_-_panoramio.jpg/500px-Iran_-_Pars_Province_-_Sadeh_-_Tang_Boragh_-_panoramio.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "",
+            "constructor": "",
+            "description": "تفرجگاه کوهستانی با پوشش گیاهی انبوه و کتیبه پهلوی ساسانی در ۸۰ کیلومتری جنوب اقلید."
+        },
+        {
+            "name": "امامزاده سید محمد",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/7/75/Em.S.Kaftar.jpg"],
+            "year_built": "دوره اسلامی",
+            "architect": "",
+            "constructor": "",
+            "description": "بقعه متبرکه در کنار دریاچه کافتر با محیطی سرسبز و چشمه‌سارهای متعدد."
+        },
+        {
+            "name": "چشمه محمد رسول‌الله",
+            "images": ["https://gardeshgari724.com/upload/post/2019/04/b41e6971a7c2773-img-5ca8aaff6ee7f.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "چشمه‌ای جوشان از زیر تپه سنگی که باغ‌های اطراف را آبیاری می‌کند و قبلاً به نام رودخانه شکاب معروف بود."
+        }
+    ],
+    "additional_info": {
+       "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%A7%D9%82%D9%84%DB%8C%D8%AF",
+        "https://fa.wikipedia.org/wiki/%D8%AF%DA%98%DA%A9%D8%B1%D8%AF",
+        "https://fa.wikipedia.org/wiki/%D8%AD%D8%B3%D9%86%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_(%D8%A7%D9%82%D9%84%DB%8C%D8%AF)"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

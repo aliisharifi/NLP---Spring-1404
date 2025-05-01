@@ -1,0 +1,115 @@
+{
+  "title": "ویژگی‌های جغرافیایی سی‌سخت",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "سی‌سخت"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه دنا",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Dena_Mountain-Iran-Mar2012.JPG/408px-Dena_Mountain-Iran-Mar2012.JPG"]
+        },
+        {
+            "name": "کوه گل",
+            "images": ["https://api2.kojaro.com/media/2020-11-16199558-fdb1-4ee8-8289-87ddceac7343-67c46107c1067c5ba766fe36?w=1200&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+          "name": "دریاچه کوه گل",
+          "images": ["https://api2.kojaro.com/media/2020-11-16199558-fdb1-4ee8-8289-87ddceac7343-67c46107c1067c5ba766fe36?w=828&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بادام کوهی",
+        "گون",
+        "انواع گیاهان مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "سردسیری"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": ["2200 متر از سطح دریا"]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "ناهمواری‌های کوهستانی",
+        "دامنه‌های سرسبز"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سنگ آهک",
+        "گسل‌های زاگرس"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی",
+        "رودخانه‌های کوهستانی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ ساختمانی",
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "دریاچه کوه گل",
+      "images": ["https://api2.kojaro.com/media/2020-11-16199558-fdb1-4ee8-8289-87ddceac7343-67c46107c1067c5ba766fe36?w=828&q=80"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "دریاچه‌ای زیبا و فصلی در دامنه‌های کوه دنا، مقصد محبوب طبیعت‌گردان."
+    },
+    {
+      "name": "چشمه میشی",
+      "images": ["https://api2.kojaro.com/media/67c46109c1067c5ba7672b1a?w=750&q=75"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای پرآب و خنک که از دل کوه دنا جاری می‌شود."
+    },
+    {
+        "name": "روستای کریک",
+        "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/دهکده-توریستی-کریک.jpg"],
+        "year_built": "دوره اشکانیان",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "روستایی تاریخی با معماری پلکانی در ارتفاعات شهرستان دنا استان کهگیلویه و بویراحمد، معروف به ماسوله جنوبی. قدمت این روستا به دوران پیش از مهاجرت آریایی‌ها به فلات ایران و دوران هخامنشیان بازمی‌گردد."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/سی‌سخت"
+  }
+}

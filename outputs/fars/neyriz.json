@@ -1,0 +1,121 @@
+{
+    "title": "ویژگی‌های جغرافیایی نی ریز",
+    "location": {
+        "province": "فارس",
+        "city": "نی ریز"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه بل", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bell_Mountain_located_in_Eqlid-Fars-Iran.jpg/500px-Bell_Mountain_located_in_Eqlid-Fars-Iran.jpg"]}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه نی ریز", "images": []},
+                {"name": "دریاچه سد گنوی مشکان", "images": []}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان گز",
+                "گیاهان مقاوم به خشکی",
+                "درختان کنار",
+                "پوشش گیاهی بیابانی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1400 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات نمکی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چاه‌های عمیق",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "نمک",
+                "گچ",
+                "سنگ آهک",
+                "سنگ چینی"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "دریاچه بختگان",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bakhtegan_Lake.jpg/500px-Bakhtegan_Lake.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "دریاچه‌ای فصلی با تنوع زیستی منحصر به فرد."
+        },
+        {
+            "name": "کاروانسرای نی ریز",
+            "images": ["https://borna.news/files/fa/news/1395/7/6/819048_140.jpg"],
+            "year_built": "1904",
+            "architect": "نامشخص",
+            "constructor": "حاج محمدحسن فرزند آقانظر",
+            "description": "کاروانسرای تاریخی با معماری صفوی."
+        },
+        {
+            "name": "مسجد جامع نی ریز",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/0%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%86%DB%8C%D8%B1%DB%8C%D8%B2.jpg/500px-0%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D9%86%DB%8C%D8%B1%DB%8C%D8%B2.jpg"],
+            "year_built": "973",
+            "architect": "المقدسی",
+            "constructor": "نامشخص",
+            "description": "یکی از قدیمی‌ترین مساجد استان فارس."
+        },
+        {
+            "name": "دشت لاله‌های واژگون مشکان",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/%E1%83%A2%E1%83%98%E1%83%A2%E1%83%90.jpg/500px-%E1%83%A2%E1%83%98%E1%83%A2%E1%83%90.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "دشتی پوشیده از لاله‌های واژگون، گل‌های نادر و زیبایی که هر بهار در این منطقه می‌رویند."
+        }
+    ],
+    "additional_info": {
+       "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D9%86%DB%8C%E2%80%8C%D8%B1%DB%8C%D8%B2",
+        "https://fa.wikipedia.org/wiki/%D9%85%D8%B4%DA%A9%D8%A7%D9%86_(%D9%86%DB%8C%E2%80%8C%D8%B1%DB%8C%D8%B2)"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "title": "ویژگی‌های جغرافیایی کازرون",
+    "location": {
+        "province": "فارس",
+        "city": "کازرون"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه شاپور", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/IranBishapur1.jpg/500px-IranBishapur1.jpg"]},
+                {"name": "رودخانه جره", "images": ["https://cdn.isna.ir/d/off/fars/2020/10/28/3/61767515.jpg"]}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه کمارج", "images": []},
+                {"name": "کوه مست", "images": ["https://s2.wklcdn.com/image_91/2733172/65187266/43138139.400x300.jpg"]},
+                {"name": "کوه انار", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه پریشان", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/%D8%AF%D8%B1%D9%8A%D8%A7%DA%86%D9%87_%D9%BE%D8%B1%D9%8A%D8%B4%D8%A7%D9%86_parishan_lake_-_panoramio.jpg/500px-%D8%AF%D8%B1%D9%8A%D8%A7%DA%86%D9%87_%D9%BE%D8%B1%D9%8A%D8%B4%D8%A7%D9%86_parishan_lake_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان بلوط",
+                "گیاهان دارویی مانند آویشن و گل گاوزبان",
+                "درختان کنار",
+                "گل‌های وحشی فصل بهار"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1000 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های حاصلخیز",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "سنگ‌های آهکی",
+                "گسل‌های فعال"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "رودخانه شاپور",
+                "آب‌های زیرزمینی",
+                "قنات‌های تاریخی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ گچ",
+                "سنگ آهک",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "غار شاپور",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Shaapoor_Cave_Panorama_360_virtual_Reality.jpg/500px-Shaapoor_Cave_Panorama_360_virtual_Reality.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "شاپور اول",
+            "description": "غاری با مجسمه عظیم شاپور اول و نقوش تاریخی."
+        },
+        {
+            "name": "تنگ چوگان",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kazeroun_-_Tange_Chogan_-_panoramio_%2813%29.jpg/500px-Kazeroun_-_Tange_Chogan_-_panoramio_%2813%29.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "شاپور اول",
+            "description": "دره‌ای تاریخی با نقش‌برجسته‌های ساسانی و طبیعت زیبا."
+        },
+        {
+            "name": "شهر باستانی بیشاپور",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Anahita_Temple_of_Bishapur_%28Kazerun%29_1.jpg/500px-Anahita_Temple_of_Bishapur_%28Kazerun%29_1.jpg"],
+            "year_built": "266",
+            "architect": "نامشخص",
+            "constructor": "شاپور اول",
+            "description": "شهری تاریخی با معماری ساسانی و موزاییک‌های منحصر به فرد."
+        },
+        {
+            "name": "پارک ملی بمو",
+            "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/a/a6/%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A8%D9%85%D9%88.jpg/500px-%D9%BE%D8%A7%D8%B1%DA%A9_%D9%85%D9%84%DB%8C_%D8%A8%D9%85%D9%88.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "پارکی ملی با تنوع زیستی و طبیعت بکر."
+        },
+        {
+            "name": "امامزاده سید حسین",
+            "images": ["https://kazerun.online/wp-content/uploads/2024/10/imamzadeh-seyyed-hossein-as-a-treasure-of-history-culture-and-faith-1500x750.webp"],
+            "year_built": "دوره تیموریان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "زیارتگاهی معروف با گنبدی فیروزه‌ای و معماری سنتی."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86",
+            "https://fa.wikipedia.org/wiki/%DA%A9%D9%86%D8%A7%D8%B1%D8%AA%D8%AE%D8%AA%D9%87",
+            "https://fa.wikipedia.org/wiki/%D9%88%D8%A7%D9%84%D8%A7%D8%B4%D9%87%D8%B1"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "title": "ویژگی‌های جغرافیایی جهرم",
+    "location": {
+        "province": "فارس",
+        "city": "جهرم"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه قره‌آغاج", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sassanian-Era_Bridge%2C_Iran.jpg/500px-Sassanian-Era_Bridge%2C_Iran.jpg"]},
+                {"name": "رودخانه شور جهرم", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jahrom_Shour_River_%283%29.jpg/1500px-Jahrom_Shour_River_%283%29.jpg"]},
+                {"name": "رودخانه سیمکان", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Simakan_River_-_panoramio_%281%29.jpg/500px-Simakan_River_-_panoramio_%281%29.jpg"]}
+
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه بل", "images": ["https://koohbist.com/wp-content/uploads/2023/05/%D9%BE%D8%B1%D9%88%DA%98%D9%87_%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-3-1.jpg"]},
+                {"name": "کوه البرز", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Snowy_Alborzkouh%2C_Jahrom.jpg/500px-Snowy_Alborzkouh%2C_Jahrom.jpg"]},
+                {"name": "کوه گرم", "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/a/a5/%DA%A9%D9%88%D9%87_%DA%AF%D8%B1%D9%85_%D8%AC%D9%87%D8%B1%D9%85.jpg/330px-%DA%A9%D9%88%D9%87_%DA%AF%D8%B1%D9%85_%D8%AC%D9%87%D8%B1%D9%85.jpg"]},
+                {"name": "کوه کور", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه سد سلمان فارسی", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ghir_Dam_%D8%B3%D8%AF_%D9%82%DB%8C%D8%B1_-_panoramio.jpg/500px-Ghir_Dam_%D8%B3%D8%AF_%D9%82%DB%8C%D8%B1_-_panoramio.jpg"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان خرما",
+                "مرکبات (لیموترش جهرم معروف است)",
+                "گیاهان دارویی مانند آویشن",
+                "درختان کنار و اکالیپتوس"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و نیمه‌خشک", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1000 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های کم‌ارتفاع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "سنگ‌های رسوبی",
+                "گسل‌های فعال"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "قنات‌های تاریخی",
+                "چشمه‌های آب گرم",
+                "رودخانه فصلی قره‌آغاج",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ گچ",
+                "سنگ آهک",
+                "نمک",
+                "سنگ مرمر"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "مسجد جامع جهرم",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AC%D9%87%D8%B1%D9%85_%D9%81%D8%A7%D8%B1%D8%B3.JPG/500px-%D9%85%D8%B3%D8%AC%D8%AF_%D8%AC%D8%A7%D9%85%D8%B9_%D8%AC%D9%87%D8%B1%D9%85_%D9%81%D8%A7%D8%B1%D8%B3.JPG"],
+            "year_built": "دوره صفویه",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "یکی از قدیمی‌ترین مساجد استان فارس با معماری تاریخی."
+        },
+        {
+            "name": "باغ تالار جهرم",
+            "images": [],
+            "year_built": "دوره قاجار",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "باغی تاریخی با عمارتی زیبا و درختان کهنسال."
+        },
+        {
+            "name": "آبگرم معدنی جهرم",
+            "images": ["https://img9.irna.ir/old/Image/1395/13950819/82301363/N82301363-71159307.jpg"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "آبگرم با خواص درمانی و فضای طبیعی."
+        },
+        {
+            "name": "قلعه گبری جهرم",
+            "images": ["https://jahrom.ir/wp-content/uploads/2019/06/%DA%AF%D8%A8%D8%B1%DB%8C3.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "قلعه‌ای تاریخی با معماری خشتی و گلی."
+        },
+        {
+            "name": "امامزاده سلطان ابراهیم",
+            "images": [],
+            "year_built": "دوره ایلخانیان",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "زیارتگاهی معروف با گنبدی فیروزه‌ای و معماری سنتی."
+        }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+            "https://fa.wikipedia.org/wiki/%D8%AF%D9%88%D8%B2%D9%87",
+            "https://fa.wikipedia.org/wiki/%D9%82%D8%B7%D8%A8%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF",
+            "https://fa.wikipedia.org/wiki/%D8%AC%D9%87%D8%B1%D9%85"
+        ],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

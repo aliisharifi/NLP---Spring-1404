@@ -1,0 +1,119 @@
+{
+    "title": "ویژگی‌های جغرافیایی زرین دشت",
+    "location": {
+        "province": "فارس",
+        "city": "زرین دشت"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": [
+                {"name": "رودخانه انگبینه", "images": []},
+                {"name": "رودخانه هفت گولال", "images": []}
+            ]
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه مورتاخی", "images": []},
+                {"name": "کوه گچ مزایجان", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": [
+                {"name": "دریاچه شهر پیر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Shahr-e_pir_lake%2C_Fars.png/500px-Shahr-e_pir_lake%2C_Fars.png"]},
+                {"name": "دریاچه سد انگبینه", "images": ["https://asredarab.com/wp-content/uploads/2015/12/20151120_153024-Copy.jpg"]}
+            ]
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان نخل",
+                "گیاهان مقاوم به خشکی مانند کُنار",
+                "درختان کهور",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["خشک و بیابانی", "گرم"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1500 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق بیابانی"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "رسوبات آبرفتی",
+                "گسل‌های فعال",
+                "سنگ‌های رسوبی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "رودخانه ها",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "نمک"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "امامزاده شاه علمدار",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B4%D8%A7%D9%87_%D8%B9%D9%84%D9%85%D8%AF%D8%A7%D8%B1_%D8%A8%D9%86%D8%A7%DB%8C_%D8%AC%D8%AF%DB%8C%D8%AF.jpg/500px-%D8%A7%D9%85%D8%A7%D9%85%D8%B2%D8%A7%D8%AF%D9%87_%D8%B4%D8%A7%D9%87_%D8%B9%D9%84%D9%85%D8%AF%D8%A7%D8%B1_%D8%A8%D9%86%D8%A7%DB%8C_%D8%AC%D8%AF%DB%8C%D8%AF.jpg"],
+            "year_built": "دوره اسلامی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "زیارتگاه نواده امام موسی کاظم در دامنه کوه نمک با محیطی سرسبز شامل چشمه آب و درختان کنار که برای گردشگری زیارتی و طبیعت‌گردی مناسب است."
+        },
+        {
+            "name": "تفرجگاه چک",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/%D8%AA%D9%81%D8%B1%D8%AC%DA%AF%D8%A7%D9%87_%DA%86%DA%A9_%D9%86%D8%B2%D8%AF%DB%8C%DA%A9_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A8%DB%8C%D8%B1%D8%A7%D9%86.png/330px-%D8%AA%D9%81%D8%B1%D8%AC%DA%AF%D8%A7%D9%87_%DA%86%DA%A9_%D9%86%D8%B2%D8%AF%DB%8C%DA%A9_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A8%DB%8C%D8%B1%D8%A7%D9%86.png"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "تفرجگاهی با سیستم آبیاری سنتی منحصر به فرد شامل قنات، آسیاب آبی و سازه آبی 'نر و لاس' که آب را از زیر رودخانه هفت گولال عبور می‌دهد."
+          },
+          {
+            "name": "قلعه کهنه دبیران",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/%D9%82%D9%84%D8%B9%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A8%DB%8C%D8%B1%D8%A7%D9%86_%28%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%87%D9%86%D9%87%29.jpg/500px-%D9%82%D9%84%D8%B9%D9%87_%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE%DB%8C_%D8%B4%D9%87%D8%B1_%D8%AF%D8%A8%DB%8C%D8%B1%D8%A7%D9%86_%28%D9%82%D9%84%D8%B9%D9%87_%DA%A9%D9%87%D9%86%D9%87%29.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
+            "description": "قلعه تاریخی ساخته شده از خشت و گل در 2 کیلومتری دبیران که از نظر معماری شبیه به قلعه‌های دوره ساسانی و صفوی منطقه یزد است."
+          }
+    ],
+    "additional_info": {
+        "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_(%D8%B2%D8%B1%DB%8C%D9%86%E2%80%8C%D8%AF%D8%B4%D8%AA)",
+        "https://fa.wikipedia.org/wiki/%D8%AF%D8%A8%DB%8C%D8%B1%D8%A7%D9%86",
+        "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D9%BE%DB%8C%D8%B1"
+      ],
+      "books_source": "http://chap.sch.ir/books/12315"
+    }
+}

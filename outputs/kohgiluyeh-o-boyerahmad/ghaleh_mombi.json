@@ -1,0 +1,75 @@
+{
+  "title": "ویژگی‌های جغرافیایی قلعه ممبی",
+  "location": {
+    "province": "کهگیلویه و بویراحمد",
+    "city": "قلعه ممبی"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بلوط",
+        "بنه",
+        "گونه‌های مرتعی"
+      ]
+    }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "گرمسیری کوهستانی"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "مناطق نسبتاً مرتفع",
+        "1500 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "تپه‌های مرتفع و دره‌ها"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "سنگ‌های رسوبی",
+        "گسل‌های زاگرسی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های طبیعی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "مقادیر محدود سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [],
+  "additional_info": {
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/قلعه_ممبی"
+  }
+}

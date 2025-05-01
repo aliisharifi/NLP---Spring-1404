@@ -1,0 +1,111 @@
+{
+    "title": "ویژگی‌های جغرافیایی کوه چنار",
+    "location": {
+        "province": "فارس",
+        "city": "کوه چنار"
+    },
+    "geographical_features": [
+        {
+            "name": "رودخانه‌ها",
+            "description": []
+        },
+        {
+            "name": "کوه‌ها",
+            "description": [
+                {"name": "کوه خیگ پشت", "images": []},
+                {"name": "کوه پیرایه", "images": []},
+                {"name": "کوه سهوکی", "images": []},
+                {"name": "کوه سیبکی", "images": ["https://s2.wklcdn.com/image_126/3784887/132186896/84225866.400x300.jpg"]},
+                {"name": "کوه زنگنه", "images": []}
+            ]
+        },
+        {
+            "name": "دریاچه ها",
+            "description": []
+        },
+        {
+            "name": "پوشش گیاهی",
+            "description": [
+                "درختان پسته وحشی",
+                "گیاهان دارویی مانند گل گاوزبان",
+                "درختان گز",
+                "پوشش گیاهی استپی"
+            ]
+        }
+    ],
+    "topography": [
+        {
+            "name": "منطقه اقلیمی",
+            "description": ["نیمه‌خشک", "معتدل"]
+        },
+        {
+            "name": "ارتفاع",
+            "description": ["1800 متر از سطح دریا"]
+        },
+        {
+            "name": "توپوگرافی",
+            "description": [
+                "دشت‌های وسیع",
+                "کوه‌های مرتفع",
+                "مناطق نیمه‌خشک"
+            ]
+        },
+        {
+            "name": "ویژگی‌های زمین‌شناسی",
+            "description": [
+                "سنگ‌های آهکی",
+                "گسل‌های فعال",
+                "رسوبات آبرفتی"
+            ]
+        }
+    ],
+    "natural_resources": [
+        {
+            "name": "منابع آبی",
+            "description": [
+                "چشمه‌های آب معدنی",
+                "قنات‌های تاریخی",
+                "آب‌های زیرزمینی"
+            ]
+        },
+        {
+            "name": "منابع معدنی",
+            "description": [
+                "سنگ آهک",
+                "گچ",
+                "سنگ مرمر",
+                "سیلیس"
+            ]
+        }
+    ],
+    "tourist_attractions": [
+        {
+            "name": "نقش‌ برجسته تنگ قندیل",
+            "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Sarab-e_Qandil_Panel_view.jpg/500px-Sarab-e_Qandil_Panel_view.jpg"],
+            "year_built": "دوره ساسانی",
+            "architect": "نامشخص",
+            "constructor": "شاپور یکم ساسانی",
+            "description": "نقش برجسته تاریخی از مراسم ازدواج شاپور یکم با ملکه آذرآناهید به همراه تصویر کرتیر موبد، از مهم‌ترین آثار ساسانی منطقه."
+          },
+          {
+            "name": "غار کله‌کفتری",
+            "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYKsxVTjzwbc2VSRzT_CxhYChYQo4G_aJKg&s"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "دومین غار عمودی استان فارس با 800 متر طول و 80 متر عمق در ارتفاعات جنوب شرقی قائمیه که برای غارنوردی مناسب است."
+          },
+          {
+            "name": "چشمه آبگرم سراب بهرام",
+            "images": ["https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2023/10/Sarab-Bahram-Lamard-hot-spring.jpg.webp"],
+            "year_built": "",
+            "architect": "",
+            "constructor": "",
+            "description": "چشمه آبگرم معدنی با خواص درمانی در منطقه قائمیه که در میان طبیعت زیبای کوهپایه‌ای قرار دارد."
+          }
+    ],
+    "additional_info": {
+        "wikipedia_source": ["https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D8%A6%D9%85%DB%8C%D9%87"],
+        "books_source": "http://chap.sch.ir/books/12315"
+    }
+}
