@@ -1,0 +1,178 @@
+{
+    "title": "ویژگی‌های جغرافیایی شهرستان مبارکه",
+    "location": {
+      "province": "اصفهان",
+      "city": "مبارکه"
+    },
+    "geographical_features": [
+      {
+        "name": "رودخانه‌ها",
+        "description": [
+          {
+            "name": "زاینده‌رود",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "کوه‌ها",
+        "description": [
+          {
+            "name": "کوه‌های اطراف مبارکه",
+            "images": []
+          }
+        ]
+      },
+      {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": [
+          "درختان انار",
+          "درختان زردآلو",
+          "درختان هلو",
+          "درختان انگور"
+        ]
+      }
+    ],
+    "topography": [
+      {
+        "name": "اقلیم",
+        "description": [
+          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
+          "میانگین بارش سالانه: حدود ۱۴۰ میلی‌متر"
+        ]
+      },
+      {
+        "name": "ارتفاع",
+        "description": [
+          "میانگین ارتفاع شهرستان: ۱۶۹۰ متر از سطح دریا"
+        ]
+      },
+      {
+        "name": "توپوگرافی",
+        "description": [
+          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
+        ]
+      },
+      {
+        "name": "ویژگی‌های زمین‌شناسی",
+        "description": [
+          "وجود معادن سنگ آهک و رس",
+          "گسل‌های فعال در منطقه"
+        ]
+      }
+    ],
+    "natural_resources": [
+      {
+        "name": "منابع آبی",
+        "description": [
+          "قنات‌ها و چشمه‌های فصلی",
+          "رودخانه زاینده‌رود"
+        ]
+      },
+      {
+        "name": "منابع معدنی",
+        "description": [
+          "سنگ آهک",
+          "رس"
+        ]
+      }
+    ],
+    "tourist_attractions": [
+      {
+        "name": "پارک ساحلی سرارود",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "پارکی با فضای سبز گسترده در حاشیه زاینده‌رود، مناسب برای تفریح و استراحت."
+      },
+      {
+        "name": "پارک کوهستانی گل نرگس",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "پارکی با مناظر طبیعی زیبا و امکانات رفاهی."
+      },
+      {
+        "name": "بوستان میدان دفاع مقدس",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بوستانی با فضای سبز و یادمان‌های مربوط به دفاع مقدس."
+      },
+      {
+        "name": "پارک و شهربازی شهدای زینلی",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "پارکی با امکانات تفریحی برای کودکان و خانواده‌ها."
+      },
+      {
+        "name": "باغ بانوان مبارکه",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "باغی اختصاصی برای بانوان با امکانات ورزشی و تفریحی."
+      },
+      {
+        "name": "بوستان هشت بهشت",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بوستانی با فضای سبز و امکانات رفاهی."
+      },
+      {
+        "name": "بوستان نقاش باشی",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بوستانی با فضای هنری و فرهنگی."
+      },
+      {
+        "name": "پارک لاله",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "پارکی با فضای سبز و امکانات تفریحی."
+      },
+      {
+        "name": "بوستان ساحلی اسماعیل ترخان",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بوستانی در حاشیه زاینده‌رود با مناظر طبیعی زیبا."
+      },
+      {
+        "name": "بوستان امام زاده عزالدین محمد",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "بوستانی در مجاورت امامزاده عزالدین محمد با فضای معنوی."
+      },
+      {
+        "name": "پارک شهدای جنگلبان صفائیه",
+        "images": [],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "پارکی با فضای سبز و یادمان شهدای جنگلبان."
+      }
+    ],
+    "additional_info": {
+      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    }
+  }
+  
