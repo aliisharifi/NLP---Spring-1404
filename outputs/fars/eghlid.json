@@ -9,7 +9,7 @@
             "name": "رودخانه‌ها",
             "description": [
                 {"name": "رودخانه شکاب", "images": []},
-                {"name": "رودخانه شادکام", "images": []},
+                {"name": "رودخانه شادکام", "images": ["http://seeiran.ir/wp-content/uploads/2014/06/%D8%B1%D9%88%D8%AF-%D8%B4%D8%A7%D8%AF%DA%A9%D8%A7%D9%85.jpg"]},
                 {"name": "رودخانه کر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Paddies_around_Kor_River%2C_Kamfirouz_%D8%B4%D8%A7%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A7%D8%B7%D8%B1%D8%A7%D9%81_%D8%B1%D9%88%D8%AF_%DA%A9%D8%B1%D8%8C_%DA%A9%D8%A7%D9%85%D9%81%DB%8C%D8%B1%D9%88%D8%B2_-_panoramio.jpg/500px-Paddies_around_Kor_River%2C_Kamfirouz_%D8%B4%D8%A7%D9%84%DB%8C%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C_%D8%A7%D8%B7%D8%B1%D8%A7%D9%81_%D8%B1%D9%88%D8%AF_%DA%A9%D8%B1%D8%8C_%DA%A9%D8%A7%D9%85%D9%81%DB%8C%D8%B1%D9%88%D8%B2_-_panoramio.jpg"]}
             ]
         },
@@ -23,7 +23,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": [
                 {"name": "دریاچه کافتر", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg/500px-Iran_-_Fars_-_Eqlid_-_Kaftar_Lake_-_panoramio.jpg"]},
                 {"name": "دریاچه تنگ براق", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg/250px-Iran_-_Pars_Province_-_Tangeh_Boragh_-_panoramio.jpg"]},
@@ -115,8 +115,8 @@
             "name": "امامزاده سید محمد",
             "images": ["https://upload.wikimedia.org/wikipedia/commons/7/75/Em.S.Kaftar.jpg"],
             "year_built": "دوره اسلامی",
-            "architect": "",
-            "constructor": "",
+            "architect": "نامشخص",
+            "constructor": "نامشخص",
             "description": "بقعه متبرکه در کنار دریاچه کافتر با محیطی سرسبز و چشمه‌سارهای متعدد."
         },
         {

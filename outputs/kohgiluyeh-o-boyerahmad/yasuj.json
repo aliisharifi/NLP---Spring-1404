@@ -18,7 +18,7 @@
         },
         {
             "name": "رودخانه گردآوه",
-            "images": []
+            "images": ["https://mehrgol.com/app/uploads/2015/09/yasuj_22.jpg"]
         },
         {
             "name": "رودخانه مهریان",
@@ -131,7 +131,7 @@
     {
       "name": "پارک جنگلی یاسوج",
       "images": ["https://www.flytoday.ir/blog/wp-content/uploads/2024/07/پارک-جنگلی-یاسوج-1.jpg"],
-      "year_built": "معاصر",
+      "year_built": "1981",
       "architect": "نامشخص",
       "constructor": "شهرداری یاسوج",
       "description": "یکی از بزرگ‌ترین پارک‌های جنگلی جنوب ایران."

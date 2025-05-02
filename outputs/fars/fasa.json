@@ -16,7 +16,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {
@@ -109,7 +109,7 @@
         },
         {
             "name": "امامزاده اسماعیل",
-            "images": ["blob:https://farsnews.ir/b5c0c68e-9516-49db-90f7-eb5e3288a505"],
+            "images": ["https://static.neshanmap.ir/places/images/a3d/134697_298111_Thumbnail.jpeg","https://static.neshanmap.ir/places/images/a3d/134928_298609_Thumbnail.jpeg"],
             "year_built": "دوره ایلخانی",
             "architect": "نامشخص",
             "constructor": "نامشخص",

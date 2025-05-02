@@ -96,6 +96,22 @@
         "architect": "نامشخص",
         "constructor": "علی‌محمدخان قوام‌الملک دوم",
         "description": "باغی تاریخی با درختان کهنسال و سیستم آبیاری سنتی که نمونه‌ای از باغ‌های ایرانی است. این باغ در گذشته محل پذیرایی از مهمانان حکومتی بوده و دارای عمارتی زیبا در میان باغ است."
+    },
+    {
+        "name": "شهر پارسه",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gate_of_All_Nations%2C_Persepolis.jpg/500px-Gate_of_All_Nations%2C_Persepolis.jpg","https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg/1200px-%D9%BE%D8%A7%D9%86%D9%88%D8%B1%D8%A7%D9%85%D8%A7_%D8%B1%D9%88%D8%B2_%D8%AA%D8%AE%D8%AA_%D8%AC%D9%85%D8%B4%DB%8C%D8%AF.jpg"],
+        "year_built": "۵۱۸ پیش از میلاد",
+        "architect": "نامشخص",
+        "constructor": "داریوش بزرگ، خشایارشا و اردشیر یکم",
+        "description": "پایتخت باشکوه هخامنشیان که به دستور داریوش بزرگ ساخته شد و نمونه‌ای درخشان از معماری سنگی با ستون‌های بلند، کاخ‌های مجلل و نقش‌برجسته‌های تاریخی است. این مجموعه نمادی از قدرت و شکوه ایران باستان به‌شمار می‌رود."
+    },
+    {
+        "name": "آرامگاه کوروش بزرگ",
+        "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Pasargad_Tomb_Cyrus3.jpg/500px-Pasargad_Tomb_Cyrus3.jpg"],
+        "year_built": "۵۳۰ پیش از میلاد",
+        "architect": "نامشخص",
+        "constructor": "به دستور کوروش بزرگ",
+        "description": "آرامگاه بنیان‌گذار سلسله هخامنشی که با معماری ساده اما باصلابت ساخته شده و در دشت پاسارگاد قرار دارد. این بنا یکی از نمادهای هویت ملی ایران است و در فهرست میراث جهانی یونسکو ثبت شده است."
     }
   ],
   "additional_info": {

@@ -12,7 +12,7 @@
         {
             "name": "کوه‌ها",
             "description": [
-                {"name": "کوه خیگ پشت", "images": []},
+                {"name": "کوه خیگ پشت", "images": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbtQ6nb1Z3_9hmuNNUVjCGJ3sjOx3JAK9fBA&s","https://s2.wklcdn.com/image_541/16248354/187328468/115988669Master.jpg"]},
                 {"name": "کوه پیرایه", "images": []},
                 {"name": "کوه سهوکی", "images": []},
                 {"name": "کوه سیبکی", "images": ["https://s2.wklcdn.com/image_126/3784887/132186896/84225866.400x300.jpg"]},
@@ -20,7 +20,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {

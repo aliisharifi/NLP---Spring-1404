@@ -20,7 +20,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {
@@ -89,7 +89,7 @@
         },
         {
             "name": "چهارطاقی ساسانی صفاشهر",
-            "images": [],
+            "images": ["https://amordadnews.com/wp-content/uploads/2022/12/khorambid.jpg"],
             "year_built": "دوره ساسانی",
             "architect": "نامشخص",
             "constructor": "نامشخص",

@@ -16,7 +16,7 @@
             "name": "کوه‌ها",
             "description": [
                 {"name": "کوه بید سندل", "images":[]},
-                {"name": "کوه حسین", "images": []},
+                {"name": "کوه حسین", "images": ["https://s2.wklcdn.com/image_321/9637590/169396296/105852740.400x300.jpg"]},
                 {"name": "کوه قلعه", "images": []},
                 {"name": "کوه قلعه شکسته", "images": ["https://api2.kojaro.com/media/2018-5-a58d3404-7729-482a-8370-410916d5941d-67c460f2c1067c5ba763e97c?w=828&q=80"]},
                 {"name": "کوه سیاه", "images": []},
@@ -28,7 +28,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": [
                 {"name": "دریاچه سد درودزن", "images": ["https://last-cdn.com//2018/09/24/6264-Nh4nvfCCPIU7Z5E1YHCM.jpeg"]}
             ]

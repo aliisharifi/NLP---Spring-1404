@@ -16,10 +16,11 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": [
-                {"name": "دریاچه نی ریز", "images": []},
-                {"name": "دریاچه سد گنوی مشکان", "images": []}
+                {"name": "دریاچه نی ریز", "images": ["https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/edb0e25a9bc0c9f08af060de71a7dee7bd70d0c165d81cf58f56da89d586c77b_original.jpg"]},
+                {"name": "دریاچه سد گنوی مشکان", "images": [""]},
+                {"name":"دریاچه بختگان", "images":["https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Bakhtegan_Lake.jpg/500px-Bakhtegan_Lake.jpg"]}
             ]
         },
         {

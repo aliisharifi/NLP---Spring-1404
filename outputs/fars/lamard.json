@@ -8,7 +8,7 @@
         {
             "name": "رودخانه‌ها",
             "description": [
-                {"name": "رودخانه مهران", "images": []},
+                {"name": "رودخانه مهران", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Mehran_River_%D8%B1%D9%88%D8%AF_%D9%85%D9%87%D8%B1%D8%A7%D9%86_-_panoramio.jpg/500px-Mehran_River_%D8%B1%D9%88%D8%AF_%D9%85%D9%87%D8%B1%D8%A7%D9%86_-_panoramio.jpg"]},
                 {"name": "رودخانه بیرمی", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Alamarvdasht_River_%D8%B1%D9%88%D8%AF_%D8%B9%D9%84%D8%A7%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA_%D8%AF%D8%B1_%D8%A7%D9%86%D8%AA%D9%87%D8%A7%DB%8C_%D8%AF%D8%B4%D8%AA_-_panoramio.jpg/500px-Alamarvdasht_River_%D8%B1%D9%88%D8%AF_%D8%B9%D9%84%D8%A7%D9%85%D8%B1%D9%88%D8%AF%D8%B4%D8%AA_%D8%AF%D8%B1_%D8%A7%D9%86%D8%AA%D9%87%D8%A7%DB%8C_%D8%AF%D8%B4%D8%AA_-_panoramio.jpg"]},
                 {"name": "رودخانه گاوبندی", "images": []}
             ]
@@ -25,7 +25,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {

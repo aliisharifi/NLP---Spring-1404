@@ -19,7 +19,7 @@
       "name": "دریاچه‌ها",
       "description": [
         {"name": "دریاچه طشک", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Tashk_lake.jpg/500px-Tashk_lake.jpg"]},
-        {"name": "دریاچه ارسنجان", "images": []}
+        {"name": "چشمه گمبان ارسنجان", "images": ["https://cdn.fararu.com/files/fa/news/1402/5/11/1674596_345.jpg"]}
       ]
     },
     {
@@ -60,13 +60,16 @@
     {
       "name": "منابع آبی",
       "description": [
-        "قنات‌ها"
+        "قنات‌ها",
+        "آب زیرزمینی"
       ]
     },
     {
       "name": "منابع معدنی",
       "description": [
-        "طلا"
+        "طلا",
+        "مرمریت",
+        "منگنز"
       ]
     }
   ],
