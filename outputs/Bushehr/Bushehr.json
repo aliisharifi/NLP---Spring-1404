@@ -1,129 +1,146 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان بوشهر",
-    "location": {
-      "province": "بوشهر",
-      "city": "بوشهر"
+  "title": "ویژگی‌های جغرافیایی بوشهر",
+  "location": {
+    "province": "بوشهر",
+    "city": "بوشهر"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه شاپور",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/a/af/IranBishapur1.jpg"]
+        },
+        {
+          "name": "رودخانه دالکی",
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/07/4-18.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف منطقه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 225 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 11 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "ساحل ریشهر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "ساحلی زیبا با شن‌های نرم و صدف‌های فراوان، مناسب برای تفریحات آبی و پیاده‌روی."
-      },
-      {
-        "name": "عمارت ملک",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "عمارت تاریخی با معماری خاص، واقع در شهر بوشهر."
-      },
-      {
-        "name": "مدرسه سعادت",
-        "images": [],
-        "year_built": "سال 1285 هجری شمسی",
-        "architect": "",
-        "constructor": "",
-        "description": "نخستین مدرسه مدرن در جنوب ایران، واقع در شهر بوشهر."
-      },
-      {
-        "name": "بازار قدیم بوشهر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری تاریخی با معماری خاص و فروش انواع محصولات محلی."
-      },
-      {
-        "name": "پارک شغاب",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی ساحلی با امکانات تفریحی و چشم‌اندازهای زیبا."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه گچ ترش",
+          "images": ["https://irantourismonline.com//upload/other/mTJ3ZQLsoS.jpg"]
+        },
+        {
+          "name": "کوه نوکند",
+          "images": ["https://safarsanji.ir/wp-content/uploads/2024/12/0e98bf42ef282d6b0a19b7915907c6be_zzz-1.jpg?v=1734968122"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "مراتع و جنگل‌های پراکنده بلوط",
+        "گیاهان دارویی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 220 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 18 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن سنگ آهک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "ساحل ریشهر",
+      "images": ["https://media.fanoosedarya.ir/wp-content/uploads/2023/07/%D8%B3%D8%A7%D8%AD%D9%84-%D8%B1%DB%8C%D8%B4%D9%87%D8%B1-%D8%A8%D9%88%D8%B4%D9%87%D8%B1.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "ساحلی زیبا با قدمت تاریخی، مناسب برای تفریح و گردشگری."
+    },
+    {
+      "name": "عمارت گلشن",
+      "images": ["https://safarmarket.com/blog/data/uploaded_files/9bce6614fd1b55ed29d352c8.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "عمارت تاریخی با معماری منحصر به فرد در محله بهبهانی بوشهر."
+    },
+    {
+      "name": "بازار قدیم بوشهر",
+      "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2022/09/01-3.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری سنتی با معماری تاریخی، مرکز خرید و فروش کالاهای محلی."
+    },
+    {
+      "name": "عمارت کازرونی",
+      "images": ["https://upload.wikimedia.org/wikipedia/fa/e/e8/%D8%B9%D9%85%D8%A7%D8%B1%D8%AA_%DA%A9%D8%A7%D8%B2%D8%B1%D9%88%D9%86%DB%8C_%28%D9%85%D8%AD%D9%84%D9%87_%D8%A8%D9%87%D8%A8%D9%87%D8%A7%D9%86%DB%8C%29.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "عمارت تاریخی با معماری زیبا و منحصر به فرد در بوشهر."
+    },
+    {
+      "name": "جزیره خارگ",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/3/39/Kharg_Island_in_2022_%2807%29.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جزیره‌ای با اهمیت اقتصادی و تاریخی در خلیج فارس."
+    },
+    {
+      "name": "جزیره شیف",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/4/45/Shif_island%2C_Iran.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جزیره‌ای با طبیعت بکر و زیستگاه پرندگان مهاجر."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/بوشهر",
+      "https://fa.wikipedia.org/wiki/شهرستان_بوشهر"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

@@ -1,138 +1,180 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان دشتی",
-    "location": {
-      "province": "بوشهر",
-      "city": "خورموج"
+  "title": "ویژگی‌های جغرافیایی دشتی",
+  "location": {
+    "province": "بوشهر",
+    "city": "خورموج"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه مند",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mond_River_%D9%BE%D9%84_%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D9%86%D8%AF_-_panoramio.jpg/1280px-Mond_River_%D9%BE%D9%84_%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87_%D9%85%D9%86%D8%AF_-_panoramio.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه مند",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه بیرمی",
-            "images": []
-          },
-          {
-            "name": "کوه مند",
-            "images": []
-          },
-          {
-            "name": "کوه نمک جاشک",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: بین 200 تا 285 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 60 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌ها و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "رودخانه مند",
-          "چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "قلعه محمد خان دشتی (قلعه خورموج)",
-        "images": [],
-        "year_built": "سال 1264 هجری قمری",
-        "architect": "",
-        "constructor": "محمد خان دشتی",
-        "description": "قلعه‌ای تاریخی با معماری خاص، واقع در شهر خورموج، که به عنوان یکی از آثار ملی ایران به ثبت رسیده است."
-      },
-      {
-        "name": "گنبد نمکی جاشک",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بزرگترین گنبد نمکی خاورمیانه با وسعت 3666 هکتار، واقع در نزدیکی شهر خورموج."
-      },
-      {
-        "name": "آتشکده مند",
-        "images": [],
-        "year_built": "دوران ساسانی",
-        "architect": "",
-        "constructor": "",
-        "description": "نیایشگاهی باستانی واقع در نوار ساحلی کوه مند، با معماری سنگی و تاریخی."
-      },
-      {
-        "name": "چشمه آبگرم نیکو",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "چشمه‌ای طبیعی با آب گرم معدنی، مناسب برای درمان برخی بیماری‌های پوستی و رماتیسمی."
-      },
-      {
-        "name": "قلعه دختر لاور ساحلی",
-        "images": [],
-        "year_built": "دوران ساسانی",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی واقع در روستای لاور ساحلی، با معماری خاص و چشم‌اندازهای زیبا."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه بیرمی",
+          "images": ["https://img9.irna.ir/old/Image/1392/13920401/80709136/N80709136-4416022.jpg"]
+        },
+        {
+          "name": "کوه مند",
+          "images": ["https://safarmarket.com/blog/data/uploaded_files/6cf0ec16302899f8f0a3ec45.jpg"]
+        },
+        {
+          "name": "کوه نمک جاشک",
+          "images": ["https://sepanja.com/blog/wp-content/uploads/2020/02/photo_2020-02-28_22-47-26.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "نخلستان‌های گسترده",
+        "درختان کنار",
+        "درختان کهور",
+        "درختان گز"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 200 تا 285 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 70 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های وسیع با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن سنگ آهک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "قلعه خورموج",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/GhaleeMohammadKhan.jpg/500px-GhaleeMohammadKhan.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی با معماری منحصر به فرد در شهر خورموج."
+    },
+    {
+      "name": "آتشکده مند",
+      "images": ["https://www.alaedin.travel/Files/Jazebe/dashti/kalat-temple-in-dashti/Alaedin-Travel-Agency-Attraction-Kalat-Temple-Dashti-1.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آتشکده‌ای تاریخی در نزدیکی کوه مند."
+    },
+    {
+      "name": "گنبد نمکی جاشک",
+      "images": ["https://sepanja.com/blog/wp-content/uploads/2020/02/photo_2020-02-28_22-47-26.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "بزرگ‌ترین گنبد نمکی خاورمیانه با مناظر طبیعی زیبا."
+    },
+    {
+      "name": "قلعه دختر لاور ساحلی",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/02/1-129.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در روستای لاور ساحلی."
+    },
+    {
+      "name": "عمارت شیرینه",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/02/3-126.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "عمارت تاریخی با معماری زیبا در دشتی."
+    },
+    {
+      "name": "پل کردلان",
+      "images": ["http://uupload.ir/files/7bi7_img_7845.jpg"],
+      "year_built": "دوره پهلوی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل تاریخی در روستای کردلان بر روی رودخانه مند."
+    },
+    {
+      "name": "چشمه آبگرم نیکو",
+      "images": ["https://www.niksalehi.com/gardeshgari/wp-content/uploads/sites/48/2020/08/places-of-interest-in-khormuj-1.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای آبگرم با خواص درمانی در دشتی."
+    },
+    {
+      "name": "چشمه آبگرم گنویه",
+      "images": ["https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2023/09/Gnoye-Dashti-hot-spring.jpg.webp"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای آبگرم با طبیعت بکر در دشتی."
+    },
+    {
+      "name": "کلوت‌های مند",
+      "images": ["https://safarmarket.com/blog/data/uploaded_files/6cf0ec16302899f8f0a3ec45.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "پدیده‌های طبیعی زیبا در نزدیکی کوه مند."
+    },
+    {
+      "name": "تنگه شیرینه",
+      "images": ["https://aftabnews.ir/files/fa/news/1399/2/27/427321_147.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "تنگه‌ای زیبا با مناظر طبیعی در دشتی."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_دشتی",
+      "https://fa.wikipedia.org/wiki/منطقه_دشتی"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

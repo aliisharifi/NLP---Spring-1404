@@ -1,129 +1,158 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان دیلم",
-    "location": {
-      "province": "بوشهر",
-      "city": "بندر دیلم"
+  "title": "ویژگی‌های جغرافیایی دیلم",
+  "location": {
+    "province": "بوشهر",
+    "city": "دیلم"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه دیلم",
+          "images": ["https://upload.wikimedia.org/wikipedia/fa/0/00/%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D9%87%D9%88%D8%A7%DB%8C%DB%8C_%D8%A8%D9%86%D8%AF%D8%B1_%D8%AF%DB%8C%D9%84%D9%85.png"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف منطقه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 225 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 11 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "سواحل بندر دیلم",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "سواحل زیبا و آرام خلیج فارس که امکان تفریحات آبی و صید ماهی را فراهم می‌کنند."
-      },
-      {
-        "name": "بازارچه ساحلی بندر دیلم",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری محلی با فروش انواع محصولات دریایی و صنایع دستی منطقه."
-      },
-      {
-        "name": "قلعه آقاخان لیراوی",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی واقع در روستای حصار، با معماری خاص و چشم‌اندازهای زیبا."
-      },
-      {
-        "name": "امامزاده حسن",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بقعه‌ای مذهبی واقع در شهر امام حسن، محل زیارت و برگزاری مراسم مذهبی."
-      },
-      {
-        "name": "نخلستان‌های دیلم",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "نخلستان‌های گسترده که منبع اصلی تولید خرما در منطقه هستند و مناظری زیبا را فراهم می‌کنند."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه بیکس",
+          "images": ["https://fa.tripyar.com/uploads/picture/3868/2.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "مراتع و جنگل‌های پراکنده بلوط",
+        "گیاهان دارویی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 200 تا 250 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 10 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن سنگ آهک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "قلعه حصار",
+      "images": ["https://media.chtn.ir/old/upload/files/2022-05/P1200973_1653462422.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در روستای حصار با معماری سنتی و برج‌های نگهبانی."
+    },
+    {
+      "name": "بندر حماد",
+      "images": ["https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1393/12/21/139312211158344844907394.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بندری تاریخی با طبیعت بکر و ساحل زیبا در شمال بندر دیلم."
+    },
+    {
+      "name": "پلاژ و ساحل ماسه‌ای دیلم",
+      "images": ["https://fa.tripyar.com/uploads/picture/3084/2.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "ساحلی وسیع با ماسه‌های نرم، مناسب برای تفریحات دریایی و گردشگری."
+    },
+    {
+      "name": "پارک جنگلی عامری",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/08/7-6.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "پارکی جنگلی در 15 کیلومتری شمال دیلم با فضای سبز و امکانات رفاهی."
+    },
+    {
+      "name": "بندر امام حسن",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/5/53/Imam_Hassan_20170326_25.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بندری قدیمی با جاذبه‌های گردشگری و تاریخی در 30 کیلومتری دیلم."
+    },
+    {
+      "name": "بازار کویتی‌ها",
+      "images": ["https://intoday.ir/wp-content/uploads/2020/06/Deylam-Port-Markets-8.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری سنتی در مرکز شهر دیلم با انواع کالاهای وارداتی و محلی."
+    },
+    {
+      "name": "بازارچه ساحلی",
+      "images": ["https://img9.irna.ir/d/r2/2025/01/13/4/171617506.jpg?ts=1736744029363"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری در انتهای خیابان ساحلی جنوبی با فروش محصولات دریایی و صنایع دستی."
+    },
+    {
+      "name": "بندر باستانی سی نیز",
+      "images": [""],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بندری تاریخی با بقایای شهر باستانی و محوطه‌های باستان‌شناسی."
+    },
+    {
+      "name": "جنگل بیدو",
+      "images": ["https://www.alaedin.travel/Files/Jazebe/deylam/siniz-port-in-deylam/Alaedin-Travel-Agency-Attraction-Deylam-Siniz-Port.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جنگلی در 17 کیلومتری شمال شرقی دیلم با پوشش گیاهی متنوع."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_دیلم",
+      "https://fa.wikipedia.org/wiki/بندر_دیلم"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

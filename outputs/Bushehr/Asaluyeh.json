@@ -1,5 +1,5 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان عسلویه",
+    "title": "ویژگی‌های جغرافیایی عسلویه",
     "location": {
       "province": "بوشهر",
       "city": "عسلویه"
@@ -7,21 +7,11 @@
     "geographical_features": [
       {
         "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
+        "description": []
       },
       {
         "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف منطقه",
-            "images": []
-          }
-        ]
+        "description": []
       },
       {
         "name": "دریاچه‌ها",
@@ -83,7 +73,7 @@
     "tourist_attractions": [
       {
         "name": "پارک ملی نایبند",
-        "images": [],
+        "images": ["https://www.eghamat24.com/blog/wp-content/uploads/2024/10/Nayband-National-Park.webp"],
         "year_built": "",
         "architect": "",
         "constructor": "",
@@ -91,7 +81,7 @@
       },
       {
         "name": "جنگل‌های حرا",
-        "images": [],
+        "images": ["https://safarmarket.com/blog/data/uploaded_files/8c184fc1968712739c41fa36.jpg"],
         "year_built": "",
         "architect": "",
         "constructor": "",
@@ -99,7 +89,7 @@
       },
       {
         "name": "آبشار درزو",
-        "images": [],
+        "images": ["https://www.iranhotelonline.com/blog/wp-content/uploads/2023/05/1683366541_%D8%A2%D8%A8%D8%B4%D8%A7%D8%B1-%D8%AF%D8%B1%D8%B2%D9%88-%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87-jpg.webp"],
         "year_built": "",
         "architect": "",
         "constructor": "",
@@ -107,7 +97,7 @@
       },
       {
         "name": "چشمه کلات",
-        "images": [],
+        "images": ["https://zhiva-parvaz.com/wp-content/uploads/2024/10/1539494_6275492-%DA%86%D8%B4%D9%85%D9%87-%DA%A9%D9%84%D8%A7%D8%AA-768x892.jpg"],
         "year_built": "",
         "architect": "",
         "constructor": "",
@@ -115,39 +105,43 @@
       },
       {
         "name": "روستای هاله",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
+        "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/03/1-33.jpg"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "روستایی ساحلی با سواحل صخره‌ای و جنگل‌های حرا، مناسب برای طبیعت‌گردی."
       },
       {
         "name": "روستای بنود",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
+        "images": ["https://last-cdn.com/2018/12/24/rab1y6qpcartINUM4Awgj0AvgI7CGGw6F6tAeKEJ.jpeg"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "روستایی با سواحل زیبا و غار دریایی، یکی از لوکیشن‌های فیلم حضرت محمد (ص)."
       },
       {
         "name": "دهکده گردشگری پازارگاد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
+        "images": ["https://www.nipna.ir/MediaServer/iNCPjUwujiSJZ4vE9zds35/22539_0_2016_12_800_0_0_jpg_0_0/%d8%a2%d9%85%d8%a7%d8%af%da%af%db%8c-%d8%af%d9%87%da%a9%d8%af%d9%87-%da%af%d8%b1%d8%af%d8%b4%da%af%d8%b1%db%8c-%d8%af%d8%b1%db%8c%d8%a7%d8%a6%db%8c-%d9%be%d8%a7%d8%b2%d8%a7%d8%b1%da%af%d8%a7%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d9%85%db%8c%d8%b2%d8%a8%d8%a7%d9%86%db%8c-%d8%ae%d8%a7%d9%86%d9%88%d8%a7%d8%af%d9%87-%d8%a8%d8%b2%d8%b1%da%af-%d8%b5%d9%86%d8%b9%d8%aa-%d9%86%d9%81%d8%aa-%d8%a7%db%8c%d8%b1%d8%a7%d9%86.jpg"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "دهکده‌ای تفریحی با امکانات اقامتی، رستوران، فروشگاه و تفریحات دریایی."
       },
       {
         "name": "اسکله نخل تقی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
+        "images": ["https://last-cdn.com/2019/09/04/KIjkrXEoYe8xZwT7YJBwBj3Y0EdbvWksWAsOfMEc.jpeg"],
+        "year_built": "نامشخص",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "اسکله‌ای زیبا با امکانات تفریحی و چشم‌اندازهای دریایی."
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "wikipedia_source": [
+        "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B9%D8%B3%D9%84%D9%88%DB%8C%D9%87",
+        "https://fa.wikipedia.org/wiki/%D8%A2%D8%A8%E2%80%8C%D8%A7%D9%86%D8%A8%D8%A7%D8%B1_%D8%A8%D9%86%D8%AF%D9%88"
+      ],
+      "books_source": "http://chap.sch.ir/books/12305"
     }
   }
   
