@@ -18,7 +18,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {
@@ -80,7 +80,7 @@
     "tourist_attractions": [
         {
             "name": "مجموعه آبنارنگ",
-            "images": [],
+            "images": ["https://baharekavar.ir/wp-content/uploads/2020/11/IMG-20201107-WA0029.jpg"],
             "year_built": "",
             "architect": "",
             "constructor": "",

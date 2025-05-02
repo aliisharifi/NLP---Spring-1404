@@ -68,7 +68,24 @@
       ]
     }
   ],
-  "tourist_attractions": [],
+  "tourist_attractions": [
+    {
+        "name": "تنگ ماغر",
+        "images": ["https://api2.kojaro.com/media/2018-10-f1f0b5db-7264-475e-bcb6-00139d22ccdb-67c460f9c1067c5ba764d4b2?w=1680&q=80"],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
+        "description": "چشم‌اندازهای زیبای طبیعی آب و هوای معتدل و چشمه‌های جوشان در محیط اطراف تنگ ماغر سبب شده است که تعداد زیادی از گردشگران این منطقه را به‌عنوان مقصد گردشگری خود انتخاب کنند."
+    },
+    {
+        "name": "قلعه تاریخی ممبی",
+        "images": ["https://bahmei.com/wp-content/uploads/2022/03/%D8%AE%D8%B1%D8%A7%D8%A8%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%82%D9%84%D8%B9%D9%87-%D8%AE%D8%A7%D9%86%E2%80%8C%D9%86%D8%B4%DB%8C%D9%86-%D9%85%D9%85%D8%A8%DB%8C-1536x996.jpg"],
+        "year_built": "دوره قاجار",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
+        "description": "قلعه‌ای سنگی با معماری سنتی که بر فراز تپه‌ای مشرف به منطقه ساخته شده و در گذشته به‌عنوان مرکز حکمرانی و پناهگاه دفاعی مورد استفاده قرار می‌گرفته است."
+    }
+  ],
   "additional_info": {
     "wikipedia_source": "https://fa.wikipedia.org/wiki/قلعه_ممبی"
   }

@@ -12,13 +12,13 @@
         {
             "name": "کوه‌ها",
             "description": [
-                {"name": "کوه سیاه", "images": []},
+                {"name": "کوه سیاه", "images": ["https://s2.wklcdn.com/image_340/10209171/159490443/99997082.400x300.jpg"]},
                 {"name": "کوه سرخ", "images": ["https://lidomatrip.com/blog/wp-content/uploads/2021/07/%DA%A9%D9%88%D9%87-%D8%B3%D8%B1%D8%AE-%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2-%DA%A9%D8%AC%D8%A7%D8%B3%D8%AA-%D9%88-%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%A2%D9%86-%DA%86%D9%82%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%9F-%D9%85%D8%AC%D9%84%D9%87-%DA%AF%D8%B1%D8%AF%D8%B4%DA%AF%D8%B1%DB%8C-%D9%84%DB%8C%D8%AF%D9%88%D9%85%D8%A7%D8%AA%D8%B1%DB%8C%D9%BE.jpg"]},
                 {"name": "کوه کلات", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Kalat_mountain.jpg/500px-Kalat_mountain.jpg"]}
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {

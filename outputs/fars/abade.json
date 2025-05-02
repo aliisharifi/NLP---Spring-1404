@@ -8,8 +8,8 @@
         {
             "name": "رودخانه‌ها",
             "description": [
-                {"name": "رودخانه سیوند", "images": []},
-                {"name": "رودخانه ایزدخواست", "images": []}
+                {"name": "رودخانه سیوند", "images": ["http://shirazhamsafar.ir/ckfinder/userfiles/images/%D8%B3%D8%AF%20%D8%B3%DB%8C%D9%88%D9%86%D8%AF.jpg"]},
+                {"name": "رودخانه ایزدخواست", "images": ["https://tishineh.com/tour/Pictures/Item/1586/19940.jpg?quality=50&404=default"]}
             ]
         },
         {
@@ -17,7 +17,7 @@
             "description": []
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": []
         },
         {

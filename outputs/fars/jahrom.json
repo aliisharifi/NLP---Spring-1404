@@ -24,7 +24,7 @@
             ]
         },
         {
-            "name": "دریاچه ها",
+            "name": "دریاچه‌ها",
             "description": [
                 {"name": "دریاچه سد سلمان فارسی", "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ghir_Dam_%D8%B3%D8%AF_%D9%82%DB%8C%D8%B1_-_panoramio.jpg/500px-Ghir_Dam_%D8%B3%D8%AF_%D9%82%DB%8C%D8%B1_-_panoramio.jpg"]}
             ]
@@ -120,7 +120,7 @@
         },
         {
             "name": "امامزاده سلطان ابراهیم",
-            "images": [],
+            "images": ["https://lh3.googleusercontent.com/gps-cs-s/AC9h4npEPRvbq_KcWZh1dRFMautMBVxquDBGLz0UmK1v6OBbZL7YVHRc_i87FX7El0m-2FHwpu51euYU4BwT6FDWuk7Ia-dAxLAnpz1J7im3xetwGwtfXNLc-KO2JBQIq5aADKmkCVHmaQ=s1360-w1360-h1020-rw"],
             "year_built": "دوره ایلخانیان",
             "architect": "نامشخص",
             "constructor": "نامشخص",
