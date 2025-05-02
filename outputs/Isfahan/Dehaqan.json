@@ -1,5 +1,5 @@
 {
-  "title": "ویژگی‌های جغرافیایی شهرستان دهاقان",
+  "title": "ویژگی‌های جغرافیایی دهاقان",
   "location": {
     "province": "اصفهان",
     "city": "دهاقان"
@@ -10,7 +10,11 @@
       "description": [
         {
           "name": "رودخانه شور دهاقان",
-          "images": []
+          "images": ["https://scontent-ams2-1.cdninstagram.com/v/t51.29350-15/403881661_1020976635872772_4032943495498225692_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjc5eDExMzYuc2RyLmYyOTM1MC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGRNcdqE-U23KtwDLVG8wyYmMqHWKSbYylHT-h3GrjV-WbxpZjCWFKZ2pZm0MxXtQE&_nc_ohc=C8TyJhdnyf8Q7kNvwHa3U5y&_nc_gid=soFb1TbnD2cv9_klVqUP5w&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfFLliRsREbtNSveH87zK6rKIx9GvEMu5AUasnNRu-2_NQ&oe=681A57B3&_nc_sid=d885a2"]
+        },
+        {
+          "name": "رودخانه کیلچی",
+          "images": ["https://t.me/doostdaranghombavan/4044"]
         }
       ]
     },
@@ -19,7 +23,11 @@
       "description": [
         {
           "name": "کوه قلاری",
-          "images": []
+          "images": ["https://scontent-ams2-1.cdninstagram.com/v/t51.2885-15/476407986_18009603395700868_1590579039309902416_n.jpg?stp=dst-jpg_e35_s750x750_sh0.08_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMjgweDY4OS5zZHIuZjc1NzYxLmRlZmF1bHRfaW1hZ2UifQ&_nc_ht=scontent-ams2-1.cdninstagram.com&_nc_cat=104&_nc_oc=Q6cZ2QElhb4YzsqI7OcCmwQNHkxRgpo9jeqm-V4EE38biHDueDIMYJpkF3TLy4eIQGFH_1U&_nc_ohc=dIVpDZZ_4C4Q7kNvwHnBbIA&_nc_gid=b24-k5uqn0JgMLdNOyqU3A&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AfFpl67lqexWAqdn9St1fWZB3vzu9e223Sedw_Fg78-pow&oe=681A6A1C&_nc_sid=d885a2"]
+        },
+        {
+          "name": "کوه شاه عبدالله",
+          "images": [""]
         }
       ]
     },
@@ -30,38 +38,39 @@
     {
       "name": "پوشش گیاهی",
       "description": [
-        "گون",
-        "آویشن",
-        "لاله‌های واژگون",
-        "درختان بادام کوهی"
+        "درختان بید، صنوبر و نارون در حاشیه رودخانه‌ها",
+        "گیاهان مرتعی و کوهستانی",
+        "لاله‌های واژگون در دشت آستانه"
       ]
     }
   ],
   "topography": [
     {
-      "name": "اقلیم",
+      "name": "منطقه اقلیمی",
       "description": [
-        "سرد و خشک با زمستان‌های سرد و تابستان‌های معتدل",
-        "میانگین دمای سالانه: ۱۴ درجه سانتی‌گراد"
+        "آب و هوای سرد و کوهستانی",
+        "زمستان‌های سرد و تابستان‌های معتدل",
+        "میانگین دمای سالانه حدود 14 درجه سانتی‌گراد"
       ]
     },
     {
       "name": "ارتفاع",
       "description": [
-        "میانگین ارتفاع شهرستان: ۲۰۵۰ متر از سطح دریا"
+        "میانگین ارتفاع 2050 متر از سطح دریا"
       ]
     },
     {
       "name": "توپوگرافی",
       "description": [
-        "کوهستانی با دره‌های عمیق و دشت‌های مرتفع"
+        "منطقه‌ای کوهستانی با دشت‌های مرتفع",
+        "وجود تپه‌ها و دره‌های متعدد"
       ]
     },
     {
       "name": "ویژگی‌های زمین‌شناسی",
       "description": [
-        "گسل فعال دهاقان با سرعت حرکت حدود ۴ میلی‌متر در سال",
-        "وجود معادن سنگ آهک، دولومیت و شیل"
+        "خاک‌های آهکی، رسی و شنی",
+        "وجود معادن سنگ آهک لاشه و مصالح ساختمانی"
       ]
     }
   ],
@@ -69,54 +78,90 @@
     {
       "name": "منابع آبی",
       "description": [
-        "قنات‌های تاریخی مانند قنات قهه",
-        "چشمه‌های طبیعی در مناطق کوهستانی"
+        "رودخانه‌های شور دهاقان و کیلچی",
+        "چشمه‌ها و قنات‌های متعدد",
+        "چاه‌های آب زیرزمینی"
       ]
     },
     {
       "name": "منابع معدنی",
       "description": [
-        "سنگ آهک",
-        "دولومیت",
-        "شیل"
+        "سنگ آهک لاشه",
+        "شن و ماسه"
       ]
     }
   ],
   "tourist_attractions": [
     {
-      "name": "دشت لاله‌های واژگون",
-      "images": [],
+      "name": "دشت لاله‌های واژگون آستانه",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000297_Test_PhotoN-Copy.jpg"],
       "year_built": "",
       "architect": "",
       "constructor": "",
-      "description": "منطقه‌ای طبیعی با پوشش گسترده‌ای از لاله‌های واژگون در رنگ‌های مختلف، واقع در ۲۵ کیلومتری شهر دهاقان."
+      "description": "دشتی با وسعت بیش از ۱۰۰۰ هکتار که در اردیبهشت ماه پوشیده از لاله‌های واژگون می‌شود."
     },
     {
-      "name": "منطقه گردشگری آستانه",
-      "images": [],
+      "name": "مسجد جامع دهاقان",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000277_Test_PhotoN-Copy.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری سنتی و گچبری‌های زیبا، واقع در مرکز شهر دهاقان."
+    },
+    {
+      "name": "مسجد میر",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000282_Test_PhotoN-Copy.jpg"],
+      "year_built": "دوره سلجوقی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "یکی از قدیمی‌ترین مساجد دهاقان با معماری خاص و تاریخی."
+    },
+    {
+      "name": "خانه تاریخی حسین‌قلی خان",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000285_Test_PhotoN-Copy-1.jpg"],
+      "year_built": "دوره زندیه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی با معماری سنتی، واقع در محله قلعه دهاقان."
+    },
+    {
+      "name": "آسیاب محمد رحیم",
+      "images": [""],
+      "year_built": "حدود ۲۲۵ سال پیش",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آسیابی تاریخی با قدمت بیش از دو قرن، مرمت‌شده و آماده بازدید گردشگران."
+    },
+    {
+      "name": "چشمه مردنگ",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000307_Test_PhotoN-Copy.jpg"],
       "year_built": "",
       "architect": "",
       "constructor": "",
-      "description": "منطقه‌ای با پوشش گیاهی متنوع و چشمه‌های طبیعی، مناسب برای گردشگری و طبیعت‌گردی."
+      "description": "چشمه‌ای طبیعی با آب زلال، واقع در منطقه‌ای سرسبز و مناسب برای گردشگری."
     },
     {
       "name": "روستای قمبوان",
-      "images": [],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
-      "description": "روستایی با معماری سنتی و باغات سرسبز، مناسب برای گردشگری روستایی."
+      "images": ["https://irantourismonline.com/upload/other/WG7hlHgP58.jpg"],
+      "year_built": "دوران باستان و پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی با طبیعت بکر، چشمه‌های متعدد و دشت‌های وسیع، واقع در دامنه شرقی کوه‌های زاگرس."
     },
     {
-      "name": "روستای همگین",
-      "images": [],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
-      "description": "روستایی با طبیعت بکر و مناظر کوهستانی زیبا، مناسب برای کوهنوردی و طبیعت‌گردی."
+      "name": "روستای بودجان",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/04/14011229000293_Test_PhotoN-Copy-1.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی با طبیعت زیبا و باغ‌های سرسبز، مناسب برای گردشگری و استراحت."
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/دهاقان",
+      "https://fa.wikipedia.org/wiki/شهرستان_دهاقان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
 }

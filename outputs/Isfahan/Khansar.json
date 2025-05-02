@@ -1,160 +1,151 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان خوانسار",
-    "location": {
-      "province": "اصفهان",
-      "city": "خوانسار"
+  "title": "ویژگی‌های جغرافیایی خوانسار",
+  "location": {
+    "province": "اصفهان",
+    "city": "خوانسار"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه خوانسار",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه هیکل",
-            "images": []
-          },
-          {
-            "name": "کوه‌های زاگرس شرقی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "گون گزانگبین",
-          "پیاز وحشی (موسیر)",
-          "لاله‌های واژگون",
-          "درختان بادام کوهی"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "تابستان‌های معتدل و خنک",
-          "زمستان‌های سرد و برفی"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۲۲۵۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "کوهستانی با دره‌های عمیق",
-          "دشت‌های مرتفع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "سنگ‌های آهکی و رسوبی",
-          "منابع معدنی محدود"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "چشمه‌های طبیعی مانند چشمه مرزن‌گشت",
-          "قنات‌ها",
-          "رودخانه خوانسار"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ‌های ساختمانی",
-          "منابع آهکی"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "پارک ملی سرچشمه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با وسعت ۱۵ هکتار در دامنه رشته کوه زاگرس، دارای چشمه‌های متعدد و فضای سبز مناسب برای گردشگری."
-      },
-      {
-        "name": "گلستان‌کوه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "منطقه‌ای در جنوب خوانسار با پوشش گیاهی متنوع از جمله لاله‌های واژگون و گون گزانگبین، مناسب برای طبیعت‌گردی."
-      },
-      {
-        "name": "غار هیکل",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "غاری با عمق ۱۹۰ متر در نزدیکی کوه هیکل، دومین غار چاهی ایران با ویژگی‌های زمین‌شناسی منحصر به فرد."
-      },
-      {
-        "name": "مسجد جامع خوانسار",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجدی تاریخی با معماری سنتی و گنبد فیروزه‌ای، یکی از بناهای مذهبی مهم شهرستان."
-      },
-      {
-        "name": "امامزاده سید احمد",
-        "images": [],
-        "year_built": "نامشخص",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بقعه‌ای مذهبی با معماری سنتی، مورد احترام مردم منطقه."
-      },
-      {
-        "name": "خانه حبیبی‌ها",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "خانه‌ای تاریخی با معماری سنتی و تزئینات زیبا، نمونه‌ای از خانه‌های قدیمی خوانسار."
-      },
-      {
-        "name": "روستای وانشان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با طبیعت بکر و معماری سنتی، مناسب برای گردشگری روستایی."
-      },
-      {
-        "name": "کوچه‌باغ‌های خوانسار",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "مسیرهای پیاده‌روی در میان باغات سرسبز و درختان کهن، مناسب برای گردش و تفریح."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه گلستان",
+          "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/12/%D9%85%D9%86%D8%B7%D9%82%D9%87-%D8%AD%D9%81%D8%A7%D8%B8%D8%AA-%D8%B4%D8%AF%D9%87-%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86-%DA%A9%D9%88%D9%87-%D8%AE%D9%88%D8%A7%D9%86%D8%B3%D8%A7%D8%B1.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان گردو، بادام، آلو، سیب و سرو",
+        "گل‌های لاله واژگون، گون گزانگبین و موسیر"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل کوهستانی با تابستان‌های خنک و زمستان‌های سرد",
+        "میانگین دمای سالانه حدود ۲۴ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۴۵۳ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۲۲۱۵ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کوهستانی با شیب ملایم",
+        "زمین‌های مناسب برای کشاورزی و باغداری"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "چشمه‌های متعدد مانند سرچشمه",
+        "قنات‌ها و چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "پارک ملی سرچشمه",
+      "images": ["https://last-cdn.com/2018/12/21/bAP6Vgx8EBq7zp2Tso5v9VhIFUxIo8cwhiz5Dt7d.jpeg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "منطقه‌ای طبیعی با چشمه‌های فراوان و فضای سبز دل‌انگیز"
+    },
+    {
+      "name": "گلستان‌کوه",
+      "images": ["https://soroosh-travels.com/wp-content/uploads/2020/02/Khansar-Winter-1398-2020-2.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "منطقه‌ای در جنوب خوانسار با گل‌های لاله واژگون و طبیعتی بکر"
+    },
+    {
+      "name": "تپه آریایی‌ها",
+      "images": ["https://anyja.ir/assets/upload/blog/AR-459-1400-2-5-17-03-d2onj.jpg"],
+      "year_built": "دوره آریایی‌ها",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "تپه‌ای باستانی با قدمت حدود ۸ هزار سال در روستای رحمت‌آباد"
+    },
+    {
+      "name": "خانه تاریخی ابهری",
+      "images": ["https://fa.tripyar.com/uploads/picture/3493/2.jpg"],
+      "year_built": "بیش از ۲۲۰ سال پیش",
+      "architect": "نامشخص",
+      "constructor": "حاج سید محمد باقر ابهری",
+      "description": "خانه‌ای تاریخی با معماری سنتی در بافت قدیمی خوانسار"
+    },
+    {
+      "name": "مدرسه مریم بیگم صفوی",
+      "images": ["https://seeiran.ir/wp-content/uploads/2021/07/%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D9%85%D8%B1%DB%8C%D9%85-%E2%80%8C%D8%A8%DB%8C%DA%AF%D9%85-%D8%B5%D9%81%D9%88%DB%8C.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "مریم بیگم صفوی",
+      "description": "مدرسه‌ای تاریخی که توسط همسر شاه تهماسب ساخته شده است"
+    },
+    {
+      "name": "معبد هیکل",
+      "images": ["https://media.mehrnews.com/old/Original/1391/12/25/IMG10574823.jpg"],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "معبدی باستانی واقع در کوه تیر روستای وانشان"
+    },
+    {
+      "name": "غار هیکل",
+      "images": ["https://api2.kojaro.com/media/2018-6-a8034dd8-b8b8-4c64-bba6-921ceb828de1-67c460f3c1067c5ba76418d2?w=1200&q=80"],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "غاری باستانی در کوه تیر روستای وانشان"
+    },
+    {
+      "name": "پل ساسان",
+      "images": ["https://anyja.ir/assets/upload/blog/AR-457-1400-2-5-17-21-kpimr.jpg"],
+      "year_built": "دوره ساسانیان",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پلی تاریخی در خوانسار"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/خوانسار",
+      "https://fa.wikipedia.org/wiki/شهرستان_خوانسار"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

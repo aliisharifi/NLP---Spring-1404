@@ -1,134 +1,131 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان شهرضا",
-    "location": {
-      "province": "اصفهان",
-      "city": "شهرضا"
+  "title": "ویژگی‌های جغرافیایی شهرضا",
+  "location": {
+    "province": "اصفهان",
+    "city": "شهرضا"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه شور",
+          "images": ["https://media.imna.ir/d/2022/03/18/3/1770226.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه شور",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه قلعه‌بیگ",
-            "images": []
-          },
-          {
-            "name": "کوه سیاه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درمنه",
-          "گون",
-          "تاغ",
-          "گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۲۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۸۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه شور"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "بازار بزرگ شهرضا",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بازاری تاریخی با معماری سنتی، واقع در مرکز شهر شهرضا."
-      },
-      {
-        "name": "امامزاده شاهرضا",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بقعه‌ای مذهبی با گنبدی زیبا و معماری سنتی، مورد احترام مردم منطقه."
-      },
-      {
-        "name": "پارک جنگلی شهرضا",
-        "images": [],
-        "year_built": "۱۳۷۵",
-        "architect": "شهرداری شهرضا",
-        "constructor": "شهرداری شهرضا",
-        "description": "پارکی جنگلی با مسیرهای پیاده‌روی و چشم‌انداز کوهستان."
-      },
-      {
-        "name": "روستای اسفرجان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با معماری سنتی و باغات سرسبز، مناسب برای گردشگری روستایی."
-      },
-      {
-        "name": "قلعه تاریخی قلعه‌بیگ",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "قلعه‌ای تاریخی با ساختار دفاعی، واقع در منطقه قلعه‌بیگ."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه گرم‌آباد",
+          "images": [""]
+        },
+        {
+          "name": "کوه پلنگی",
+          "images": ["http://media.imna.ir/d/2018/03/25/4/1497935.jpg"]
+        },
+        {
+          "name": "کوه سوراخ‌دار",
+          "images": [""]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان انار، انگور، بادام، سیب زمینی و غلات",
+        "گیاهان مرتعی و کوهستانی مانند گون و کتیرا"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل و خشک",
+        "میانگین دمای سالانه حدود ۱۳ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۱۵۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۸۲۵ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار با کوه‌های پراکنده در اطراف"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی و باغداری",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "بازار تاریخی شهرضا",
+      "images": ["https://cdn.mashreghnews.ir/d/2023/04/19/4/3776533.jpg?ts=1681901203000"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری تاریخی با معماری سنتی و راسته‌های مختلف"
+    },
+    {
+      "name": "کاروانسرای امین‌آباد",
+      "images": ["https://sinakhabar.ir/wp-content/uploads/2023/09/4676732-Copy-1024x700.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاروانسرایی تاریخی در روستای امین‌آباد با معماری ایرانی"
+    },
+    {
+      "name": "روستای اسفرجان",
+      "images": ["https://media.imna.ir/old/images/docs/000169/n00169814-b.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی با طبیعت بکر، باغ‌های میوه و چشمه‌های جوشان"
+    },
+    {
+      "name": "مسجد نو",
+      "images": ["https://media.imna.ir/old/images/docs/000185/n00185040-b.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری اسلامی در شهرضا"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرضا",
+      "https://fa.wikipedia.org/wiki/شهرستان_شهرضا"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

@@ -1,162 +1,129 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان فلاورجان",
-    "location": {
-      "province": "اصفهان",
-      "city": "فلاورجان"
+  "title": "ویژگی‌های جغرافیایی فلاورجان",
+  "location": {
+    "province": "اصفهان",
+    "city": "فلاورجان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه زاینده‌رود",
+          "images": ["https://cdn.asriran.com/files/fa/news/1401/2/3/1374092_456.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های گاوپیسه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان چنار",
-          "درختان سپیدار",
-          "درختان بید",
-          "درختان صنوبر"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۲۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۶۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "پل ورگان",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "پل تاریخی با معماری منحنی بر روی زاینده‌رود، دارای ۱۴۰ متر عرض و ۷.۵ متر طول."
-      },
-      {
-        "name": "پل بابا محمود",
-        "images": [],
-        "year_built": "۷۰۲ هجری قمری",
-        "architect": "بابا محمود",
-        "constructor": "بابا محمود",
-        "description": "پل تاریخی با طول ۱۵۲ متر و عرض متغیر بین ۵ تا ۸ متر، واقع در ۲ کیلومتری پیربکران."
-      },
-      {
-        "name": "پارک ساحلی کلیشاد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با فضای سبز و ساحل زاینده‌رود، مناسب برای تفریح و استراحت."
-      },
-      {
-        "name": "مجموعه استراخاتون",
-        "images": [],
-        "year_built": "دوره ساسانی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مقبره‌ای تاریخی با قدمت بیش از ۱۸۰۰ سال، متعلق به استاره خاتون."
-      },
-      {
-        "name": "خانه مویدی زفره",
-        "images": [],
-        "year_built": "دوره صفویه و قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "خانه‌ای تاریخی با معماری گوتیک، واقع در روستای زفره."
-      },
-      {
-        "name": "چهل برج کلیسان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "برج‌های کبوترخانه تاریخی در روستای کلیسان، نمونه‌ای از معماری سنتی."
-      },
-      {
-        "name": "مسجد جامع اشترجان",
-        "images": [],
-        "year_built": "دوره ایلخانی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجدی تاریخی با معماری دوره ایلخانی، واقع در روستای اشترجان."
-      },
-      {
-        "name": "بقعه پیربکران",
-        "images": [],
-        "year_built": "دوره ایلخانی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بقعه‌ای تاریخی متعلق به محمد بن بکران، واقع در شهر پیربکران."
-      },
-      {
-        "name": "کبوترخانه‌ها",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "برج‌های کبوترخانه تاریخی در منطقه پیربکران، نمونه‌ای از معماری سنتی."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "بیشه‌زارهای حاشیه زاینده‌رود",
+        "درختان بید، صنوبر و سپیدار",
+        "گیاهان مرتعی و کشاورزی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل با زمستان‌های سرد و تابستان‌های گرم",
+        "میانگین دمای سالانه حدود ۱۸ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۶۰۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع ۱۶۰۰ متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت رسوبی حاصلخیز زاینده‌رود",
+        "زمین‌های مسطح و مناسب برای کشاورزی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های آبرفتی و رسوبی",
+        "وجود گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه زاینده‌رود",
+        "قنات‌ها و چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "شن و ماسه",
+        "سنگ‌های ساختمانی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "پل تاریخی ورگان",
+      "images": ["https://cdn.tabnak.ir/files/fa/news_albums/1132093/47933/resized/resized_1553459_120.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل تاریخی بر روی زاینده‌رود که نام قدیم شهر (پل‌ورگان) از آن گرفته شده است."
+    },
+    {
+      "name": "آرامگاه پیربکران",
+      "images": ["https://vilayar.com/images/uploads/newfiles/17210505987107.jpeg"],
+      "year_built": "دوره ایلخانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آرامگاه محمد بن بکران، از پارسایان نامور منطقه، با معماری خاص دوره ایلخانی."
+    },
+    {
+      "name": "بیشه‌زارهای حاشیه زاینده‌رود",
+      "images": ["https://www.falavarjantourism.com/wp-content/uploads/2021/04/admin-ajax-7.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "مناطق سرسبز و طبیعی در حاشیه زاینده‌رود، مناسب برای گردش و تفریح."
+    },
+    {
+      "name": "دشت پیربکران",
+      "images": ["https://www.falavarjantourism.com/wp-content/uploads/2021/04/admin-ajax-8.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "دشتی وسیع با مناظر طبیعی زیبا در نزدیکی شهر پیربکران."
+    },
+    {
+      "name": "خانه‌های تاریخی فلاورجان",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/11/2-19.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌های قدیمی با معماری سنتی ایرانی در سطح شهر."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/فلاورجان",
+      "https://fa.wikipedia.org/wiki/شهرستان_فلاورجان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

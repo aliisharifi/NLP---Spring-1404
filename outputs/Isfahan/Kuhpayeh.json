@@ -1,134 +1,148 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان کوهپایه",
-    "location": {
-      "province": "اصفهان",
-      "city": "کوهپایه"
+  "title": "ویژگی‌های جغرافیایی کوهپایه",
+  "location": {
+    "province": "اصفهان",
+    "city": "کوهپایه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه مارشنان",
-            "images": []
-          },
-          {
-            "name": "کوه میل",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان انار",
-          "درختان پسته",
-          "درختان بادام",
-          "درختان زردآلو"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۲۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۵۷۰ متر از سطح دریا",
-          "ارتفاعات شمالی تا ۳۳۰۰ متر"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کاروانسرای عباسی کوهپایه",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "کاروانسرایی تاریخی با معماری منحصر به فرد."
-      },
-      {
-        "name": "مسجد جامع کوهپایه",
-        "images": [],
-        "year_built": "دوره سلجوقیان",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجدی تاریخی با گنبدی متعلق به دوره ساسانیان."
-      },
-      {
-        "name": "امامزاده قاسم بن موسی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "امامزاده‌ای تاریخی در شهر کوهپایه."
-      },
-      {
-        "name": "بازار قدیمی کوهپایه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری تاریخی با معماری سنتی."
-      },
-      {
-        "name": "چشمه آبگرم ورتون",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "چشمه‌ای آبگرم با خواص درمانی."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه مارشنان",
+          "images": ["http://seeiran.ir/wp-content/uploads/2015/02/%DA%A9%D9%88%D9%87-%D9%85%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D9%86.jpg"]
+        },
+        {
+          "name": "کوه میل",
+          "images": ["https://azhkahan.com/wp-content/uploads/2025/03/mil3.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان انار، بادام، زردآلو، پسته و انگور",
+        "گیاهان مرتعی و کویری"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک در تابستان",
+        "زمستان‌های سرد و خشک",
+        "میانگین بارش سالانه حدود 68.5 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود 2078 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کویری با شیب ملایم",
+        "زمین‌های مسطح و مناسب برای کشاورزی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های رسی و شنی",
+        "وجود قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها",
+        "چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "کاروانسرای عباسی کوهپایه",
+      "images": ["https://www.varzanehsaba.ir/wp-content/uploads/2019/01/IMG_2965.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "شاه عباس اول",
+      "description": "کاروانسرایی تاریخی با معماری ایرانی"
+    },
+    {
+      "name": "مسجد جامع کوهپایه",
+      "images": ["https://www.varzanehsaba.ir/wp-content/uploads/2019/01/masjed-jame-kohpayeh-2.jpg"],
+      "year_built": "دوره سلجوقیان",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری منحصر به فرد"
+    },
+    {
+      "name": "امامزاده قاسم بن موسی",
+      "images": ["https://neshan.org/maps/0247142014c5af7144f7.svg"],
+      "year_built": "دوره اسلامی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "امامزاده‌ای تاریخی با معماری زیبا"
+    },
+    {
+      "name": "بازار قدیمی کوهپایه",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری تاریخی با معماری سنتی"
+    },
+    {
+      "name": "چشمه آبگرم ورتون",
+      "images": ["https://cdn.alibaba.ir/ostorage-ugc/resize/756x450/randd-threepio/6d9f24668155bb9c56e1ed3a951f675976f435852cc18834171e09aa64cb56e8_original.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای طبیعی با آب زلال و محیطی دل‌انگیز"
+    },
+    {
+      "name": "قلعه بزرگ یکلنگی",
+      "images": ["https://media.imna.ir/d/2021/09/14/3/1728085.jpg?ts=1634708925000"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در منطقه کوهپایه"
+    },
+    {
+      "name": "خانه شیخ جواهری",
+      "images": ["https://media.tebyan.net/old/tebyan_old/images/small/1396/09/17511819212921824176171201254721698521413318.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی با معماری سنتی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/کوهپایه_(اصفهان)",
+      "https://fa.wikipedia.org/wiki/شهرستان_کوهپایه"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

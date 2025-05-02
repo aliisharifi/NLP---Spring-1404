@@ -1,150 +1,157 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان لنجان",
-    "location": {
-      "province": "اصفهان",
-      "city": "لنجان"
+  "title": "ویژگی‌های جغرافیایی لنجان",
+  "location": {
+    "province": "اصفهان",
+    "city": "لنجان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های پنجئ",
-            "images": []
-          },
-          {
-            "name": "کوه‌های بیدکان",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان گردو",
-          "درختان بادام",
-          "درختان انار",
-          "درختان زردآلو"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۵۵ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۷۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "آبشار شاه‌لولاک",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آبشاری طبیعی در نزدیکی شهر چرمهین، با ارتفاع حدود ۷۰ متر و مناظر طبیعی زیبا."
-      },
-      {
-        "name": "مسجد رحیم‌خان",
-        "images": [],
-        "year_built": "اوایل دوران قاجار",
-        "architect": "محمد رحیم‌خان ریزی",
-        "constructor": "محمد رحیم‌خان ریزی",
-        "description": "مسجدی تاریخی در زرین‌شهر با معماری خاص دوره قاجار."
-      },
-      {
-        "name": "گرمابه حاج رضاقلی",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "حمامی تاریخی در زرین‌شهر با ساختار دوقلو (زنانه و مردانه)."
-      },
-      {
-        "name": "کبوترخانه باغ برجی شرقی",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "برجی تاریخی در زرین‌شهر با معماری خاص برای نگهداری کبوتران."
-      },
-      {
-        "name": "پل کله",
-        "images": [],
-        "year_built": "اواخر دوران صفوی",
-        "architect": "",
-        "constructor": "",
-        "description": "پلی تاریخی بر روی زاینده‌رود با معماری منحصر به فرد."
-      },
-      {
-        "name": "قلعه چهاربرج",
-        "images": [],
-        "year_built": "اواخر صفوی و اوایل قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی در باغ‌بهادران با چهار برج دیده‌بانی."
-      },
-      {
-        "name": "دهکده ساحلی زاینده‌رود",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "منطقه‌ای ییلاقی با مناظر طبیعی زیبا در حاشیه زاینده‌رود."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه‌های بیدکان",
+          "images": [""]
+        },
+        {
+          "name": "کوه‌های پنجئ",
+          "images": [""]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان گردو، بادام، انار، سیب و انگور",
+        "گیاهان مرتعی و باغی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل و نیمه‌خشک",
+        "تابستان‌های گرم و زمستان‌های سرد",
+        "میانگین دمای سالانه حدود ۱۵.۹ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۱۵۵ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۷۰۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار در مجاورت زاینده‌رود",
+        "کوه‌های مرتفع در شمال و غرب شهرستان"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "زاینده‌رود",
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "مسجد رحیم‌خان",
+      "images": ["https://memarimarket.com/wp-content/uploads/2022/04/pic01.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "محمد رحیم‌خان ریزی",
+      "description": "مسجدی تاریخی با معماری منحصر به فرد در زرین‌شهر"
+    },
+    {
+      "name": "برج کبوترخانه",
+      "images": ["https://cdn.isna.ir/d/off/isfahan/2024/03/12/3/62956727.jpg?ts=1710223415405"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برجی تاریخی برای نگهداری کبوتران در زرین‌شهر"
+    },
+    {
+      "name": "حمام حاج رضاقلی",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/10/1-53.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمامی تاریخی با معماری سنتی در زرین‌شهر"
+    },
+    {
+      "name": "آبشار شاه‌لولاک",
+      "images": ["https://last-cdn.com/2019/06/18/gzsP6foKuhGuH35qbiwNK6py5om5Q4w7OyFBn02X.jpeg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "آبشاری طبیعی در نزدیکی چرمهین با چشم‌اندازهای زیبا"
+    },
+    {
+      "name": "پل کله",
+      "images": ["https://api2.kojaro.com/media/2018-7-951d7f4a-5e9d-4b58-b7f9-fc51d54a15f5-67c460f5c1067c5ba764621c?w=1200&q=80"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پلی تاریخی بر روی زاینده‌رود در زرین‌شهر"
+    },
+    {
+      "name": "قلعه کافر",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در مسیر زرین‌شهر به باغ‌بهادران"
+    },
+    {
+      "name": "پارک ساحلی زرین‌شهر",
+      "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/08/head-5.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی زیبا در حاشیه زاینده‌رود با امکانات تفریحی"
+    },
+    {
+      "name": "دهکده ساحلی زاینده‌رود",
+      "images": ["https://media.karnaval.ir/uploads/2019/02/K72VVrlWcnuJ8tNM-1550988557295.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "منطقه‌ای تفریحی با امکانات گردشگری در حاشیه زاینده‌رود"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_لنجان",
+      "https://fa.wikipedia.org/wiki/زرین‌شهر"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

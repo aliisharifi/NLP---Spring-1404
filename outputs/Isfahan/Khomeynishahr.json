@@ -1,5 +1,5 @@
 {
-  "title": "ویژگی‌های جغرافیایی شهرستان خمینی‌شهر",
+  "title": "ویژگی‌های جغرافیایی خمینی‌شهر",
   "location": {
     "province": "اصفهان",
     "city": "خمینی‌شهر"
@@ -7,23 +7,22 @@
   "geographical_features": [
     {
       "name": "رودخانه‌ها",
-      "description": [
-        {
-          "name": "زاینده‌رود",
-          "images": []
-        }
-      ]
+      "description": []
     },
     {
       "name": "کوه‌ها",
       "description": [
         {
-          "name": "کوه‌های محمودآباد",
-          "images": []
+          "name": "کوه محمودآباد",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/%D8%AE%D9%85%DB%8C%D9%86%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1.jpg/1200px-%D8%AE%D9%85%DB%8C%D9%86%DB%8C%E2%80%8C%D8%B4%D9%87%D8%B1.jpg"]
         },
         {
-          "name": "کوه صالح یا صلا",
-          "images": []
+          "name": "کوه صالح",
+          "images": ["https://s2.wklcdn.com/image_210/6316148/180297113/120977861Master.jpg"]
+        },
+        {
+          "name": "کوه سرچاه",
+          "images": [""]
         }
       ]
     },
@@ -34,52 +33,39 @@
     {
       "name": "پوشش گیاهی",
       "description": [
-        "درختان انار",
-        "درختان گلابی",
-        "درختان سیب",
-        "درختان گردو",
-        "درختان بادام",
-        "درختان زردآلو",
-        "درختان آلبالو",
-        "درختان هلو",
-        "درختان انجیر",
-        "درختان توت",
-        "درختان انگور",
-        "درختان سیب‌زمینی",
-        "درختان پیاز",
-        "درختان خیار",
-        "درختان خربزه",
-        "درختان حبوبات",
-        "درختان تنباکو"
+        "درختان گردو، بادام، سیب و انگور",
+        "گیاهان مرتعی و باغی"
       ]
     }
   ],
   "topography": [
     {
-      "name": "اقلیم",
+      "name": "منطقه اقلیمی",
       "description": [
-        "تابستان‌های گرم و خشک",
-        "زمستان‌های سرد و خشک"
+        "آب و هوای معتدل و خشک",
+        "تابستان‌های گرم و زمستان‌های سرد",
+        "میانگین دمای سالانه حدود ۱۸ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۶۰۰ میلی‌متر"
       ]
     },
     {
       "name": "ارتفاع",
       "description": [
-        "حدود ۱۶۵۰ متر از سطح دریا"
+        "ارتفاع از سطح دریا حدود ۱۵۹۵ متر"
       ]
     },
     {
       "name": "توپوگرافی",
       "description": [
-        "کوهستانی با دره‌های عمیق",
-        "دشت‌های مرتفع"
+        "دشت‌های هموار در جنوب و شرق",
+        "کوه‌های مرتفع در شمال و شمال غربی"
       ]
     },
     {
       "name": "ویژگی‌های زمین‌شناسی",
       "description": [
-        "سنگ‌های آهکی و رسوبی",
-        "منابع معدنی محدود"
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌ها و قنات‌های متعدد"
       ]
     }
   ],
@@ -87,62 +73,96 @@
     {
       "name": "منابع آبی",
       "description": [
-        "چشمه‌های طبیعی",
-        "قنات‌ها",
-        "زاینده‌رود"
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
       ]
     },
     {
       "name": "منابع معدنی",
       "description": [
-        "سنگ‌های ساختمانی",
-        "منابع آهکی"
+        "سنگ‌های ساختمانی و معدنی"
       ]
     }
   ],
   "tourist_attractions": [
     {
-      "name": "چشمه لادر",
-      "images": [],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
-      "description": "چشمه‌ای زیبا در دل کوهستان با مناظر طبیعی خیره‌کننده، مناسب برای تفریح و گردشگری."
-    },
-    {
       "name": "خانه سرتیپ سدهی",
-      "images": [],
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%B1%D8%AA%DB%8C%D9%BE_%D8%B3%D8%AF%D9%87%DB%8C.jpg/500px-%D8%AE%D8%A7%D9%86%D9%87_%D8%B3%D8%B1%D8%AA%DB%8C%D9%BE_%D8%B3%D8%AF%D9%87%DB%8C.jpg"],
       "year_built": "دوره قاجار",
       "architect": "نامشخص",
       "constructor": "نامشخص",
-      "description": "خانه‌ای تاریخی با معماری سنتی و تزئینات زیبا، متعلق به دوره قاجار."
+      "description": "خانه‌ای تاریخی با معماری سنتی در بافت قدیمی خمینی‌شهر"
+    },
+    {
+      "name": "خانه ابوالحسن خان مجیر",
+      "images": ["https://newsmedia.tasnimnews.com/Tasnim/Uploaded/Image/1401/04/04/1401040415201932425578224.png"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی با معماری سنتی در بافت قدیمی خمینی‌شهر"
+    },
+    {
+      "name": "برج‌های کبوترخانه",
+      "images": ["https://cdn.afraitn.com/public/upload/173/general/20_12/resize_1/55dut3cppb.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برج‌هایی تاریخی برای نگهداری کبوتران"
+    },
+    {
+      "name": "آتشگاه خمینی‌شهر",
+      "images": ["https://www.beytoote.com/images/stories/iran/fire-temple-isfahan-22.jpg"],
+      "year_built": "دوره ساسانیان",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آتشگاهی تاریخی مربوط به دوره ساسانیان"
+    },
+    {
+      "name": "قلعه خوشاب",
+      "images": ["https://media.mehrnews.com/d/2023/04/03/4/4481871.jpg?ts=1680502475008"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در منطقه خوشاب"
+    },
+    {
+      "name": "کهندژ",
+      "images": [""],
+      "year_built": "دوره ساسانیان",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "دژی تاریخی در محله خوزان"
     },
     {
       "name": "غار دستکند قهرمان",
-      "images": [],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
-      "description": "غاری با دهانه‌ای بزرگ و فضای داخلی عجیب و وهم‌انگیز، مناسب برای ماجراجویی."
-    },
-    {
-      "name": "آرامگاه ابن مردویه",
-      "images": [],
-      "year_built": "قرن ۴ و ۵ هجری قمری",
+      "images": ["https://media.mehrnews.com/d/2023/04/03/4/4481867.jpg?ts=1680502475170"],
+      "year_built": "دوره پیش از اسلام",
       "architect": "نامشخص",
       "constructor": "نامشخص",
-      "description": "آرامگاه محدث بزرگ قرن چهارم و پنجم هجری قمری با قدمتی حدود ۱۰۰۰ سال."
+      "description": "غاری باستانی در منطقه قهرمان"
     },
     {
-      "name": "امامزاده سید محمد",
-      "images": [],
-      "year_built": "دوره ایلخانی",
+      "name": "چشمه لادر",
+      "images": ["https://www.vilajar.com/Dashboard/GetArticleImage/29940"],
+      "year_built": "نامشخص",
       "architect": "نامشخص",
       "constructor": "نامشخص",
-      "description": "بقعه‌ای مذهبی با معماری سنتی، مورد احترام مردم منطقه."
+      "description": "چشمه‌ای طبیعی با آب زلال و محیطی دل‌انگیز"
+    },
+    {
+      "name": "پارک پیروزی",
+      "images": ["https://static.neshanmap.ir/places/images/071/1765016_7362936_Thumbnail.jpeg"],
+      "year_built": "سال ۱۳۶۳",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی سرسبز با امکانات مدرن و فضای مناسب برای تفریح"
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/خمینی‌شهر",
+      "https://fa.wikipedia.org/wiki/شهرستان_خمینی‌شهر"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
 }

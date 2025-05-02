@@ -1,179 +1,188 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان گلپایگان",
-    "location": {
-      "province": "اصفهان",
-      "city": "گلپایگان"
+  "title": "ویژگی‌های جغرافیایی گلپایگان",
+  "location": {
+    "province": "اصفهان",
+    "city": "گلپایگان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه اناربار",
+          "images": ["https://media.imna.ir/old/images/docs/000201/n00201560-b.jpg"]
+        },
+        {
+          "name": "رودخانه قم‌رود",
+          "images": ["https://reiseniran.de/wp-content/uploads/2022/07/ماهیگیری-در-رودخانه-قمرود.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه قم‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه الوند",
-            "images": []
-          },
-          {
-            "name": "کوه قلعه جمال",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": [
-          {
-            "name": "دریاچه سد گلپایگان",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بادام",
-          "درختان انار",
-          "درختان زردآلو",
-          "درختان پسته"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۳۰۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۸۳۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌ها و کوه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه قم‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "مسجد جامع گلپایگان",
-        "images": [],
-        "year_built": "۵۰۸ هجری قمری",
-        "architect": "ابوعمر بن محمد القزوینی",
-        "constructor": "ابوشجاع محمد بن ملکشاه سلجوقی",
-        "description": "مسجدی تاریخی با معماری دوره سلجوقی، دارای گنبد آجری بزرگ و کتیبه‌های متعدد."
-      },
-      {
-        "name": "مناره گلپایگان",
-        "images": [],
-        "year_built": "دوره سلجوقیان",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مناره‌ای تاریخی با ارتفاع ۱۸ متر، دارای کتیبه‌هایی به خط کوفی."
-      },
-      {
-        "name": "بازار چهارسوق گلپایگان",
-        "images": [],
-        "year_built": "دوره سلجوقیان",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بازاری سنتی با طاق‌بندی آجری، شامل بخش‌هایی مانند بازار مسگرها و فرش‌فروشان."
-      },
-      {
-        "name": "بقعه امامزادگان هفده تن",
-        "images": [],
-        "year_built": "قرن یازدهم هجری قمری",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بقعه‌ای مذهبی با گنبد هشت‌گوش و کاشی‌کاری‌های زیبا، محل دفن امامزادگان."
-      },
-      {
-        "name": "ارگ تاریخی گوگد",
-        "images": [],
-        "year_built": "حدود ۴۰۰ سال پیش",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "ارگی خشتی با کاربری کاروانسرا در زمان صلح و دژ دفاعی در زمان جنگ."
-      },
-      {
-        "name": "کبوترخانه گلپایگان",
-        "images": [],
-        "year_built": "دوره‌های مختلف تاریخی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "برج‌هایی خشتی برای نگهداری کبوتران و استفاده از فضولات آن‌ها به‌عنوان کود."
-      },
-      {
-        "name": "غار قلعه جمال",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
-        "description": "غاری طبیعی در کوه قلعه جمال، با سنگ‌نگاره‌های تاریخی."
-      },
-      {
-        "name": "تنگه غرقاب",
-        "images": [],
-        "year_built": "طبیعی",
-        "architect": "طبیعی",
-        "constructor": "طبیعی",
-        "description": "تنگه‌ای با سنگ‌نگاره‌های تاریخی، محل شکار بز کوهی در گذشته."
-      },
-      {
-        "name": "دریاچه سد گلپایگان",
-        "images": [],
-        "year_built": "۱۳۳۶ شمسی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "نخستین سد مخزنی خاکی و مدرن ایران، زیستگاه آبزیان متنوع."
-      },
-      {
-        "name": "روستای وانشان",
-        "images": [],
-        "year_built": "تاریخی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "روستایی با قدمت سه هزار سال، دارای آثار باستانی و گویش محلی خاص."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه الوند",
+          "images": ["https://api2.kojaro.com/media/2018-2-f0bbf1e8-efdb-4428-982d-cca51771d3eb-67c460eec1067c5ba763619a?w=1200&q=80"]
+        },
+        {
+          "name": "کوه قلعه جمال",
+          "images": ["https://anyja.ir/assets/upload/blog/AR-486-1400-2-8-16-42-vawpz.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+          "name": "دریاچه سد گلپایگان",
+          "images": ["https://www.alaedin.travel/Files/Jazebe/golpayegan/daryacheh-e-sadde-golpayegan/Alaedin-Travel-Agency-Attraction-Golpayegan-Daryacheh-e-Sadde-13-.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بلوط، بید، صنوبر و سپیدار",
+        "گیاهان مرتعی و کوهستانی",
+        "لاله‌های واژگون در دشت‌های مرتفع"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل و کوهستانی",
+        "زمستان‌های سرد و تابستان‌های خنک",
+        "میانگین بارش سالانه حدود 350 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع 1830 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "منطقه‌ای کوهستانی با دشت‌های مرتفع",
+        "وجود تپه‌ها و دره‌های متعدد"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های آهکی، شنی و رسی",
+        "وجود معادن سنگ آهک و رسوبات آبرفتی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه‌های اناربار و قم‌رود",
+        "چشمه‌ها و قنات‌های متعدد",
+        "چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "مسجد جامع گلپایگان",
+      "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/a/ad/Golpayegan_masjed_jame.JPG/375px-Golpayegan_masjed_jame.JPG"],
+      "year_built": "دوره سلجوقی",
+      "architect": "ابوعمر بن محمد القزوینی",
+      "constructor": "ابوشجاع محمد بن ملکشاه سلجوقی",
+      "description": "مسجدی تاریخی با معماری سلجوقی و گنبدی زیبا، واقع در مرکز شهر گلپایگان."
+    },
+    {
+      "name": "مناره گلپایگان",
+      "images": ["https://last-cdn.com/2020/07/05/aGbcivi3vGGNr2SxNLyfZkdIPR5S1kftDBxkBXJ8.jpeg"],
+      "year_built": "قرن پنجم هجری",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مناره‌ای تاریخی با ارتفاع ۱۸ متر و ۶۴ پله، متعلق به دوره سلجوقی."
+    },
+    {
+      "name": "بازار چهارسوق گلپایگان",
+      "images": ["https://api2.kojaro.com/media/2017-12-e73aadc1-30cc-4c41-b8d9-b955bfe3ba7f-67c460eac1067c5ba762d131?w=1680&q=80"],
+      "year_built": "دوره سلجوقی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری تاریخی با معماری آجری و طاق‌بندی‌های زیبا، متصل به مسجد جامع."
+    },
+    {
+      "name": "ارگ گوگد",
+      "images": ["https://media.karnaval.ir/uploads/2023/09/9003f99a-654c-4a5d-bca0-7f1b65ebf66d.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "ارگی تاریخی با معماری سنتی، که امروزه به عنوان هتل سنتی استفاده می‌شود."
+    },
+    {
+      "name": "کبوترخانه گلپایگان",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/09/1-74.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بنایی خشتی با معماری منحصربه‌فرد، ساخته شده برای نگهداری کبوتران و تولید کود."
+    },
+    {
+      "name": "تنگ غرقاب",
+      "images": [""],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "تنگه‌ای زیبا با سنگ‌نگاره‌های تاریخی، واقع در نزدیکی گلپایگان."
+    },
+    {
+      "name": "دشت لاله‌های واژگون",
+      "images": [""],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "دشتی با وسعت بیش از ۶۰ هکتار که در اردیبهشت ماه پوشیده از لاله‌های واژگون می‌شود."
+    },
+    {
+      "name": "غار قلعه جمال",
+      "images": [""],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "غاری طبیعی واقع در کوه قلعه جمال، با مناظر زیبا و دیدنی."
+    },
+    {
+      "name": "پارک جنگلی گلپایگان",
+      "images": ["https://api2.kojaro.com/media/2018-5-8ddb5baa-fcd4-46c6-bdb7-18eed4eb81aa-67c460f2c1067c5ba763e5e8?w=1200&q=80"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی طبیعی با فضای سبز و امکانات رفاهی، مناسب برای تفریح و استراحت."
+    },
+    {
+      "name": "پارک ساحلی گلپایگان",
+      "images": ["https://api2.kojaro.com/media/2018-5-9b7f947b-cb41-49fe-9d0b-7aeb8c641e6d-67c460f2c1067c5ba763e5d2?w=1200&q=80"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی در حاشیه رودخانه با امکانات تفریحی و فضای سبز."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/گلپایگان",
+      "https://fa.wikipedia.org/wiki/شهرستان_گلپایگان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

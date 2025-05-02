@@ -1,138 +1,147 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان فریدون‌شهر",
-    "location": {
-      "province": "اصفهان",
-      "city": "فریدون‌شهر"
+  "title": "ویژگی‌های جغرافیایی فریدون‌شهر",
+  "location": {
+    "province": "اصفهان",
+    "city": "فریدون‌شهر"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه پلاسجان",
+          "images": ["https://www.iribnews.ir/files/fa/news/1402/1/17/9464695_956.jpg"]
+        },
+        {
+          "name": "رودخانه زاینده‌رود",
+          "images": ["https://safarmarket.com/blog/data/uploaded_files/5d23e7e8ae77bbe0a17fc247.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه پلاسجان",
-            "images": []
-          },
-          {
-            "name": "رودخانه زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه کلوسه",
-            "images": []
-          },
-          {
-            "name": "کوه شاهانکوه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بلوط",
-          "درختان بادام کوهی",
-          "گون",
-          "آویشن"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "کوهستانی با زمستان‌های سرد و پربرف و تابستان‌های معتدل",
-          "میانگین بارش سالانه: حدود ۴۰۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۲۴۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "کوهستانی با دره‌های عمیق و دشت‌های مرتفع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و دولومیت",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "چشمه‌های طبیعی مانند چشمه لنگان",
-          "رودخانه‌های پلاسجان و زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "دولومیت"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "آبشار پشندگان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آبشاری زیبا در منطقه پشندگان، مناسب برای طبیعت‌گردی و کوهنوردی."
-      },
-      {
-        "name": "آبشار طرزه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آبشاری دیدنی در منطقه طرزه، با مناظر طبیعی بکر."
-      },
-      {
-        "name": "چشمه لنگان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "چشمه‌ای پرآب با مناظر طبیعی زیبا، مناسب برای تفریح و استراحت."
-      },
-      {
-        "name": "پارک سراب",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با امکانات تفریحی و فضای سبز مناسب برای خانواده‌ها."
-      },
-      {
-        "name": "روستای چغیورت",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با معماری سنتی و مناظر طبیعی بکر، مناسب برای گردشگری روستایی."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "قله دیدتسری",
+          "images": [""]
+        },
+        {
+          "name": "کوه تسیخه",
+          "images": [""]
+        },
+        {
+          "name": "تپه تاتاشویلی",
+          "images": [""]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بلوط، بید، صنوبر و سپیدار",
+        "گیاهان مرتعی و کوهستانی",
+        "لاله‌های واژگون در دشت‌های مرتفع"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای سرد و کوهستانی",
+        "زمستان‌های سرد و پربرف و تابستان‌های خنک",
+        "میانگین بارش سالانه حدود 600 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع 2530 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "منطقه‌ای کوهستانی با دشت‌های مرتفع",
+        "وجود تپه‌ها و دره‌های متعدد"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های آهکی، شنی و رسی",
+        "وجود معادن سنگ آهک و رسوبات آبرفتی"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه‌های پلاسجان و زاینده‌رود",
+        "چشمه‌ها و قنات‌های متعدد",
+        "چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "آبشار پونه‌زار",
+      "images": ["https://fa.tripyar.com/uploads/picture/2336/2.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "آبشاری زیبا در منطقه کوهستانی فریدون‌شهر، با طبیعت بکر و مناظر دیدنی."
+    },
+    {
+      "name": "پیست اسکی فریدون‌شهر",
+      "images": ["https://last-cdn.com/2019/03/06/BtcpAO2rZrOrSuSc3YxNYxg4pBsviWtBHgG3ikfH.jpeg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "تنها پیست اسکی استان اصفهان، واقع در ارتفاعات فریدون‌شهر، مناسب برای ورزش‌های زمستانی."
+    },
+    {
+      "name": "پارک سراب",
+      "images": ["https://fa.tripyar.com/uploads/picture/3564/2.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "پارکی طبیعی با چشمه‌های زلال و فضای سبز، مناسب برای تفریح و استراحت."
+    },
+    {
+      "name": "تنگه حنا",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/12/psd_ghaleb_ax-1-210-3.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "تنگه‌ای زیبا با مناظر طبیعی و چشمه‌های متعدد، مناسب برای کوهنوردی و طبیعت‌گردی."
+    },
+    {
+      "name": "چشمه لنگان",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/12/psd_ghaleb_ax-1-27-3.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای با آب زلال و محیطی دل‌انگیز برای تفریح و استراحت."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/فریدون‌شهر",
+      "https://fa.wikipedia.org/wiki/شهرستان_فریدون‌شهر"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

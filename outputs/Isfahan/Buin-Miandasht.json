@@ -1,120 +1,177 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان بوئین میاندشت",
-    "location": {
-      "province": "اصفهان",
-      "city": "بوئین میاندشت"
+  "title": "ویژگی‌های جغرافیایی بوئین میاندشت",
+  "location": {
+    "province": "اصفهان",
+    "city": "بوئین میاندشت"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه نوغان",
+          "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/about-bueen-miyandasht2.jpg"]
+        },
+        {
+          "name": "رودخانه افوس",
+          "images": ["https://www.otaghak.com/blog/wp-content/uploads/2021/08/about-buin-va-miandasht10.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های زاگرس مرکزی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": [
-          {
-            "name": "دریاچه سد آغچه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بلوط",
-          "درختان بادام کوهی",
-          "گیاهان مرتعی"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "تابستان‌های معتدل",
-          "زمستان‌های سرد و برفی"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "حدود ۲۴۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "کوهستانی با دره‌های عمیق",
-          "دشت‌های مرتفع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "سنگ‌های آهکی و رسوبی",
-          "منابع معدنی محدود"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "چشمه‌های طبیعی",
-          "قنات‌ها",
-          "سد آغچه"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ‌های ساختمانی",
-          "منابع آهکی"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "دریاچه سد آغچه",
-        "images": [],
-        "year_built": "نامشخص",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "دریاچه‌ای زیبا در دل کوهستان، مناسب برای تفریح و گردشگری."
-      },
-      {
-        "name": "روستای قلعه بهمن",
-        "images": [],
-        "year_built": "نامشخص",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "روستایی با طبیعت بکر و مناظر زیبا، مناسب برای گردشگری روستایی."
-      },
-      {
-        "name": "جاده‌های کوهستانی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "جاده‌هایی با مناظر طبیعی خیره‌کننده، مناسب برای سفرهای جاده‌ای."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه‌های زاگرس مرکزی",
+          "images": [""]
+        },
+        {
+          "name": "کوه قره‌داغ",
+          "images": [""]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بید و صنوبر در حاشیه رودخانه‌ها",
+        "گیاهان کوهستانی و مرتعی",
+        "لاله‌های واژگون در دشت ماهورستان"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای سرد و کوهستانی",
+        "میانگین بارش سالانه حدود 400 میلی‌متر به صورت برف و باران",
+        "حداقل دما تا 34- و حداکثر تا 34+ درجه سانتی‌گراد"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع 2430 متر از سطح دریا",
+        "روستای احمدآباد با ارتفاع 2725 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "منطقه‌ای کوهستانی با دشت‌های مرتفع",
+        "وجود تپه‌ها و دره‌های متعدد"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های شنی، آهکی و رسی",
+        "وجود معادن سیمان، سیلیس و فلزات"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه‌های نوغان و افوس",
+        "چشمه‌ها و قنات‌های متعدد",
+        "چاه‌های عمیق و نیمه‌عمیق"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "معادن سیمان",
+        "سیلیس",
+        "فلزات"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "حسینیه تاریخی بویین",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht6.jpg"],
+      "year_built": "حدود ۲۵۰ سال پیش",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حسینیه‌ای تاریخی با معماری سنتی که محل برگزاری مراسم تعزیه در ایام محرم است."
+    },
+    {
+      "name": "حمام قدیمی بویین میاندشت",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht7.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمامی تاریخی با معماری خاص در محله میاندشت."
+    },
+    {
+      "name": "خانه تاریخی رئیسی",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht8.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی در روستای ماربر با مساحتی حدود ۸۰۰ متر مربع."
+    },
+    {
+      "name": "قلعه هژبرپور",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht9.jpg"],
+      "year_built": "دوره تاریخی نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای باستانی در روستای تخماقلو با ساختار پلکانی و برج‌های دیده‌بانی."
+    },
+    {
+      "name": "سد و سرچشمه افوس",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht2.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "منطقه‌ای تفریحی با امکانات گردشگری در جنوب‌غربی شهرستان."
+    },
+    {
+      "name": "پیست اسکی افوس",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2021/08/about-buin-va-miandasht10.jpg"],
+      "year_built": "۱۳۹۳",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پیست اسکی در شهر افوس که در فصل زمستان میزبان ورزشکاران است."
+    },
+    {
+      "name": "آبشار نوغان",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/about-bueen-miyandasht2.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "آبشاری با ارتفاع بیش از ۱۰ متر در امتداد رودخانه قمرود."
+    },
+    {
+      "name": "دشت لاله‌های واژگون ماهورستان",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht4.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "دشتی با وسعت بیش از ۱۰۰۰ هکتار که در اردیبهشت ماه پوشیده از لاله‌های واژگون می‌شود."
+    },
+    {
+      "name": "سد و سرچشمه آغچه",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/10/attractions-of-buin-miandasht5.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "منطقه‌ای خنک و پرآب در روستای آغچه، مناسب برای اقامت و گردشگری."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/بوئین_میاندشت",
+      "https://fa.wikipedia.org/wiki/شهرستان_بوئین_میاندشت"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}
