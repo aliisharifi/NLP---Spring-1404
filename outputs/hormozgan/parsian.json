@@ -21,6 +21,10 @@
         ]
       },
       {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
         "name": "کوه‌ها",
         "description": [
           {
@@ -41,7 +45,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "بیابانی گرم",
           "تابستان‌های بسیار گرم و بارش اندک"
@@ -61,7 +65,7 @@
         ]
       },
       {
-        "name": "زمین‌شناسی",
+        "name": "ویژگی‌های زمین‌شناسی",
         "description": [
           "چینه‌های آهکی و گل‌سنگ‌های زاگرس",
           "گسله‌ای فعال"
@@ -119,7 +123,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12327",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D9%BE%D8%A7%D8%B1%D8%B3%DB%8C%D8%A7%D9%86"
     }
   }
   

@@ -17,6 +17,14 @@
         ]
       },
       {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
+        "name": "رودخانه‌ها",
+        "description": []
+      },
+      {
         "name": "کوه‌ها",
         "description": [
           {
@@ -36,7 +44,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "گرم بیابانی",
           "تابستان‌های بسیار داغ و زمستان‌های معتدل"
@@ -56,7 +64,7 @@
         ]
       },
       {
-        "name": "زمین‌شناسی",
+        "name": "ویژگی‌های زمین‌شناسی",
         "description": [
           "چینه‌های رسوبی زاگرس",
           "گنبدهای نمکی"
@@ -105,7 +113,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12327",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%AC%D8%A7%D8%B3%DA%A9"
     }
   }
   

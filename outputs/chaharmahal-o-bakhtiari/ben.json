@@ -17,6 +17,10 @@
         ]
       },
       {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
         "name": "کوه‌ها",
         "description": [
           {
@@ -43,7 +47,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "کوهستانی",
           "تابستان‌های خنک و زمستان‌های سرد"
@@ -96,7 +100,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D9%86"
     }
   }
   

@@ -8,6 +8,9 @@
       {
         "name": "رودخانه‌ها",
         "description": []
+      },{
+        "name": "دریاچه‌ها",
+        "description": []
       },
       {
         "name": "کوه‌ها",
@@ -37,7 +40,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "زمستان‌های سرد",
           "تابستان‌های گرم و خشک"
@@ -112,7 +115,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12327",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A8%D8%B4%D8%A7%DA%AF%D8%B1%D8%AF"
     }
   }
   

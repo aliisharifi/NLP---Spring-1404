@@ -41,7 +41,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "تابستان‌های گرم و خشک",
           "زمستان‌های بسیار سرد و برفی"
@@ -138,7 +138,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%A7%D8%B1%D8%AF%D9%84"
     }
   }
   

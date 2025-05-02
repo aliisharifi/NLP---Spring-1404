@@ -70,7 +70,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": ["نیمه‌مرطوب گرم با زمستان‌های نیمه‌سرد"]
       },
       {
@@ -105,7 +105,7 @@
       {
         "name": "منابع معدنی",
         "description": [
-          "میدان‌های نفتی (۳۵٬۰۰۰ بشکه/روز)"
+          "میدان‌های نفتی (۳۵۰۰۰ بشکه/روز)"
         ]
       }
     ],
@@ -152,7 +152,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D9%84%D8%B1%D8%AF%DA%AF%D8%A7%D9%86"
     }
   }
   

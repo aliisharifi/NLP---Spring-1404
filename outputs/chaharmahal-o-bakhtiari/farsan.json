@@ -24,7 +24,7 @@
             "images": []
           },
           {
-            "name": "قله هفت‌تنان",
+            "name": "کوه هفت‌تنان",
             "images": [
               "https://ghajer.com/assets/image/upload/photo_2017-05-16_08-23-42.jpg"
             ]
@@ -59,12 +59,12 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": ["معتدل کوهستانی"]
       },
       {
         "name": "ارتفاع",
-        "description": ["۲٬۰۵۳ متر"]
+        "description": ["۲۰۵۳ متر"]
       },
       {
         "name": "توپوگرافی",
@@ -126,7 +126,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D9%81%D8%A7%D8%B1%D8%B3%D8%A7%D9%86"
     }
   }
   

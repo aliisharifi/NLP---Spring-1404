@@ -17,6 +17,18 @@
         ]
       },
       {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
+        "name": "کوه‌ها",
+        "description": []
+      },
+      {
+        "name": "پوشش گیاهی",
+        "description": []
+      },
+      {
         "name": "جنگل‌های حرا",
         "description": [
           {
@@ -37,7 +49,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "بیابانی گرم",
           "بارش سالانه ۱۰۰–۳۰۰ میلی‌متر"
@@ -58,7 +70,7 @@
         ]
       },
       {
-        "name": "زمین‌شناسی",
+        "name": "ویژگی‌های زمین‌شناسی",
         "description": [
           "رسوبات ساحلی",
           "گنبدهای نمکی"
@@ -93,6 +105,9 @@
         "images": [
           "https://api2.kojaro.com/media/2020-9-a9221243-47c7-4d57-8b9e-773ae99d5129-67c46106c1067c5ba766d3c6?w=1920&q=80"
         ],
+        "year_built": "",
+        "architect": "",
+        "constructor": "",
         "description": "قایق‌سواری در میان درختان مانگرو و مشاهده جانوران دریایی."
       },
       {
@@ -121,7 +136,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12327",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D8%B3%DB%8C%D8%B1%DB%8C%DA%A9"
     }
   }
   

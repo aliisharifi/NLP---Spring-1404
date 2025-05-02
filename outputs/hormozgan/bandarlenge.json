@@ -15,6 +15,17 @@
           ]
         }
       ]
+    },{
+      "name": "رودخانه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "کوه‌ها",
+      "description": []
     },
     {
       "name": "جزایر نزدیک",
@@ -43,7 +54,7 @@
   ],
   "topography": [
     {
-      "name": "اقلیم",
+      "name": "منطقه اقلیمی",
       "description": [
         "گرم و بیابانی"
       ]
@@ -62,7 +73,7 @@
       ]
     },
     {
-      "name": "زمین‌شناسی",
+      "name": "ویژگی‌های زمین‌شناسی",
       "description": [
         "رسوبات ماسه‌ای و صخره‌های آهکی"
       ]
@@ -126,6 +137,7 @@
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "books_source": "http://chap.sch.ir/books/12327",
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%A8%D9%86%D8%AF%D8%B1_%D9%84%D9%86%DA%AF%D9%87"
   }
 }
