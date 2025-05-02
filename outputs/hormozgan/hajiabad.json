@@ -19,6 +19,14 @@
         ]
       },
       {
+        "name": "دریاچه‌ها",
+        "description": []
+      },
+      {
+        "name": "رودخانه‌ها",
+        "description": []
+      },
+      {
         "name": "کوه‌ها",
         "description": [
           {
@@ -42,7 +50,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های نسبتاً سرد"
         ]
@@ -98,11 +106,12 @@
         "year_built": "",
         "architect": "",
         "constructor": "",
-        "description": "بلندترین ارتفاع استان هرمزگان با تنوع زیستی فراوان و اقلیم معتدل کوهستانی."
+        "description": "بلندترین ارتفاع استان هرمزگان با تنوع زیستی فراوان و منطقه اقلیمی معتدل کوهستانی."
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12327",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%AD%D8%A7%D8%AC%DB%8C%E2%80%8C%D8%A2%D8%A8%D8%A7%D8%AF_(%D9%87%D8%B1%D9%85%D8%B2%DA%AF%D8%A7%D9%86)"
     }
   }
   

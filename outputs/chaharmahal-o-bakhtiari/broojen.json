@@ -109,9 +109,9 @@
       "images": [
         "https://api2.kojaro.com/media/2020-5-1ecbd8e9-1c79-4e31-8f77-0334aa600699-67c46104c1067c5ba7667ad3?w=1920&q=80"
       ],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "پل سنگی تاریخی بر روی رود بازفت"
     },
     {
@@ -129,13 +129,14 @@
       "images": [
         "https://s3.dana.ir/dana/uploads/08/01/1397/1335304.jpg"
       ],
-      "year_built": "",
-      "architect": "نامعلوم",
-      "constructor": "نامعلوم",
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "روستایی تاریخی با مزارع و تالاب گندمان"
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "books_source": "http://chap.sch.ir/books/12307",
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%A8%D8%B1%D9%88%D8%AC%D9%86"
   }
 }

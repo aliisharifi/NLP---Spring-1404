@@ -6,7 +6,7 @@
     },
     "geographical_features": [
       {
-        "name": "رودخانه‌ها و چشمه‌ها",
+        "name": "رودخانه‌ها",
         "description": [
           {
             "name": "چشمه تنگ صیاد",
@@ -17,6 +17,10 @@
             "images": []
           }
         ]
+      },
+      {
+        "name": "دریاچه‌ها",
+        "description": []
       },
       {
         "name": "کوه‌ها",
@@ -43,7 +47,7 @@
     ],
     "topography": [
       {
-        "name": "اقلیم",
+        "name": "منطقه اقلیمی",
         "description": [
           "کوهستانی",
           "سردسیر"
@@ -63,7 +67,7 @@
         ]
       },
       {
-        "name": "زمین‌شناسی",
+        "name": "ویژگی‌های زمین‌شناسی",
         "description": [
           "چینه‌های رسوبی کرتاسه",
           "ساختار چین‌خوردهٔ زاگرس"
@@ -94,23 +98,23 @@
           "https://www.alaedin.travel/Files/Jazebe/shahrekord/rokh-stone-inscriptions-in-shahrekord/Alaedin-Travel-Company-Attraction-Shahrekord-Rokh-Stone-Inscriptions-1.jpg"
         ],
         "year_built": "دوره صفوی",
-        "architect": "نامعلوم",
-        "constructor": "نامعلوم",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "کتیبه‌ای صفوی در گردنه رخ با قدمت بیش از ۴۰۰ سال."
       },
       {
         "name": "مسجد جامع فرخ‌شهر",
         "images": ["https://static.neshanmap.ir/places/images/d33/45062_96151--%D9%85%D8%B3%D8%AC%D8%AF-%D8%AC%D8%A7%D9%85%D8%B9-%D9%81%D8%B1%D8%AE%D8%B4%D9%87%D8%B1.jpeg"],
         "year_built": "دوره صفوی",
-        "architect": "نامعلوم",
-        "constructor": "نامعلوم",
+        "architect": "نامشخص",
+        "constructor": "نامشخص",
         "description": "مسجدی مربوط به اواخر دوره صفوی با معماری سنتی ایرانی."
       },
       {
         "name": "قلعه اسفندیار خان",
         "images": ["https://cdn.balad.ir/crowd-images/all/original/6slQL8GazoobhD-0a08f83a7dbb437db8e95d5523a8debf.jpg"],
         "year_built": "دوره قاجار",
-        "architect": "نامعلوم",
+        "architect": "نامشخص",
         "constructor": "خلیل اسفندیاری",
         "description": "قلعه‌ای قاجاری متعلق به اسفندیار خان بختیاری."
       },
@@ -124,7 +128,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%AE%E2%80%8C%D8%B4%D9%87%D8%B1"
     }
   }
   

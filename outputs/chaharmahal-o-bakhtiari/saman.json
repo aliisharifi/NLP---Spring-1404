@@ -1,91 +1,136 @@
 {
-    "title": "ویژگی‌های جغرافیایی بن",
-    "location": {
-      "province": "چهارمحال و بختیاری",
-      "city": "بن"
+  "title": "ویژگی‌های جغرافیایی سامان",
+  "location": {
+    "province": "چهارمحال و بختیاری",
+    "city": "سامان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رود زاینده‌رود",
+          "images": [
+            "https://anyja.ir/zftpusers/artuser2/1401/06/26/Zayanderood-3.jpg"
+          ]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رود زاینده‌رود",
-            "images": [
-              "https://anyja.ir/zftpusers/artuser2/1401/06/26/Zayanderood-3.jpg"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "رشته‌کوه زاگرس",
-            "images": [
-              "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
-            ]
-          },
-          {
-            "name": "زردکوه",
-            "images": [
-              "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/View_of_Zardkuh.jpg/1024px-View_of_Zardkuh.jpg"
-            ]
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "جنگل‌های بلوط زاگرس",
-          "گونه‌های گیاهی دارویی"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "کوهستانی",
-          "تابستان‌های خنک و زمستان‌های سرد"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": ["۲۲۲۸ متر"]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "رشته‌کوه‌های بلند",
-          "دره‌های عمیق"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "ساختار چین‌خورده کوهستانی",
-          "گسل‌های فعال"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "رودخانه زاینده‌رود",
-          "چشمه‌های زیرزمینی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک"
-        ]
-      }
-    ],
-    "tourist_attractions": [],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "رشته‌کوه‌های زاگرس",
+          "images": [
+            "https://mojekooh.com/wp-content/uploads/2023/08/%D8%B1%D8%B4%D8%AA%D9%87-%DA%A9%D9%88%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "باغ‌های گردو و بادام",
+        "جنگل‌های بلوط زاگرس"
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": ["مدیترانه‌ای"]
+    },
+    {
+      "name": "ارتفاع",
+      "description": ["1,966 متر (6,450 فوت)"]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "فلات زاگرس",
+        "زمین‌های چین‌خورده و گسل‌دار"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "کمربند چین‌خورده زاگرس",
+        "گسل‌های فعال"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رود زاینده‌رود",
+        "چشمه‌ها و آب‌های زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "گچ"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "پل زمان‌خان",
+      "images": [
+        "https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2024/03/index477.jpgRasekhoon.jpg"
+      ],
+      "year_built": "دوره صفوی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل سنگی تاریخی بر روی رود زاینده‌رود"
+    },
+    {
+      "name": "پل هوره",
+      "images": [
+        "https://mrbilit.com/mag/wp-content/uploads/2020/10/1-29.jpg"
+      ],
+      "year_built": "دوره صفوی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل تاریخی ثبت‌شده در فهرست آثار ملی ایران"
+    },
+    {
+      "name": "حمام هوره",
+      "images": ["https://api2.kojaro.com/media/2018-3-e9228ed9-4f90-4461-a19b-fd7104c139e3-67c460efc1067c5ba7637e38?w=828&q=80"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمام تاریخی مدفون‌شده زیر خاک"
+    },
+    {
+      "name": "روستای سوادجان",
+      "images": [
+        "https://www.uspace.ir/public/img/place/savadjan/images/savadjan_uspace_1735234246.jpg"
+      ],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی با بافت قدیمی و چشم‌انداز کوهستانی"
+    },
+    {
+      "name": "روستای مارکده",
+      "images": [
+        "https://kite.ir/UploadData/Other/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA%DB%8C-%D8%AC%D8%A7%D9%85%D8%B9-%D8%AF%D8%B1-%D9%85%D9%88%D8%B1%D8%AF-%D9%85%D8%A7%D8%B1%DA%A9%D8%AF%D9%87.jpg_e5wtkj0q.kts.jpg"
+      ],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی کنار رودخانه با مزارع سرسبز"
+    }
+  ],
+  "additional_info": {
+    "books_source": "http://chap.sch.ir/books/12307",
+    "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%B3%D8%A7%D9%85%D8%A7%D9%86"
   }
-  
+}

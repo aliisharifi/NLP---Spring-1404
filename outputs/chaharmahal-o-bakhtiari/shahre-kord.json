@@ -91,7 +91,7 @@
       },
       {
         "name": "ارتفاع",
-        "description": ["۲٬۰۷۰ متر"]
+        "description": ["۲۰۷۰ متر"]
       },
       {
         "name": "توپوگرافی",
@@ -184,7 +184,8 @@
       }
     ],
     "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+      "books_source": "http://chap.sch.ir/books/12307",
+      "wikipedia_source": "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%DA%A9%D8%B1%D8%AF"
     }
   }
   
