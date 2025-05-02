@@ -1,153 +1,138 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان کنگان",
-    "location": {
-      "province": "بوشهر",
-      "city": "کنگان"
+  "title": "ویژگی‌های جغرافیایی کنگان",
+  "location": {
+    "province": "بوشهر",
+    "city": "بندر کنگان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه شیرینو",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/a/a5/%D8%B4%DB%8C%D8%B1%DB%8C%D9%86%D9%88_%D8%A7%D8%B3%DA%A9%D9%84%D9%87.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف منطقه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 225 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 11 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "جزیره نخیلو",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "جزیره‌ای با سواحل زیبا و آب‌های زلال، مناسب برای تفریحات آبی و استراحت در کنار دریا."
-      },
-      {
-        "name": "چشمه آب‌گرم میانلو",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "چشمه‌ای با آب‌های معدنی گرم و غنی از املاح، مناسب برای استراحت و درمان برخی بیماری‌ها."
-      },
-      {
-        "name": "گوردخمه‌های سیراف",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "مجموعه‌ای از مقابر سنگی در دل صخره‌ها با قدمت تاریخی و معماری منحصر به فرد."
-      },
-      {
-        "name": "آرامگاه سیبویه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بقعه‌ای مذهبی منسوب به سیبویه، نحوی‌دان و لغت‌شناس ایرانی."
-      },
-      {
-        "name": "قلعه نصوری",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی با معماری خاص و چشم‌اندازهای زیبا، واقع در شهر کنگان."
-      },
-      {
-        "name": "سواحل بندر کنگان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "سواحل زیبا و آرام خلیج فارس که امکان تفریحات آبی و صید ماهی را فراهم می‌کنند."
-      },
-      {
-        "name": "مسجد جامع کنگان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "مسجدی با معماری خاص و بلند، یکی از مراکز مهم مذهبی و گردشگری شهر."
-      },
-      {
-        "name": "موزه بندر سیراف",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "موزه‌ای که تاریخچه سیراف، زندگی بزرگان و حاکمان این شهر و تعدادی ظروف قدیمی را به نمایش می‌گذارد."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه سیراف",
+          "images": ["https://last-cdn.com/2018/06/13/kA98CDfRg8RGSYM2bpflvDMWcftGIVVmqk4dXibX.jpeg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های پراکنده حرا در مناطق ساحلی",
+        "گیاهان دارویی و درختان کنار و کهور"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 215 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 10 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن نمک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نمک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "جزیره نخیلو",
+      "images": ["https://www.eghamat24.com/blog/wp-content/uploads/2024/10/nakhilo-island.webp"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جزیره‌ای کوچک با شن‌های طلایی و آب‌های شفاف، مکان ایده‌آلی برای تفریحات آبی و استراحت در کنار دریا."
+    },
+    {
+      "name": "چشمه آب‌گرم میانلو",
+      "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2022/12/%DA%AF%D9%88%D8%B1%D8%AF%D8%AE%D9%85%D9%87%E2%80%8C-%D9%87%D8%A7%DB%8C-%D8%B3%DB%8C%D8%B1%D8%A7%D9%81.webp"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "چشمه‌ای با آب‌های معدنی گرم و غنی از املاح، محیطی آرام و دلپذیر برای استراحت و درمان."
+    },
+    {
+      "name": "گوردخمه‌های سیراف",
+      "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2022/12/%D8%A2%D8%B1%D8%A7%D9%85%DA%AF%D8%A7%D9%87-%D8%B3%DB%8C%D8%A8%D9%88%DB%8C%D9%87-.webp"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مجموعه‌ای از مقابر سنگی در دل صخره‌ها که به دوران باستان تعلق دارند."
+    },
+    {
+      "name": "آرامگاه سیبویه",
+      "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2022/12/nosori-castle.webp"],
+      "year_built": "دوره اسلامی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آرامگاه بزرگ‌ترین نحوی‌دان و لغت‌شناس ایرانی، سیبویه، با طراحی ساده و زیبا."
+    },
+    {
+      "name": "قلعه نصوری",
+      "images": ["http://salas.ir/wp-content/uploads/2023/10/%D9%82%D9%84%D8%B9%D9%87-%D8%B4%DB%8C%D8%AE-%D8%AD%D8%A7%D8%AA%D9%85-%D9%86%D8%B5%D9%88%D8%B1%DB%8C-2.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی با معماری سنتی در شهر کنگان."
+    },
+    {
+      "name": "موزه بندر سیراف",
+      "images": ["https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/71b45e12e0e788edf0fb6b81fc60fa9036fe8f61be407cb53f09ec58a30826e4_original.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "موزه‌ای با نمایش تاریخچه سیراف، زندگی بزرگان و حاکمان این شهر و تعدادی ظروف قدیمی."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_کنگان",
+      "https://fa.wikipedia.org/wiki/بندر_کنگان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

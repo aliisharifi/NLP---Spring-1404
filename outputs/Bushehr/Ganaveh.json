@@ -1,154 +1,166 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان گناوه",
-    "location": {
-      "province": "بوشهر",
-      "city": "بندر گناوه"
+  "title": "ویژگی‌های جغرافیایی گناوه",
+  "location": {
+    "province": "بوشهر",
+    "city": "بندر گناوه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه دره گیجک",
+          "images": ["https://seeiran.ir/wp-content/uploads/2015/03/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%B1%D9%87-%DA%AF%DA%86%DB%8C.jpg"]
+        },
+        {
+          "name": "رودخانه دره گپ",
+          "images": ["https://img9.irna.ir/old/Image/1392/13920616/80804798/N80804798-4826323.jpg"]
+        },
+        {
+          "name": "رودخانه دره گچی",
+          "images": ["https://seeiran.ir/wp-content/uploads/2015/03/%D8%B1%D9%88%D8%AF%D8%AE%D8%A7%D9%86%D9%87-%D8%AF%D8%B1%D9%87-%DA%AF%DA%86%DB%8C1.jpg"]
+        },
+        {
+          "name": "رودخانه دره آبداری",
+          "images": ["https://seeiran.ir/wp-content/uploads/2015/03/%D8%B1%D9%88%D8%AF-%DA%AF%D9%86%D8%A7%D9%88%D9%87.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه حله",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف منطقه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 150 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 11 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه حله"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "ساحل شنی بندر گناوه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "ساحلی زیبا با شن‌های نرم و صدف‌های فراوان، مناسب برای تفریحات آبی و پیاده‌روی."
-      },
-      {
-        "name": "تالاب حله",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "تالابی طبیعی با مساحت ۴۰ هزار هکتار، زیستگاه پرندگان مهاجر و گونه‌های مختلف گیاهی."
-      },
-      {
-        "name": "تپه‌های باستانی گناوه",
-        "images": [],
-        "year_built": "دوره‌های مختلف تاریخی",
-        "architect": "",
-        "constructor": "",
-        "description": "تپه‌هایی با قدمت تاریخی، شامل تپه شاه ناصری، تپه قلعه کلات و تپه تل محمد حیدر."
-      },
-      {
-        "name": "جزیره میرمهنا",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "جزیره‌ای غیرمسکونی با طبیعت بکر، درختان کنار و قدمگاه امیرالمؤمنین."
-      },
-      {
-        "name": "برج خان",
-        "images": [],
-        "year_built": "حدود ۲۵۰ سال پیش",
-        "architect": "",
-        "constructor": "خان‌علی‌خان حیات‌داوودی",
-        "description": "برجی تاریخی با معماری خاص، محل تصمیم‌گیری‌های سیاسی در گذشته."
-      },
-      {
-        "name": "امامزاده سلیمان بن علی (ع)",
-        "images": [],
-        "year_built": "دوره قاجاریه و صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "بقعه‌ای مذهبی با گنبد کاشی‌کاری شده، منسوب به نواده امام سجاد (ع)."
-      },
-      {
-        "name": "دهکده گردشگری مال قائد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با طبیعت سرسبز، آثار باستانی و امکانات رفاهی، مناسب برای گردشگری."
-      },
-      {
-        "name": "بازار اصلی گناوه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری پررونق با انواع کالاهای ته‌لنجی، مقصدی محبوب برای خرید."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه بی‌کس",
+          "images": ["https://fa.tripyar.com/uploads/picture/3868/2.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های پراکنده حرا در مناطق ساحلی",
+        "گیاهان دارویی و درختان کنار و کهور"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 215 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 10 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های ساحلی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن نمک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نمک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "بازار اصلی گناوه",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/08/attractions-of-genaveh12.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری سنتی با تنوع کالاها و قیمت‌های مناسب، مقصدی محبوب برای گردشگران و خریداران."
+    },
+    {
+      "name": "ساحل بندر گناوه",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2024/01/genave-beach.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "ساحلی زیبا با ماسه‌های نرم، مناسب برای تفریحات دریایی و گردشگری."
+    },
+    {
+      "name": "تالاب حله",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/08/attractions-of-genaveh3.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "تالابی با اکوسیستم محلی و منطقه‌ای محافظت شده، میزبان پرندگان مهاجر."
+    },
+    {
+      "name": "جزیره میرمهنا",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/08/attractions-of-genaveh8.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جزیره‌ای غیرمسکونی با طبیعت بکر و زیستگاه پرندگان دریایی."
+    },
+    {
+      "name": "برج خان بندر ریگ",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/08/%D8%A8%D8%B1%D8%AC-%D8%AE%D8%A7%D9%86-%D8%AD%D8%A8%DB%8C%D8%A8-%D9%81%D8%B1%D8%A7%D9%85%D8%B1%D8%B2%DB%8C.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برجی تاریخی با معماری سنتی در شهر بندر ریگ."
+    },
+    {
+      "name": "تپه‌های باستانی تل محمد حیدر",
+      "images": ["https://toptourist.ir/wp-content/uploads/2020/03/%D8%AF%DB%8C%D8%AF%D9%86%DB%8C_%D8%A8%D9%88%D8%B4%D9%87%D8%B1_%D8%A7%D8%AA%D8%A7%D9%82%DA%A9_-2-2-e1581440754949.jpg"],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "تپه‌ای باستانی در شمال روستای گناوه با قدمت تاریخی."
+    },
+    {
+      "name": "تپه شاه ناصری",
+      "images": [""],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "تپه‌ای باستانی در شرق روستای گناوه با آثار تاریخی."
+    },
+    {
+      "name": "تپه قلعه کلات",
+      "images": [""],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "تپه‌ای باستانی در جنوب روستای گناوه با بقایای قلعه تاریخی."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_گناوه",
+      "https://fa.wikipedia.org/wiki/بندر_گناوه"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

@@ -1,16 +1,20 @@
 {
-  "title": "ویژگی‌های جغرافیایی شهرستان تنگستان",
+  "title": "ویژگی‌های جغرافیایی تنگستان",
   "location": {
     "province": "بوشهر",
-    "city": "اهرم"
+    "city": "تنگستان"
   },
   "geographical_features": [
     {
       "name": "رودخانه‌ها",
       "description": [
         {
-          "name": "رودخانه‌های فصلی",
-          "images": []
+          "name": "رودخانه بهوش (اهرم)",
+          "images": ["https://cdn.yjc.ir/files/fa/news/1402/9/30/18713882_795.jpg"]
+        },
+        {
+          "name": "رودخانه شور (سور)",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/IranBishapur1.jpg/1280px-IranBishapur1.jpg"]
         }
       ]
     },
@@ -18,8 +22,20 @@
       "name": "کوه‌ها",
       "description": [
         {
-          "name": "کوه‌های تنگستان",
-          "images": []
+          "name": "کوه قلعه دختر",
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/02/1-129.jpg"]
+        },
+        {
+          "name": "کوه بیرمی",
+          "images": ["https://img9.irna.ir/old/Image/1392/13920401/80709136/N80709136-4416022.jpg"]
+        },
+        {
+          "name": "کوه سرخ",
+          "images": ["https://s3.dana.ir/dana/uploads/06/01/1400/1719517.jpg"]
+        },
+        {
+          "name": "کوه مند",
+          "images": ["https://safarmarket.com/blog/data/uploaded_files/6cf0ec16302899f8f0a3ec45.jpg"]
         }
       ]
     },
@@ -30,10 +46,8 @@
     {
       "name": "پوشش گیاهی",
       "description": [
-        "درختان نخل",
-        "درختان کنار",
-        "درختان کهور",
-        "درختان گز"
+        "درختان نخل، کنار، انجیر، بادام کوهی، مورتلخ، کاسنی، بومادران",
+        "درختان انار، لیمو، مرکبات، بنه، افرا، گل گاو زبان، گون، خرزهره"
       ]
     }
   ],
@@ -41,14 +55,14 @@
     {
       "name": "اقلیم",
       "description": [
-        "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-        "میانگین بارش سالانه: حدود 250 میلی‌متر"
+        "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 215 میلی‌متر"
       ]
     },
     {
       "name": "ارتفاع",
       "description": [
-        "میانگین ارتفاع شهرستان: 70 متر از سطح دریا"
+        "میانگین ارتفاع شهرستان: 10 متر از سطح دریا"
       ]
     },
     {
@@ -60,7 +74,7 @@
     {
       "name": "ویژگی‌های زمین‌شناسی",
       "description": [
-        "وجود معادن سنگ آهک و رس",
+        "وجود معادن نمک، گوگرد، گچ و سنگ ساختمانی",
         "گسل‌های فعال در منطقه"
       ]
     }
@@ -75,54 +89,84 @@
     {
       "name": "منابع معدنی",
       "description": [
-        "سنگ آهک",
-        "رس"
+        "نمک",
+        "گوگرد",
+        "گچ",
+        "سنگ ساختمانی"
       ]
     }
   ],
   "tourist_attractions": [
     {
-      "name": "چشمه آب گرم اهرم",
-      "images": [],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
-      "description": "چشمه‌ای طبیعی با آب گرم معدنی، واقع در نزدیکی شهر اهرم، که برای درمان برخی بیماری‌های پوستی و رماتیسمی مورد استفاده قرار می‌گیرد."
-    },
-    {
-      "name": "قلعه نصوری",
-      "images": [],
+      "name": "موزه رئیس‌علی دلواری",
+      "images": ["https://cdn.isna.ir/d/2020/09/01/4/61721104.jpg"],
       "year_built": "دوره قاجار",
-      "architect": "",
-      "constructor": "",
-      "description": "قلعه‌ای تاریخی در بندر دلوار، محل زندگی رئیس‌علی دلواری، از مبارزان مشهور جنوب ایران."
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه تاریخی رئیس‌علی دلواری که به موزه تبدیل شده و آثار مربوط به مبارزات وی را به نمایش می‌گذارد."
     },
     {
-      "name": "خانه رئیس‌علی دلواری",
-      "images": [],
+      "name": "قلعه زائر خضرخان (قلعه کلات)",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/%DA%A9%D9%84%D8%A7%D8%AA.%D9%85%D8%AD%D9%84_%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF_%D8%AA%D9%88%D9%BE_-_panoramio.jpg/500px-%DA%A9%D9%84%D8%A7%D8%AA.%D9%85%D8%AD%D9%84_%D8%A8%D8%B1%D8%AE%D9%88%D8%B1%D8%AF_%D8%AA%D9%88%D9%BE_-_panoramio.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی بر فراز تپه‌ای در شمال غربی شهر اهرم که به عنوان یکی از آثار ملی ایران به ثبت رسیده است."
+    },
+    {
+      "name": "چشمه آبگرم اهرم",
+      "images": ["https://media.mehrnews.com/d/2025/02/16/3/5381700.jpg?ts=1739684684370"],
       "year_built": "",
       "architect": "",
       "constructor": "",
-      "description": "خانه‌ای تاریخی که به موزه تبدیل شده و آثار مربوط به مبارزات رئیس‌علی دلواری را به نمایش می‌گذارد."
+      "description": "چشمه‌ای با آب‌های معدنی گرم و غنی از املاح، محیطی آرام و دلپذیر برای استراحت و درمان."
     },
     {
-      "name": "نخلستان‌های تنگستان",
-      "images": [],
+      "name": "چشمه آبگرم قوچارک",
+      "images": ["https://cdn.balad.ir/crowd-images/all/original/2f3HDpkIhh9tvd-bfe868aed6d94a59a22e548210e692a4.jpg?x-img=v1/format,type_webp,lossless_false/autorotate"],
       "year_built": "",
       "architect": "",
       "constructor": "",
-      "description": "نخلستان‌های گسترده که منبع اصلی تولید خرما در منطقه هستند و مناظری زیبا را فراهم می‌کنند."
+      "description": "چشمه‌ای با آب‌های گرم و گوگردی در نزدیکی شهر اهرم، مناسب برای درمان بیماری‌های پوستی."
     },
     {
-      "name": "سواحل خلیج فارس",
-      "images": [],
+      "name": "تنگ بنیون",
+      "images": ["https://borna.news/files/fa/news/1398/1/14/1460146_980.jpg"],
       "year_built": "",
       "architect": "",
       "constructor": "",
-      "description": "سواحل زیبا و آرام خلیج فارس که امکان تفریحات آبی و صید ماهی را فراهم می‌کنند."
+      "description": "دره‌ای سرسبز و پوشیده از درختان انار، بادام وحشی، مرکبات، نخل و انجیر با پوشش گیاهی متنوع و منحصر به‌فرد."
+    },
+    {
+      "name": "منطقه گردشگری خائیز",
+      "images": ["https://last-cdn.com/2020/05/18/QEfhRXzl3G3RFwOTadWM8A3BIsox7oGk6Q7s3sDw.jpeg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "منطقه‌ای کوهستانی با طبیعت زیبا و روستاهای دیدنی، مناسب برای کوهنوردی و طبیعت‌گردی."
+    },
+    {
+      "name": "روستای گشی",
+      "images": ["https://last-cdn.com/2020/01/26/KQ4OrraaFoCXUio5Fd4xqiduupX7j5cPMkRlb8Ik.jpeg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "روستایی در ۲۰ کیلومتری جنوب شرقی شهر اهرم با جنگل‌های طبیعی و کوه‌های احاطه‌کننده، معروف به نخلستان‌های زیبا."
+    },
+    {
+      "name": "آبشار معدن سنگ اهرم",
+      "images": ["https://media.salameno.com/d/2022/03/24/0/15323065.jpg?ts=1648107786683"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "آبشاری طبیعی در مسیر جاده اهرم به فراشبند با مناظر زیبا و صخره‌های نمکی گوگردی."
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_تنگستان",
+      "https://fa.wikipedia.org/wiki/اهرم"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
 }

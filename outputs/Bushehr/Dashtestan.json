@@ -1,134 +1,150 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان دشتستان",
-    "location": {
-      "province": "بوشهر",
-      "city": "برازجان"
+  "title": "ویژگی‌های جغرافیایی دشتستان",
+  "location": {
+    "province": "بوشهر",
+    "city": "دشتستان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه شاپور",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/a/af/IranBishapur1.jpg"]
+        },
+        {
+          "name": "رودخانه دالکی",
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2021/07/4-18.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه دالکی",
-            "images": []
-          },
-          {
-            "name": "رودخانه شاپور",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های زاگرس جنوبی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "نخلستان‌های گسترده",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 250 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 80 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه‌های دالکی و شاپور"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کاخ زمستانی کورش (چرخاب)",
-        "images": [],
-        "year_built": "دوره هخامنشی",
-        "architect": "",
-        "constructor": "",
-        "description": "کاخی باستانی منسوب به کورش کبیر، واقع در منطقه چرخاب برازجان، با معماری سنگی و ستون‌های عظیم."
-      },
-      {
-        "name": "دژ برازجان",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی با معماری خاص، واقع در مرکز شهر برازجان، که به عنوان زندان نیز مورد استفاده قرار می‌گرفت."
-      },
-      {
-        "name": "گور دختر",
-        "images": [],
-        "year_built": "دوره هخامنشی",
-        "architect": "",
-        "constructor": "",
-        "description": "مقبره‌ای باستانی منسوب به دختر کورش کبیر، واقع در منطقه پشت پر، با معماری مشابه آرامگاه کورش در پاسارگاد."
-      },
-      {
-        "name": "کاروانسرای مشیرالملک",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "",
-        "constructor": "",
-        "description": "کاروانسرایی تاریخی با معماری سنتی، واقع در شهر برازجان، که محل استراحت کاروان‌ها بوده است."
-      },
-      {
-        "name": "نخلستان‌های دشتستان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "نخلستان‌های گسترده که منبع اصلی تولید خرما در منطقه هستند و مناظری زیبا را فراهم می‌کنند."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه سیاه",
+          "images": ["https://img9.irna.ir/d/r1/2020/05/30/4/157151376.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "مراتع و جنگل‌های پراکنده بلوط",
+        "گیاهان دارویی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 250 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 70 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های وسیع با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن سنگ آهک و رس",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ آهک",
+        "رس"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "کاخ زمستانی کوروش",
+      "images": ["https://mrbilit.com/mag/wp-content/uploads/2020/10/3-57.jpg"],
+      "year_built": "دوره هخامنشی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاخی تاریخی منسوب به کوروش بزرگ در نزدیکی برازجان."
+    },
+    {
+      "name": "گور دختر",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gur_Dokhtar1.jpg/500px-Gur_Dokhtar1.jpg"],
+      "year_built": "دوره هخامنشی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مقبره‌ای تاریخی با معماری مشابه آرامگاه کوروش بزرگ."
+    },
+    {
+      "name": "کاروانسرای مشیرالملک",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/c/c0/%D9%86%D9%85%D8%A7%DB%8C_%D8%A8%DB%8C%D8%B1%D9%88%D9%86%DB%8C_%DA%A9%D8%A7%D8%B1%D9%88%D8%A7%D9%86%D8%B3%D8%B1%D8%A7%DB%8C_%D9%85%D8%B4%DB%8C%D8%B1%D8%A7%D9%84%D9%85%D9%84%DA%A9_%D8%A8%D8%B1%D8%A7%D8%B2%D8%AC%D8%A7%D9%86.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاروانسرایی تاریخی در شهر برازجان با معماری سنتی."
+    },
+    {
+      "name": "شهر تاریخی توج",
+      "images": ["https://fa.tripyar.com/uploads/picture/1998/2.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "شهر باستانی با بقایای معماری دوره ساسانی."
+    },
+    {
+      "name": "کوشک اردشیر ساسانی",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Koreh_Ardeshir.jpg/1280px-Koreh_Ardeshir.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کوشکی تاریخی منسوب به اردشیر بابکان در روستای پشت پر."
+    },
+    {
+      "name": "زندان سلیمان",
+      "images": ["https://tabnakbato.ir/files/fa/news/1401/9/22/499370_236.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بنایی تاریخی در روستای پشت پر با کاربری نامشخص."
+    },
+    {
+      "name": "آتشکده تل خندق",
+      "images": ["http://www.ettehadkhabar.ir/files/1395/11/6372708_3705.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آتشکده‌ای تاریخی در نزدیکی تل خندق."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_دشتستان",
+      "https://fa.wikipedia.org/wiki/دشتستان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}

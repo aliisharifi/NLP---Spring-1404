@@ -1,129 +1,146 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان جم",
-    "location": {
-      "province": "بوشهر",
-      "city": "جم"
+  "title": "ویژگی‌های جغرافیایی جم",
+  "location": {
+    "province": "بوشهر",
+    "city": "جم"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه شور",
+          "images": ["https://dl.torbeh.com/jz/1537563059_2124577863_1708531089.webp"]
+        },
+        {
+          "name": "رودخانه باغان",
+          "images": ["https://cdn.isna.ir/d/off/bushehr/2024/12/29/3/63299690.jpg?ts=1735474157088"]
+        },
+        {
+          "name": "رودخانه چاه‌کوتاه",
+          "images": ["https://cdn.alibaba.ir/ostorage-ugc/randd-threepio/34fb2ce24ff0a54e0c6aabb9400e1879d1aa44377b595e735263e8df266bf1b4_original.jpg"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه پردیس (پدری)",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان نخل",
-          "درختان کنار",
-          "درختان کهور",
-          "درختان گز"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "معتدل کوهستانی با تابستان‌های گرم و زمستان‌های معتدل",
-          "میانگین بارش سالانه: حدود 351 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 700 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کوه پردیس (پدری)",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "کوهی با ارتفاع 1040 متر از سطح دریا، دارای اهمیت تاریخی و افسانه‌ای، با مناظر طبیعی زیبا و پوشش گیاهی متنوع."
-      },
-      {
-        "name": "تنگه گولو",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "تنگه‌ای طبیعی با مناظر زیبا و پوشش گیاهی متنوع، مناسب برای طبیعت‌گردی و کوهنوردی."
-      },
-      {
-        "name": "تنگه کوهچر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "تنگه‌ای با چشم‌اندازهای طبیعی و پوشش گیاهی خاص، مناسب برای گردشگران و علاقه‌مندان به طبیعت."
-      },
-      {
-        "name": "تنگه پیر بیراهه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "تنگه‌ای با مناظر بکر و طبیعی، مناسب برای پیاده‌روی و عکاسی."
-      },
-      {
-        "name": "نخلستان‌های جم",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "نخلستان‌های گسترده که منبع اصلی تولید خرما در منطقه هستند و مناظری زیبا را فراهم می‌کنند."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه پردیس (پدری)",
+          "images": ["https://upload.wikimedia.org/wikipedia/fa/thumb/6/60/Perdis.jpg/500px-Perdis.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "جنگل‌های پراکنده بلوط و کهور",
+        "گیاهان دارویی مانند پونه، آویشن و کتیرا"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "اقلیم",
+      "description": [
+        "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های معتدل",
+        "میانگین بارش سالانه: حدود 250 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "میانگین ارتفاع شهرستان: 700 متر از سطح دریا"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کوهستانی با تپه‌های کم‌ارتفاع و کوه‌های پراکنده"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "وجود معادن گچ و سنگ آهک",
+        "گسل‌های فعال در منطقه"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چشمه‌های فصلی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "گچ",
+        "سنگ آهک"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "جنگل گلوبردکان",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Galoobardakan_Forest_Hadi_Karimi.jpg/960px-Galoobardakan_Forest_Hadi_Karimi.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "جنگلی با پوشش گیاهی متنوع و درختان بلند که به عنوان ریه‌های شهر جم شناخته می‌شود."
+    },
+    {
+      "name": "امامزاده بی بی بانو",
+      "images": ["https://yaldamedtour.com/images/content-image/2020/12/iranwatching-1750-1608389624-bibi-banoo.jpg"],
+      "year_built": "دوره اسلامی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "امامزاده‌ای از نوادگان امام موسی کاظم (ع) که در شمال غربی شهرستان جم و در روستای پدری قرار دارد."
+    },
+    {
+      "name": "آسیاب آبی دایو",
+      "images": ["https://cdn.balad.ir/crowd-images/all/original/e99797d86cee438ead0169d02282c3df-IMG_20220101_172212.jpg?x-img=v1/format,type_webp,lossless_false/autorotate"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آسیابی ساروجی که در میان دو روستای گلوکلات و دایو قرار گرفته و آب آن از کوه‌های اطراف تأمین می‌شود."
+    },
+    {
+      "name": "بند گلوکلات",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/7/7d/%D8%A8%D9%86%D8%AF_%DA%AF%D9%84%D9%88_%DA%A9%D9%84%D8%A7%D8%AA.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بندی تاریخی که قدمت آن به دوران ساسانی بازمی‌گردد و از جمله آثار ملی ثبت شده ایران است."
+    },
+    {
+      "name": "حمام قاجاریه",
+      "images": [""],
+      "year_built": "سال 1292 هجری شمسی",
+      "architect": "نامشخص",
+      "constructor": "مرحوم محمدعلی خان پریشان جمی",
+      "description": "حمامی قدیمی که در سال 1292 توسط مرحوم محمدعلی خان پریشان جمی ساخته شده و در سال 1385 در فهرست ملی کشور به ثبت رسیده است."
+    },
+    {
+      "name": "غار قندیل",
+      "images": ["http://boushehr.iribnews.ir/files/fa/news/1397/9/26/2956571_411.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "غاری طبیعی در شرق روستای کوری حیاتی که به دلیل شکل خاص قندیل‌های آن، مورد توجه گردشگران است."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_جم",
+      "https://fa.wikipedia.org/wiki/جم_(بوشهر)"
+    ],
+    "books_source": "http://chap.sch.ir/books/12305"
   }
-  
+}
