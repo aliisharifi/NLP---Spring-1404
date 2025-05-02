@@ -1,75 +1,202 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان جرقویه",
-    "location": {
-      "province": "اصفهان",
-      "city": "جرقویه"
+  "title": "ویژگی‌های جغرافیایی جرقویه",
+  "location": {
+    "province": "اصفهان",
+    "city": "جرقویه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": []
-      },
-      {
-        "name": "کوه‌ها",
-        "description": []
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": []
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": []
-      },
-      {
-        "name": "ارتفاع",
-        "description": []
-      },
-      {
-        "name": "توپوگرافی",
-        "description": []
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": []
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": []
-      },
-      {
-        "name": "منابع معدنی",
-        "description": []
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "مسجد جامع محمدآباد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "مسجدی تاریخی در شهر محمدآباد با معماری سنتی."
-      },
-      {
-        "name": "قلعه تاریخی محمدآباد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی در شهر محمدآباد با قدمتی طولانی."
-      }
-    ],
-    "additional_info": {
-      "books_source": ""
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه محمد نوجوان",
+          "images": [""]
+        },
+        {
+          "name": "کوه کلاه قاضی",
+          "images": ["https://api2.kojaro.com/media/2021-5-4efb2851-e3e2-44c0-a25f-1328364c0041-67c4610ac1067c5ba7675d61?w=1680&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+          "name": "تالاب بین‌المللی گاوخونی",
+          "images": ["https://api2.kojaro.com/media/2022-5-614edc1b-66ff-4f21-83be-130a390c97fc-67c4610fc1067c5ba767e187?w=1200&q=80"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان تاغ، گز، بادام کوهی و پسته کوهی",
+        "گیاهان مرتعی و کویری"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک در تابستان",
+        "زمستان‌های سرد و خشک",
+        "میانگین بارش سالانه حدود ۹۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا بین ۱۵۴۰ تا ۱۵۷۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کویری با شیب ملایم",
+        "زمین‌های مسطح و مناسب برای کشاورزی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های رسی و شنی",
+        "وجود قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها",
+        "چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "دژ قارنه",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-2-12.jpg"],
+      "year_built": "دوره پیشدادیان",
+      "architect": "نامشخص",
+      "constructor": "قارن پسر کاوه آهنگر",
+      "description": "دژی تاریخی در روستای قارنه که به قارن پسر کاوه آهنگر نسبت داده می‌شود."
+    },
+    {
+      "name": "غار فریدون",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-23-13.jpg"],
+      "year_built": "دوره اشکانیان",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "غاری در روستای پیکان که پیکان‌هایی از جنس مفرغ در آن یافت شده است."
+    },
+    {
+      "name": "مسجد جامع رامشه",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-29-9.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی در روستای رامشه با دو قبله."
+    },
+    {
+      "name": "خانه احمد رخشا",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی در روستای رامشه که در فهرست آثار ملی ایران ثبت شده است."
+    },
+    {
+      "name": "خانه ایلخانی",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی در روستای رامشه که در فهرست آثار ملی ایران ثبت شده است."
+    },
+    {
+      "name": "خانه داستانی",
+      "images": [""],
+      "year_built": "اواخر دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی در روستای حسین‌آباد که در فهرست آثار ملی ایران ثبت شده است."
+    },
+    {
+      "name": "قلعه تازه محمدآباد",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-27-10.jpg"],
+      "year_built": "دوره زندیه",
+      "architect": "نامشخص",
+      "constructor": "اسماعیل سلطان",
+      "description": "قلعه‌ای تاریخی در شهر محمدآباد که توسط اسماعیل سلطان ساخته شده است."
+    },
+    {
+      "name": "باغ میر",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-21-14.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "باغی تاریخی در شهر محمدآباد."
+    },
+    {
+      "name": "موزه محمدآباد (خانه سرهنگ)",
+      "images": ["https://www.otaghak.com/blog/wp-content/uploads/2022/11/psd_ghaleb_ax-1-25-11.jpg"],
+      "year_built": "دوران قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "موزه‌ای در شهر محمدآباد که در خانه‌ای تاریخی قرار دارد."
+    },
+    {
+      "name": "دژ سعادت‌آباد",
+      "images": [""],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "دژی تاریخی در روستای سعادت‌آباد."
+    },
+    {
+      "name": "نیایشگاه آناهیتا",
+      "images": ["https://www.iranhotelonline.com/blog/wp-content/uploads/2023/05/1683356931_247_%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C-%D9%82%D8%A7%D8%B1%D9%86%D9%87-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "نیایشگاهی تاریخی در نزدیکی روستای قارنه."
+    },
+    {
+      "name": "دژ میرحیدر (پیکان دژ)",
+      "images": ["https://peykaniha.ir/wp-content/uploads/2021/02/%D9%82%D9%84%D8%B9%D9%87-%D9%85%DB%8C%D8%B1%D8%AD%DB%8C%D8%AF%D8%B1.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "دژی تاریخی در روستای پیکان."
+    },
+    {
+      "name": "حمام پای تالار رامشه",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمامی تاریخی در روستای رامشه که در فهرست آثار ملی ایران ثبت شده است."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/اصفهان",
+      "https://fa.wikipedia.org/wiki/شهرستان_اصفهان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}
+ 

@@ -14,11 +14,11 @@
       "description": [
         {
           "name": "کوه یخاب",
-          "images": []
+          "images": ["https://api2.kojaro.com/media/2018-12-aa6d3453-a0a6-40fd-9224-85a9fd1c1794-67c460fac1067c5ba7650aa4?w=1200&q=80"]
         },
         {
           "name": "کوه آبریزان",
-          "images": []
+          "images": [""]
         }
       ]
     },
@@ -27,7 +27,7 @@
       "description": [
         {
           "name": "دریاچه نمک آران و بیدگل",
-          "images": []
+          "images": ["https://mrbilit.com/mag/wp-content/uploads/2022/05/7ar.jpg"]
         }
       ]
     },
@@ -41,7 +41,7 @@
   ],
   "topography": [
     {
-      "name": "اقلیم",
+      "name": "منطقه اقلیمی",
       "description": [
         "تابستان‌های بسیار گرم و خشک",
         "زمستان‌های سرد و خشک"
@@ -88,7 +88,7 @@
   "tourist_attractions": [
     {
       "name": "کویر مرنجاب",
-      "images": [],
+      "images": ["https://api2.kojaro.com/media/2020-10-3c00ff0f-819e-4d38-9671-e8d1b85a7531-67c46106c1067c5ba766d600?w=1680&q=80"],
       "year_built": "",
       "architect": "",
       "constructor": "",
@@ -96,7 +96,7 @@
     },
     {
       "name": "کاروانسرای مرنجاب",
-      "images": [],
+      "images": ["https://api2.kojaro.com/media/2022-9-ad2de98d-7515-4844-80b5-d4732da39bb8-67c46111c1067c5ba76804b5?w=1200&q=80"],
       "year_built": "دوره صفویه",
       "architect": "نامشخص",
       "constructor": "به دستور شاه عباس اول",
@@ -104,7 +104,7 @@
     },
     {
       "name": "شهر زیرزمینی نوش‌آباد",
-      "images": [],
+      "images": [""],
       "year_built": "دوره ساسانی",
       "architect": "نامشخص",
       "constructor": "نامشخص",
@@ -112,7 +112,7 @@
     },
     {
       "name": "قلعه کرشاهی",
-      "images": [],
+      "images": ["https://matinabad.com/wp-content/uploads/2022/01/karshahicastele.jpg"],
       "year_built": "دوره ایلخانی",
       "architect": "نامشخص",
       "constructor": "نامشخص",
@@ -120,7 +120,7 @@
     },
     {
       "name": "امامزاده هلال بن علی",
-      "images": [],
+      "images": ["https://api2.kojaro.com/media/2017-12-616f16a5-e615-4de5-a7b8-0daefb3af89a-67c460eac1067c5ba762d1c8?w=1200&q=80"],
       "year_built": "دوره صفویه",
       "architect": "نامشخص",
       "constructor": "نامشخص",
@@ -128,7 +128,7 @@
     },
     {
       "name": "خانه باغ شاکر",
-      "images": [],
+      "images": ["https://www.homsa.net/images/rooms/10113/1527583181_.jpeg"],
       "year_built": "دوره قاجار",
       "architect": "نامشخص",
       "constructor": "نامشخص",
@@ -136,6 +136,9 @@
     }
   ],
   "additional_info": {
-    "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/%D8%B4%D9%87%D8%B1%D8%B3%D8%AA%D8%A7%D9%86_%D8%A2%D8%B1%D8%A7%D9%86_%D9%88_%D8%A8%DB%8C%D8%AF%DA%AF%D9%84"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
 }

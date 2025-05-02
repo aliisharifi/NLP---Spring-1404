@@ -1,137 +1,148 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان نطنز",
-    "location": {
-      "province": "اصفهان",
-      "city": "نطنز"
+  "title": "ویژگی‌های جغرافیایی نطنز",
+  "location": {
+    "province": "اصفهان",
+    "city": "نطنز"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه برزرود",
+          "images": [""]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه کرکس",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بادام",
-          "درختان انار",
-          "درختان زردآلو",
-          "درختان انگور"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "معتدل کوهستانی با تابستان‌های خنک و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود 150 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 1600 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "مسجد جامع نطنز",
-        "images": [],
-        "year_built": "قرن هشتم هجری قمری",
-        "architect": "",
-        "constructor": "",
-        "description": "یکی از قدیمی‌ترین مساجد ایران با معماری سبک خراسانی، دارای شبستان‌های متعدد و مناره‌ای تاریخی."
-      },
-      {
-        "name": "کوه کرکس",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "کوهی با ارتفاع 3895 متر از سطح دریا، یکی از مقاصد محبوب کوهنوردان و طبیعت‌گردان."
-      },
-      {
-        "name": "روستای ابیانه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی تاریخی با معماری منحصر به فرد و خانه‌های خشتی قرمز رنگ."
-      },
-      {
-        "name": "باغ تاج‌آباد",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "باغی تاریخی با معماری ایرانی، دارای کوشک و آب‌نماهای زیبا."
-      },
-      {
-        "name": "آبشار طامه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آبشاری طبیعی در نزدیکی روستای طامه، با مناظر زیبا و هوای مطبوع."
-      },
-      {
-        "name": "آتشکده نطنز",
-        "images": [],
-        "year_built": "دوران ساسانیان",
-        "architect": "",
-        "constructor": "",
-        "description": "آتشکده‌ای تاریخی با معماری چهارتاقی، واقع در کوچه پشت مسجد جامع نطنز."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه کرکس",
+          "images": ["https://snond.ir/wp-content/uploads/2023/07/%D8%A8%D8%AE%D8%B4-%DA%A9%D9%88%D9%87%D8%B3%D8%AA%D8%A7%D9%86-%DA%A9%D8%B1%DA%A9%D8%B3-%DA%A9%D8%AC%D8%A7%D8%B3%D8%AA.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان گلابی، زردآلو، انار، گردو، پسته و زعفران",
+        "گیاهان مرتعی و کوهستانی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای کوهستانی با تابستان‌های معتدل و زمستان‌های سرد",
+        "میانگین بارش سالانه حدود ۱۶۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۶۶۶ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار در مجاورت کوه‌های کرکس",
+        "کوه‌های مرتفع در شمال و غرب شهرستان"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه برزرود",
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "مسجد جامع نطنز",
+      "images": ["https://cdn.isna.ir/d/off/isfahan/2021/01/27/3/61837046.jpg"],
+      "year_built": "قرن ۳ هجری",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "یکی از قدیمی‌ترین مساجد ایران با معماری اسلامی منحصر به فرد"
+    },
+    {
+      "name": "آتشکده نطنز",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/%D8%A8%D9%86%D8%A7%DB%8C_%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%DB%8C_%D9%86%D8%B7%D9%86%D8%B2.jpg/500px-%D8%A8%D9%86%D8%A7%DB%8C_%D8%A2%D8%AA%D8%B4%DA%A9%D8%AF%D9%87_%D8%B3%D8%A7%D8%B3%D8%A7%D9%86%DB%8C_%D9%86%D8%B7%D9%86%D8%B2.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "آتشکده‌ای تاریخی در باغ امام جمعه نطنز"
+    },
+    {
+      "name": "روستای ابیانه",
+      "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2020/02/abyaneh-view.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی تاریخی با معماری منحصر به فرد و خانه‌های سرخ‌رنگ"
+    },
+    {
+      "name": "کاخ عباس‌آباد",
+      "images": ["https://www.iranview.ir/content/images/posts/19584_760px.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاخی تاریخی در کنار جاده قدیم نطنز به کاشان"
+    },
+    {
+      "name": "روستای هنجن",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hanjan_Castle%28inside%29.jpg/500px-Hanjan_Castle%28inside%29.jpg"],
+      "year_built": "دوره حمله مغول ",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی کوهستانی با طبیعت بکر و آثار تاریخی"
+    },
+    {
+      "name": "غار پریان",
+      "images": [""],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "غاری طبیعی با مناظر زیبا در نزدیکی نطنز"
+    },
+    {
+      "name": "کاروانسرای میرابوالمعالی",
+      "images": [""],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاروانسرایی تاریخی با معماری ایرانی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/نطنز",
+      "https://fa.wikipedia.org/wiki/شهرستان_نطنز"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

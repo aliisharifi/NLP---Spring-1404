@@ -1,161 +1,141 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان میمه و شهر وزوان",
-    "location": {
-      "province": "اصفهان",
-      "cities": ["میمه", "وزوان"]
+  "title": "ویژگی‌های جغرافیایی میمه و وزوان",
+  "location": {
+    "province": "اصفهان",
+    "city": "میمه و وزوان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف میمه و وزوان",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بادام",
-          "درختان انار",
-          "درختان زردآلو",
-          "درختان پسته"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۲۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۶۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کاروانسرای شاه‌عباسی میمه",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "کاروانسرایی تاریخی با معماری منحصر به فرد."
-      },
-      {
-        "name": "مسجد جامع میمه",
-        "images": [],
-        "year_built": "دوره سلجوقیان",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجدی تاریخی با گنبدی متعلق به دوره ساسانیان."
-      },
-      {
-        "name": "امامزاده اسماعیل میمه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "امامزاده‌ای تاریخی در شهر میمه."
-      },
-      {
-        "name": "بازار قدیمی میمه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری تاریخی با معماری سنتی."
-      },
-      {
-        "name": "چشمه آبگرم میمه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "چشمه‌ای آبگرم با خواص درمانی."
-      },
-      {
-        "name": "خانه‌های تاریخی وزوان",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "خانه‌هایی تاریخی با معماری زیبا و حیاط مرکزی."
-      },
-      {
-        "name": "مسجد جامع وزوان",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجدی تاریخی با معماری منحصر به فرد."
-      },
-      {
-        "name": "امامزاده سید محمد وزوان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "امامزاده‌ای تاریخی در شهر وزوان."
-      },
-      {
-        "name": "بازار قدیمی وزوان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری تاریخی با معماری سنتی."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "رشته‌کوه کرکس",
+          "images": ["https://last-cdn.com/2020/02/08/0cUtletSLUxLy315j6WLmUTMdUHG6JcZqZ97iNKB.jpeg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان انگور، بادام، انار، سنجد و گیاهان مرتعی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
+        "میانگین بارش سالانه کمتر از 200 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود 1970 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار با شیب ملایم در مجاورت کوه‌های کرکس"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی و باغداری",
+        "وجود قنات‌های تاریخی و چشمه‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌های تاریخی مانند قنات مزدآباد و قنات وزوان",
+        "چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "قنات مزدآباد",
+      "images": [""],
+      "year_built": "بیش از 2500 سال پیش",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قناتی تاریخی در میمه با قدمت بیش از 2500 سال، ثبت‌شده در فهرست میراث جهانی یونسکو"
+    },
+    {
+      "name": "قنات وزوان",
+      "images": ["https://api2.kojaro.com/media/2019-7-d8910ea3-ff91-4b62-b3f0-d7f77178145d-67c460fec1067c5ba7659c84?w=1200&q=80"],
+      "year_built": "بیش از 2500 سال پیش",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قناتی تاریخی در وزوان با سد زیرزمینی منحصر به فرد، ثبت‌شده در فهرست میراث جهانی یونسکو"
+    },
+    {
+      "name": "مسجد جامع میمه",
+      "images": ["https://api2.kojaro.com/media/2022-11-124f3c87-9ca1-45dc-968a-5a12743851f2-67c46112c1067c5ba768128e?w=1200&q=80"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری اسلامی ایرانی در شهر میمه"
+    },
+    {
+      "name": "حمام تاریخی میمه",
+      "images": ["http://media.imna.ir/d/2017/07/20/4/1428124.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمامی تاریخی با معماری سنتی در شهر میمه"
+    },
+    {
+      "name": "موزه مردم‌شناسی میمه",
+      "images": ["https://api2.kojaro.com/media/2018-9-c06e0eb7-f76b-402a-b3e8-aaa744a56e40-67c460f7c1067c5ba7649515?w=1200&q=80"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "موزه‌ای برای نمایش فرهنگ و تاریخ مردم منطقه میمه"
+    },
+    {
+      "name": "قلعه‌های تاریخی وزوان",
+      "images": ["https://media.ana.ir/media/image/1396/02/21/636301053629005368.jpg"],
+      "year_built": "دوره‌های مختلف تاریخی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌هایی تاریخی در شهر وزوان با معماری منحصر به فرد"
+    },
+    {
+      "name": "پارک لاله وزوان",
+      "images": ["https://static.neshanmap.ir/places/images/1ed/1289379_5090419_Thumbnail.jpeg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی زیبا در حاشیه جاده اصلی تهران ـ اصفهان با امکانات تفریحی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/شهرستان_میمه_و_وزوان",
+      "https://fa.wikipedia.org/wiki/میمه_(میمه_و_وزوان)",
+      "https://fa.wikipedia.org/wiki/وزوان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

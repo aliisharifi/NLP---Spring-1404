@@ -1,148 +1,134 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان ورزنه",
-    "location": {
-      "province": "اصفهان",
-      "city": "ورزنه"
+  "title": "ویژگی‌های جغرافیایی ورزنه",
+  "location": {
+    "province": "اصفهان",
+    "city": "ورزنه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": []
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": [
-          {
-            "name": "دریاچه نمک ورزنه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختچه‌های گز",
-          "گیاه اسکنبیل",
-          "تاغ",
-          "نسی",
-          "درمنه",
-          "زیگوفیلوم"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و خشک با تابستان‌های بسیار گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: کمتر از 100 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 1470 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های شنی"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن نمک و خاک رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "نمک",
-          "خاک رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کویر ورزنه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "کویر ورزنه با تپه‌های ماسه‌ای طلایی، زمین‌های صخره‌ای و نمکزارها، یکی از شگفتی‌های طبیعی ایران است که فعالیت‌هایی مانند شترسواری، سافاری، کمپینگ و تماشای ستارگان را ارائه می‌دهد."
-      },
-      {
-        "name": "پل تاریخی ورزنه",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "پل تاریخی ورزنه بر روی رودخانه زاینده‌رود واقع شده و از آثار تاریخی باستانی این منطقه محسوب می‌شود."
-      },
-      {
-        "name": "کاروانسرای قلعه خرگوشی",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کاروانسرایی تاریخی در جاده بین ورزنه و بخش کوه‌سیاه که به عنوان مکان استراحت برای مسافران و کاروان‌های عبوری مورد استفاده قرار می‌گرفت."
-      },
-      {
-        "name": "آسیاب شتر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آسیابی سنتی که در گذشته برای فرآوری غلات با استفاده از نیروی شتر مورد استفاده قرار می‌گرفت."
-      },
-      {
-        "name": "گلوچاه حاج ابراهیم",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "سیستم سنتی استخراج آب با استفاده از گاو خاصی به نام حاج ابراهیم که تنها با صدای خاصی شروع به کار می‌کرد."
-      },
-      {
-        "name": "تالاب گاوخونی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "تالابی مهم در نزدیکی ورزنه که زیستگاه پرندگان مهاجر مانند فلامینگو، حواصیل و پلیکان است."
-      },
-      {
-        "name": "ارگ غورتان",
-        "images": [],
-        "year_built": "دوران ساسانیان",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای باستانی در نزدیکی شهر ورزنه که مناظری پانوراما از مناظر بیابانی اطراف را ارائه می‌دهد."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": [
+        {
+          "name": "تالاب گاوخونی",
+          "images": ["https://upload.wikimedia.org/wikipedia/commons/f/f9/Gavkhouni_20190329_13.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "گیاهان بیابانی مانند اسکنبیل، درختچه تاغ و گیاه نسی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک",
+        "میانگین دمای سالانه حدود ۱۶ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۹۰ میلی‌متر",
+        "حدود ۸۵ روز یخبندان در سال"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۴۷۳ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار با تپه‌های ماسه‌ای در اطراف"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های بیابانی مناسب برای کشاورزی محدود",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه زاینده‌رود",
+        "قنات‌ها و چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نمک و سایر مواد معدنی بیابانی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "کویر ورزنه",
+      "images": ["https://safarmarket.com/blog/data/uploaded_files/fb2c4bcc79b3649fabed7866.jpg"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "کویر با تپه‌های ماسه‌ای زیبا و امکانات تفریحی مانند شترسواری و آفرود"
+    },
+    {
+      "name": "پل تاریخی ورزنه",
+      "images": ["https://api2.kojaro.com/media/2018-4-07c24aa5-cf88-40ce-8b7a-9c339b568a79-67c460f0c1067c5ba763aa28?w=1200&q=80"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل تاریخی بر روی رودخانه زاینده‌رود"
+    },
+    {
+      "name": "مسجد جامع ورزنه",
+      "images": ["https://last-cdn.com/2020/01/21/AnUbE1Br7MyM2bHKVw48Ffx33zZcCVbttzzY6cPU.jpeg"],
+      "year_built": "دوره اسلامی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری اسلامی"
+    },
+    {
+      "name": "ارگ قورتان",
+      "images": ["https://www.eligasht.com/Blog/wp-content/uploads/2018/12/%D9%82%D9%88%D8%B1%D8%AA%D8%A7%D9%86.jpg"],
+      "year_built": "دوره آل‌بویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "ارگی تاریخی با قدمت بیش از ۱۱۰۰ سال"
+    },
+    {
+      "name": "برج کبوترخانه قورتان",
+      "images": ["https://media.tebyan.net/old/tebyan_old/images/small/1395/09/2071202253512619725019410855814416925530.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برجی تاریخی برای نگهداری کبوترها"
+    },
+    {
+      "name": "کاروانسرای قلعه خرگوشی",
+      "images": ["https://cdn.mashreghnews.ir/d/2023/04/15/4/3771563.jpg?ts=1681561213000"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاروانسرایی تاریخی در نزدیکی ورزنه"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/ورزنه_(اصفهان)",
+      "https://fa.wikipedia.org/wiki/شهرستان_ورزنه"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

@@ -1,178 +1,132 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان مبارکه",
-    "location": {
-      "province": "اصفهان",
-      "city": "مبارکه"
+  "title": "ویژگی‌های جغرافیایی مبارکه",
+  "location": {
+    "province": "اصفهان",
+    "city": "مبارکه"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه‌های اطراف مبارکه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان انار",
-          "درختان زردآلو",
-          "درختان هلو",
-          "درختان انگور"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۴۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۶۹۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "پارک ساحلی سرارود",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با فضای سبز گسترده در حاشیه زاینده‌رود، مناسب برای تفریح و استراحت."
-      },
-      {
-        "name": "پارک کوهستانی گل نرگس",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با مناظر طبیعی زیبا و امکانات رفاهی."
-      },
-      {
-        "name": "بوستان میدان دفاع مقدس",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بوستانی با فضای سبز و یادمان‌های مربوط به دفاع مقدس."
-      },
-      {
-        "name": "پارک و شهربازی شهدای زینلی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با امکانات تفریحی برای کودکان و خانواده‌ها."
-      },
-      {
-        "name": "باغ بانوان مبارکه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "باغی اختصاصی برای بانوان با امکانات ورزشی و تفریحی."
-      },
-      {
-        "name": "بوستان هشت بهشت",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بوستانی با فضای سبز و امکانات رفاهی."
-      },
-      {
-        "name": "بوستان نقاش باشی",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بوستانی با فضای هنری و فرهنگی."
-      },
-      {
-        "name": "پارک لاله",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با فضای سبز و امکانات تفریحی."
-      },
-      {
-        "name": "بوستان ساحلی اسماعیل ترخان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بوستانی در حاشیه زاینده‌رود با مناظر طبیعی زیبا."
-      },
-      {
-        "name": "بوستان امام زاده عزالدین محمد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بوستانی در مجاورت امامزاده عزالدین محمد با فضای معنوی."
-      },
-      {
-        "name": "پارک شهدای جنگلبان صفائیه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "پارکی با فضای سبز و یادمان شهدای جنگلبان."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان انگور، هلو، شلیل، زردآلو، به، انار، گیلاس، آلوچه، آلو، آلبالو و زیتون",
+        "گیاهان مرتعی و باغی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل و نیمه‌خشک",
+        "تابستان‌های گرم و زمستان‌های سرد",
+        "میانگین دمای سالانه حدود ۱۵.۷ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۱۴۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۶۹۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار در مجاورت زاینده‌رود",
+        "کوه‌های مرتفع در اطراف شهرستان"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "زاینده‌رود",
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "پارک ساحلی سرارود",
+      "images": ["https://media.mehrnews.com/d/2024/03/22/4/4911193.jpg?ts=1711090503921"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پارکی زیبا در حاشیه زاینده‌رود با امکانات تفریحی"
+    },
+    {
+      "name": "قلعه نهچیر",
+      "images": ["https://media.mehrnews.com/d/2024/03/22/4/4911191.jpg?ts=1711090499892"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی با معماری منحصر به فرد"
+    },
+    {
+      "name": "غارهای تاریخی قلعه بزی",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Ghale_bozi.jpg/1024px-Ghale_bozi.jpg"],
+      "year_built": "دوره پیش از اسلام",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "غارهایی باستانی با قدمت تاریخی"
+    },
+    {
+      "name": "بوستان نقاشباشی",
+      "images": ["https://static.neshanmap.ir/places/images/745/1393310_5582461_Thumbnail.jpeg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بوستانی سرسبز با فضای مناسب برای تفریح"
+    },
+    {
+      "name": "برج کبوترآباد",
+      "images": ["https://media.mehrnews.com/d/2024/03/22/4/4911190.jpg?ts=1711090497287"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برجی تاریخی برای نگهداری کبوتران"
+    },
+    {
+      "name": "روستای حوض ماهی",
+      "images": ["https://media.mehrnews.com/d/2024/03/22/4/4911188.jpg?ts=1711090493494"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی با جاذبه‌های طبیعی و تاریخی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/مبارکه",
+      "https://fa.wikipedia.org/wiki/شهرستان_مبارکه"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

@@ -53,7 +53,7 @@
   ],
   "topography": [
     {
-      "name": "اقلیم",
+      "name": "منطقه اقلیمی",
       "description": [
         "گرم و مرطوب با تابستان‌های بسیار گرم و زمستان‌های معتدل",
         "میانگین بارش سالانه: حدود 215 میلی‌متر"
@@ -148,9 +148,9 @@
     {
       "name": "روستای گشی",
       "images": ["https://last-cdn.com/2020/01/26/KQ4OrraaFoCXUio5Fd4xqiduupX7j5cPMkRlb8Ik.jpeg"],
-      "year_built": "",
-      "architect": "",
-      "constructor": "",
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
       "description": "روستایی در ۲۰ کیلومتری جنوب شرقی شهر اهرم با جنگل‌های طبیعی و کوه‌های احاطه‌کننده، معروف به نخلستان‌های زیبا."
     },
     {

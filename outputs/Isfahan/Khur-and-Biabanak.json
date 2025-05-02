@@ -1,161 +1,119 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان خور و بیابانک",
-    "location": {
-      "province": "اصفهان",
-      "city": "خور و بیابانک"
+  "title": "ویژگی‌های جغرافیایی خور و بیابانک",
+  "location": {
+    "province": "اصفهان",
+    "city": "خور"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودشور خور",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه کبود",
-            "images": []
-          },
-          {
-            "name": "کوه هفت چنگ",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": [
-          {
-            "name": "دریاچه نمک خور",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "تاغ زرد و سیاه",
-          "گز سرخه و شوره گز",
-          "اشنان",
-          "بادام تلخ (سریت)",
-          "بنه",
-          "آویشن",
-          "روناس",
-          "کلپوره"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و خشک با میانگین دمای سالانه ۲۰ درجه سانتی‌گراد",
-          "بارش سالانه حدود ۷۵ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۷۹۶ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "بیابانی با تپه‌های شنی و دشت‌های نمکی",
-          "وجود کوه‌های پراکنده در اطراف"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن پتاس",
-          "سنگ‌های رسوبی و آهکی"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌های تاریخی مانند دهزیر و کلاغو",
-          "چشمه‌های طبیعی مانند چشمه دریاشور"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "پتاس",
-          "سنگ‌های آهکی",
-          "روناس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "کویر مصر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "یکی از معروف‌ترین کویرهای ایران با تپه‌های شنی زیبا و آسمان پرستاره، مناسب برای کویرنوردی و عکاسی."
-      },
-      {
-        "name": "دریاچه نمک خور",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بزرگ‌ترین دریاچه نمک فصلی ایران با مناظر منحصر به فرد و جاذبه‌های طبیعی."
-      },
-      {
-        "name": "روستای گرمه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی تاریخی با نخلستان‌های زیبا و آثار باستانی مانند قلعه و قبرستان کشته‌ها."
-      },
-      {
-        "name": "قلعه بیاضه",
-        "images": [],
-        "year_built": "دوره ساسانی",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "قلعه‌ای تاریخی با ساختار پنج طبقه و راهروهای پیچ در پیچ، نمونه‌ای از معماری دفاعی کویر."
-      },
-      {
-        "name": "امامزاده سید داوود",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "بقعه‌ای مذهبی با گنبدی زیبا و معماری سنتی، مورد احترام مردم منطقه."
-      },
-      {
-        "name": "روستای مهرجان",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با طبیعت بکر و نخلستان‌های زیبا، مناسب برای گردشگری روستایی."
-      },
-      {
-        "name": "روستای ایراج",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "روستایی با تپه‌های باستانی و آثار تاریخی، محل کشف اشیایی با قدمت ۴۵۰۰ تا ۵۰۰۰ سال."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان نخل و گیاهان کویری مانند تاغ، گز، درمنه و قیچ"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک کویری",
+        "تابستان‌های بسیار گرم و زمستان‌های سرد",
+        "میانگین بارش سالانه کمتر از 100 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود 325 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کویری با تپه‌های شنی و زمین‌های مسطح"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های شنی و رسی با پوشش گیاهی محدود"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های محدود در مناطق خاص"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "نمک و سایر مواد معدنی کویری"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "روستای مصر",
+      "images": ["https://files.namnak.com/users/kk/aup/201711/259_pics/%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C-%D9%85%D8%B5%D8%B1.webp"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی کویری با تپه‌های شنی زیبا و جاذبه‌های طبیعی"
+    },
+    {
+      "name": "روستای گرمه",
+      "images": ["https://last-cdn.com/2019/03/11/Lpk35UUjf5WvO1ulzZVtPOJWRfrNup5kMw2FOK7O.jpeg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "روستایی تاریخی با نخلستان‌های زیبا و قلعه ساسانی"
+    },
+    {
+      "name": "قلعه بیاضه",
+      "images": ["https://last-cdn.com/2019/03/11/lndYfuyjTj5VwBpTnSHGVrOcFF9QgwzUwjCk7BMU.jpeg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قلعه‌ای تاریخی در روستای بیاضه با معماری منحصر به فرد"
+    },
+    {
+      "name": "منطقه شکار ممنوع کلاته",
+      "images": ["https://fa.tripyar.com/uploads/picture/3505/2.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "منطقه‌ای حفاظت‌شده با گونه‌های مختلف گیاهی و جانوری"
+    },
+    {
+      "name": "کویر مرکزی ایران",
+      "images": ["https://api2.kojaro.com/media/2023-11-2a65dbae-82fa-468e-8970-6146b03fa941-67c46116c1067c5ba76884e5?w=1200&q=80"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "بزرگ‌ترین کویر ایران با چشم‌اندازهای طبیعی و تپه‌های شنی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/خور_و_بیابانک",
+      "https://fa.wikipedia.org/wiki/شهرستان_خور_و_بیابانک"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

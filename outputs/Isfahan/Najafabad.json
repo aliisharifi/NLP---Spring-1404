@@ -1,187 +1,148 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان نجف‌آباد",
-    "location": {
-      "province": "اصفهان",
-      "city": "نجف‌آباد"
+  "title": "ویژگی‌های جغرافیایی نجف‌آباد",
+  "location": {
+    "province": "اصفهان",
+    "city": "نجف‌آباد"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه خشک‌رود",
+          "images": ["https://rezim.ir/wp-content/uploads/2025/02/1739834826_493_%D9%86%D8%AC%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%88-%D9%85%DA%A9%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-%D9%86%D8%AC%D9%81.jpg"]
+        },
+        {
+          "name": "رودخانه چشمه مرغاب",
+          "images": [""]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه چشمه مرغاب",
-            "images": []
-          },
-          {
-            "name": "رودخانه خشک‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "ارتفاعات اطراف نجف‌آباد",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": [
-          {
-            "name": "دریاچه سد زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان بادام",
-          "درختان انار",
-          "درختان زردآلو",
-          "درختان انگور"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "معتدل و نسبتاً خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۵۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۶۰۰ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه‌های چشمه مرغاب و خشک‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "ارگ شیخ بهایی (هفت برج خارون)",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "مجموعه‌ای تاریخی با هفت برج کبوترخانه در جنوب شرقی نجف‌آباد، با معماری منحصر به فرد و دیوارهای کاه‌گلی بلند."
-      },
-      {
-        "name": "برج‌های دوقلوی صفا",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "کبوترخانه‌ای دوقلو با پلانی مستطیل شکل، از برج‌های نادر و منحصر به فرد در نجف‌آباد."
-      },
-      {
-        "name": "مسجد جامع نجف‌آباد",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "قدیمی‌ترین مسجد شهر با دو ایوان و شبستان زمستانی، فاقد تزیینات کاشی‌کاری خاص."
-      },
-      {
-        "name": "عصارخانه آقا",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "اولین و قدیمی‌ترین عصارخانه شهر در مرکز بازار، با دو پاچال، دو تیر بزرگ و یک سنگ آسیاب."
-      },
-      {
-        "name": "خانه تاریخی مهرپرور",
-        "images": [],
-        "year_built": "اواخر دوره قاجار و اوایل پهلوی اول",
-        "architect": "",
-        "constructor": "",
-        "description": "خانه‌ای تاریخی با معماری سنتی، اکنون به‌عنوان موزه مردم‌شناسی نجف‌آباد فعالیت می‌کند."
-      },
-      {
-        "name": "خانه تاریخی نوریان",
-        "images": [],
-        "year_built": "اواخر دوره قاجار و اوایل پهلوی اول",
-        "architect": "",
-        "constructor": "",
-        "description": "اولین مکتب‌خانه علوم نجف‌آباد با معماری بومی ایران، واقع در بافت تاریخی نصیر."
-      },
-      {
-        "name": "کاروانسرای هسنیجه",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کاروانسرایی تاریخی در روستای هسنیجه با معماری چهار ایوانی."
-      },
-      {
-        "name": "کاروانسرای جلوگیر",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کاروانسرایی تاریخی در مسیر شمال به جنوب نجف‌آباد با ویژگی‌های معماری بی‌نظیر."
-      },
-      {
-        "name": "پارک ملی قمیشلو",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "منطقه‌ای حفاظت‌شده با تنوع حیات‌وحش، شامل آهوی ایرانی و قوچ و میش، و آثار تاریخی مانند قلعه قمیشلو."
-      },
-      {
-        "name": "باغ گل‌ها",
-        "images": [],
-        "year_built": "۱۳۹۵",
-        "architect": "",
-        "constructor": "",
-        "description": "باغی با وسعت ۴۰۰۰ متر مربع، دارای گل‌های فصلی و دائمی و درختچه‌های زینتی، با کاربرد پژوهشی، آموزشی و نمایشگاهی."
-      },
-      {
-        "name": "قلعه سنگی علویجه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "قلعه‌ای تاریخی با طاق‌ها و ایوان‌های زیبا، نشانی از قدمت شهر علویجه."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بادام، انار، انگور و گیاهان مرتعی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای معتدل و نیمه‌خشک",
+        "تابستان‌های گرم و زمستان‌های سرد",
+        "میانگین دمای سالانه حدود ۱۵ درجه سانتی‌گراد",
+        "میانگین بارش سالانه حدود ۱۶۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود ۱۶۰۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های هموار با شیب ملایم",
+        "کوه‌های اطراف با ارتفاع متوسط"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های حاصلخیز مناسب برای کشاورزی",
+        "وجود چشمه‌ها و قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه‌های فصلی",
+        "قنات‌ها و چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "سنگ‌های ساختمانی و معدنی"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "ارگ شیخ بهایی",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Sheikhbahaei_fort.jpg/800px-Sheikhbahaei_fort.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "شیخ بهایی",
+      "constructor": "نامشخص",
+      "description": "ارگی تاریخی با هفت برج کبوترخانه در محله جوی خارون"
+    },
+    {
+      "name": "باغ گل‌ها",
+      "images": ["https://cdn.balad.ir/crowd-images/all/original/3AREdsyhd7Eq95-c971f8c011d747a8af41e4f1a95115d2.jpg?x-img=v1/crop,x_0,y_178,w_1072,h_1072/resize,h_540/format,type_webp,lossless_false/autorotate"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "باغی زیبا با انواع گل‌ها و فضای سبز مناسب برای تفریح"
+    },
+    {
+      "name": "پارک ملی قمیشلو",
+      "images": ["https://www.safarbazi.com/mag/wp-content/webp-express/webp-images/uploads/2024/01/qomishlo-national-park-najafabad.jpg.webp"],
+      "year_built": "",
+      "architect": "",
+      "constructor": "",
+      "description": "پارکی ملی با گونه‌های متنوع گیاهی و جانوری"
+    },
+    {
+      "name": "خانه تاریخی نوریان",
+      "images": [""],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "خانه‌ای تاریخی با معماری سنتی ایرانی"
+    },
+    {
+      "name": "برج‌های دوقلوی صفا",
+      "images": ["https://rezim.ir/wp-content/uploads/2025/02/1739834835_183_%D9%86%D8%AC%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%88-%D9%85%DA%A9%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-%D9%86%D8%AC%D9%81.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برج‌های تاریخی با معماری منحصر به فرد"
+    },
+    {
+      "name": "عصارخانه آقا",
+      "images": ["https://rezim.ir/wp-content/uploads/2025/02/1739834834_221_%D9%86%D8%AC%D9%81-%D8%A2%D8%A8%D8%A7%D8%AF-%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%D9%88-%D9%85%DA%A9%D8%A7%D9%86-%D9%87%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AF%D9%86%DB%8C-%D8%B4%D9%87%D8%B1-%D9%86%D8%AC%D9%81.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "عصارخانه‌ای تاریخی برای استخراج روغن از دانه‌های گیاهی"
+    },
+    {
+      "name": "کاروانسرای هسنیجه",
+      "images": ["https://i1.delgarm.com/images/news/a766/1396/11/18/1517984589.jfif"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاروانسرایی تاریخی با معماری ایرانی"
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/نجف‌آباد",
+      "https://fa.wikipedia.org/wiki/شهرستان_نجف‌آباد"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

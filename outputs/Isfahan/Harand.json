@@ -1,124 +1,122 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان هرند",
-    "location": {
-      "province": "اصفهان",
-      "city": "هرند"
+  "title": "ویژگی‌های جغرافیایی هرند",
+  "location": {
+    "province": "اصفهان",
+    "city": "هرند"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه‌های فصلی",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": []
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان انار",
-          "درختان بادام",
-          "درختان زردآلو",
-          "درختان انگور"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "گرم و خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: ۹۰ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۱۵۵۵ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "آب‌انبار جول‌آباد",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "یکی از بزرگ‌ترین آب‌انبارهای ایران با بادگیرهای قدیمی، واقع در محله جول‌آباد هرند."
-      },
-      {
-        "name": "بازار تاریخی هرند",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "بازاری قدیمی با معماری سنتی، شامل حجره‌ها و تیمچه‌های متعدد."
-      },
-      {
-        "name": "برج‌های کبوترخانه",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "برج‌هایی با معماری خاص برای نگهداری کبوتران، نمونه‌ای از معماری بومی منطقه."
-      },
-      {
-        "name": "امامزاده اسحاق بن موسی بن جعفر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آرامگاهی مذهبی با معماری سنتی، محل زیارت مردم منطقه."
-      },
-      {
-        "name": "امامزاده شاهزاده حیدر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آرامگاهی مذهبی با معماری سنتی، محل زیارت مردم منطقه."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": []
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بومی مناطق کویری",
+        "گیاهان مقاوم به خشکی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک در تابستان",
+        "زمستان‌های سرد و خشک",
+        "میانگین بارش سالانه حدود ۹۰ میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا بین ۱۵۴۰ تا ۱۵۷۰ متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کویری با شیب ملایم",
+        "زمین‌های مسطح و مناسب برای کشاورزی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های رسی و شنی",
+        "وجود قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها",
+        "چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "مسجد جامع هرند",
+      "images": ["https://www.varzanehsaba.ir/wp-content/uploads/2019/01/Harand-mosque-central-4.jpg"],
+      "year_built": "دوره ایلخانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری دوره ایلخانی، واقع در مرکز شهر هرند."
+    },
+    {
+      "name": "امامزاده اسحاق بن موسی بن جعفر",
+      "images": ["https://ctmehr.com/Content/Files/8920/Editor/kafe%20%20khabar%2Famakene%20%20gardeshgary%2Fesfahan%2Femam%20zade%20%20eshagh%2Funnamed10.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بقعه‌ای مذهبی با اهمیت تاریخی و مذهبی در شهر هرند."
+    },
+    {
+      "name": "بازار تاریخی هرند",
+      "images": ["https://www.varzanehsaba.ir/wp-content/uploads/2019/01/bazar-harand-1.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "بازاری قدیمی با معماری سنتی، محل خرید و فروش کالاهای محلی."
+    },
+    {
+      "name": "یخچال سنتی هرند",
+      "images": [""],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "ساختمانی سنتی برای نگهداری یخ در گذشته، با معماری خاص مناطق کویری."
+    },
+    {
+      "name": "برج‌های کبوترخانه",
+      "images": ["https://cdn.yjc.ir/files/fa/news/1402/8/10/18492955_494.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "برج‌هایی ساخته‌شده برای نگهداری کبوتران و جمع‌آوری کود آن‌ها."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/هرند",
+      "https://fa.wikipedia.org/wiki/شهرستان_هرند"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

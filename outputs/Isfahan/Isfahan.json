@@ -1,154 +1,139 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان اصفهان",
-    "location": {
-      "province": "اصفهان",
-      "city": "اصفهان"
+  "title": "ویژگی‌های جغرافیایی اصفهان",
+  "location": {
+    "province": "اصفهان",
+    "city": "اصفهان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": [
+        {
+          "name": "رودخانه زاینده‌رود",
+          "images": ["https://api2.kojaro.com/media/2021-8-a7a2b779-87ae-45e3-85c8-1a15a3a360f8-67c4610bc1067c5ba76782d4?w=1200&q=80"]
+        }
+      ]
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "زاینده‌رود",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه صفه",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان چنار",
-          "درختان سپیدار",
-          "درختان کاج",
-          "درختان نارون"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود 120 میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: 1570 متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه زاینده‌رود"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "میدان نقش جهان",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "میدانی تاریخی با مساحت ۸۹٬۶۰۰ متر مربع، احاطه شده توسط مسجد امام، مسجد شیخ لطف‌الله، کاخ عالی‌قاپو و سردر قیصریه. این میدان در فهرست میراث جهانی یونسکو ثبت شده است."
-      },
-      {
-        "name": "مسجد امام",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "مسجدی با معماری اسلامی و کاشی‌کاری‌های فیروزه‌ای، واقع در ضلع جنوبی میدان نقش جهان."
-      },
-      {
-        "name": "کاخ عالی‌قاپو",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کاخی با شش طبقه و تالار موسیقی منحصر به فرد، واقع در ضلع غربی میدان نقش جهان."
-      },
-      {
-        "name": "سی‌وسه‌پل",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "پل تاریخی با ۳۳ دهانه، به طول ۲۹۵ متر، ساخته شده بر روی زاینده‌رود."
-      },
-      {
-        "name": "پل خواجو",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "پل تاریخی با معماری زیبا و کاربری سد، واقع بر روی زاینده‌رود."
-      },
-      {
-        "name": "کاخ چهل‌ستون",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کاخی با تالار آینه‌کاری و نقاشی‌های دیواری، واقع در باغی زیبا."
-      },
-      {
-        "name": "کلیسای وانک",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "",
-        "constructor": "",
-        "description": "کلیسایی با معماری ارمنی و تزئینات داخلی زیبا، واقع در محله جلفا."
-      },
-      {
-        "name": "مسجد جامع اصفهان",
-        "images": [],
-        "year_built": "دوره سلجوقی",
-        "architect": "",
-        "constructor": "",
-        "description": "یکی از قدیمی‌ترین مساجد ایران با معماری اسلامی و بخش‌های مختلف از دوره‌های مختلف تاریخی."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه صفه",
+          "images": ["https://media.karnaval.ir/uploads/2018/05/G0Rq4AIrO639yIyK-1525418066209.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان بلوط، بید، صنوبر و سپیدار",
+        "گیاهان مرتعی و کوهستانی"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای نیمه‌خشک با تابستان‌های گرم و خشک و زمستان‌های سرد و خشک",
+        "میانگین بارش سالانه حدود 120 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا در مرکز شهر اصفهان حدود 1,590 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "منطقه‌ای با دشت‌های وسیع و کوه‌های اطراف"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های رسی و شنی",
+        "وجود قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "رودخانه زاینده‌رود",
+        "چشمه‌ها و قنات‌های متعدد",
+        "چاه‌های آب زیرزمینی"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "میدان نقش جهان",
+      "images": ["https://safarmarket.com/blog/data/uploaded_files/014ab6767954cd6616f42679.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "شیخ بهایی",
+      "constructor": "شاه عباس اول",
+      "description": "میدانی تاریخی با معماری اسلامی ایرانی، واقع در مرکز شهر اصفهان."
+    },
+    {
+      "name": "سی‌وسه‌پل",
+      "images": ["https://safarmarket.com/blog/data/uploaded_files/f74f50bfc402bbbd9a41ce4a.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "پل تاریخی با 33 قوس، واقع بر روی رودخانه زاینده‌رود."
+    },
+    {
+      "name": "مسجد جامع اصفهان",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gran_Mezquita_de_Isfah%C3%A1n%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_25.jpg/1280px-Gran_Mezquita_de_Isfah%C3%A1n%2C_Isfah%C3%A1n%2C_Ir%C3%A1n%2C_2016-09-20%2C_DD_25.jpg"],
+      "year_built": "دوره سلجوقی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "مسجدی تاریخی با معماری اسلامی ایرانی، واقع در مرکز شهر اصفهان."
+    },
+    {
+      "name": "کاخ چهلستون",
+      "images": ["https://media.karnaval.ir/uploads/2020/02/31e7efa3-071a-4922-a1be-0cbca14908e8.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "کاخی تاریخی با معماری ایرانی، واقع در شمال میدان نقش جهان."
+    },
+    {
+      "name": "پل شهرستان",
+      "images": ["https://media.karnaval.ir/uploads/2019/02/DsDhEhXqkT6e9Ilv-1550575953462.jpg"],
+      "year_built": "دوره ساسانی",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "قدیمی‌ترین پل تاریخی اصفهان، واقع بر روی رودخانه زاینده‌رود."
+    },
+    {
+      "name": "میدان امام حسین",
+      "images": [""],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "میدانی تاریخی با معماری اسلامی ایرانی، واقع در جنوب میدان نقش جهان."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/اصفهان",
+      "https://fa.wikipedia.org/wiki/شهرستان_اصفهان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}

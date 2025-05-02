@@ -1,166 +1,168 @@
 {
-    "title": "ویژگی‌های جغرافیایی شهرستان کاشان",
-    "location": {
-      "province": "اصفهان",
-      "city": "کاشان"
+  "title": "ویژگی‌های جغرافیایی کاشان",
+  "location": {
+    "province": "اصفهان",
+    "city": "کاشان"
+  },
+  "geographical_features": [
+    {
+      "name": "رودخانه‌ها",
+      "description": []
     },
-    "geographical_features": [
-      {
-        "name": "رودخانه‌ها",
-        "description": [
-          {
-            "name": "رودخانه فین",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "کوه‌ها",
-        "description": [
-          {
-            "name": "کوه کرکس",
-            "images": []
-          },
-          {
-            "name": "کوه دره",
-            "images": []
-          }
-        ]
-      },
-      {
-        "name": "دریاچه‌ها",
-        "description": []
-      },
-      {
-        "name": "پوشش گیاهی",
-        "description": [
-          "درختان گل محمدی",
-          "درختان بادام",
-          "درختان زردآلو",
-          "درختان انار"
-        ]
-      }
-    ],
-    "topography": [
-      {
-        "name": "اقلیم",
-        "description": [
-          "نیمه‌خشک با تابستان‌های گرم و زمستان‌های سرد",
-          "میانگین بارش سالانه: حدود ۱۱۶ میلی‌متر"
-        ]
-      },
-      {
-        "name": "ارتفاع",
-        "description": [
-          "میانگین ارتفاع شهرستان: ۹۸۲ متر از سطح دریا"
-        ]
-      },
-      {
-        "name": "توپوگرافی",
-        "description": [
-          "دشت‌های هموار با تپه‌های کم‌ارتفاع"
-        ]
-      },
-      {
-        "name": "ویژگی‌های زمین‌شناسی",
-        "description": [
-          "وجود معادن سنگ آهک و رس",
-          "گسل‌های فعال در منطقه"
-        ]
-      }
-    ],
-    "natural_resources": [
-      {
-        "name": "منابع آبی",
-        "description": [
-          "قنات‌ها و چشمه‌های فصلی",
-          "رودخانه فین"
-        ]
-      },
-      {
-        "name": "منابع معدنی",
-        "description": [
-          "سنگ آهک",
-          "رس"
-        ]
-      }
-    ],
-    "tourist_attractions": [
-      {
-        "name": "باغ فین",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "باغی تاریخی با معماری ایرانی، محل قتل امیرکبیر."
-      },
-      {
-        "name": "حمام فین",
-        "images": [],
-        "year_built": "دوره صفویه",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "حمامی تاریخی در کنار باغ فین، محل قتل امیرکبیر."
-      },
-      {
-        "name": "خانه بروجردی‌ها",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "خانه‌ای تاریخی با معماری منحصر به فرد."
-      },
-      {
-        "name": "خانه طباطبایی‌ها",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "خانه‌ای تاریخی با معماری زیبا و حیاط مرکزی."
-      },
-      {
-        "name": "مسجد و مدرسه آقا بزرگ",
-        "images": [],
-        "year_built": "دوره قاجار",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "مسجد و مدرسه‌ای تاریخی با معماری منحصر به فرد."
-      },
-      {
-        "name": "تپه‌های سیلک",
-        "images": [],
-        "year_built": "پیش از تاریخ",
-        "architect": "نامشخص",
-        "constructor": "نامشخص",
-        "description": "محوطه‌ای باستانی با قدمت بیش از ۷۵۰۰ سال."
-      },
-      {
-        "name": "آرامگاه سهراب سپهری",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "آرامگاه شاعر معاصر در مشهد اردهال."
-      },
-      {
-        "name": "نیاسر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "شهری با جاذبه‌های طبیعی و تاریخی، محل برگزاری مراسم گلاب‌گیری."
-      },
-      {
-        "name": "قمصر",
-        "images": [],
-        "year_built": "",
-        "architect": "",
-        "constructor": "",
-        "description": "شهری با باغات گل محمدی و مراسم گلاب‌گیری."
-      }
-    ],
-    "additional_info": {
-      "books_source": "http://chap.sch.ir/category/دوره/دوره-آموزش-متوسطه/جغرافیاد-استان-ها"
+    {
+      "name": "کوه‌ها",
+      "description": [
+        {
+          "name": "کوه کرکس",
+          "images": ["https://berimkouh.com/images/destinations/large/16423400972275.jpg"]
+        }
+      ]
+    },
+    {
+      "name": "دریاچه‌ها",
+      "description": []
+    },
+    {
+      "name": "پوشش گیاهی",
+      "description": [
+        "درختان تاغ، گز، بادام کوهی و پسته کوهی",
+        "گیاهان مرتعی و کویری"
+      ]
     }
+  ],
+  "topography": [
+    {
+      "name": "منطقه اقلیمی",
+      "description": [
+        "آب و هوای گرم و خشک در تابستان",
+        "زمستان‌های سرد و خشک",
+        "میانگین بارش سالانه حدود 150 میلی‌متر"
+      ]
+    },
+    {
+      "name": "ارتفاع",
+      "description": [
+        "ارتفاع از سطح دریا حدود 945 متر"
+      ]
+    },
+    {
+      "name": "توپوگرافی",
+      "description": [
+        "دشت‌های کویری با شیب ملایم",
+        "زمین‌های مسطح و مناسب برای کشاورزی"
+      ]
+    },
+    {
+      "name": "ویژگی‌های زمین‌شناسی",
+      "description": [
+        "خاک‌های رسی و شنی",
+        "وجود قنات‌های متعدد"
+      ]
+    }
+  ],
+  "natural_resources": [
+    {
+      "name": "منابع آبی",
+      "description": [
+        "قنات‌ها",
+        "چاه‌های آب زیرزمینی",
+        "چشمه‌های متعدد"
+      ]
+    },
+    {
+      "name": "منابع معدنی",
+      "description": [
+        "شن و ماسه"
+      ]
+    }
+  ],
+  "tourist_attractions": [
+    {
+      "name": "باغ فین",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fin_garden_yard.jpg/800px-Fin_garden_yard.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "شاه عباس اول",
+      "description": "باغی تاریخی با معماری ایرانی، محل قتل امیرکبیر."
+    },
+    {
+      "name": "خانه بروجردی‌ها",
+      "images": ["https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Roof_of_the_Borujerdi_House%2C_Kashan.jpg/1280px-Roof_of_the_Borujerdi_House%2C_Kashan.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "استاد علی مریم",
+      "constructor": "حاج سید حسن نطنزی",
+      "description": "خانه‌ای تاریخی با معماری منحصر به فرد."
+    },
+    {
+      "name": "خانه طباطبایی‌ها",
+      "images": ["https://cdn.alibaba.ir/ostorage/alibaba-mag/wp-content/uploads/2019/11/%D8%B4%D8%A7%D8%AE%D8%B5-3.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "استاد علی مریم",
+      "constructor": "سید جعفر طباطبایی",
+      "description": "خانه‌ای تاریخی با تزئینات گچ‌بری و آینه‌کاری."
+    },
+    {
+      "name": "تپه سیلک",
+      "images": ["https://api2.kojaro.com/media/2022-6-ab155db8-4046-4ff0-b31e-53dc35da4b7c-67c46110c1067c5ba767ed94?w=1200&q=80"],
+      "year_built": "دوره پیش از تاریخ",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "محوطه‌ای باستانی با قدمت بیش از ۷ هزار سال."
+    },
+    {
+      "name": "مسجد آقا بزرگ",
+      "images": ["https://media.karnaval.ir/uploads/2017/12/K3BNPKWAhKdDKbs6-1513602221123.jpg"],
+      "year_built": "دوره قاجار",
+      "architect": "استاد علی مریم",
+      "constructor": "حاج محمد تقی خانبان",
+      "description": "مسجدی تاریخی با معماری منحصر به فرد."
+    },
+    {
+      "name": "حمام سلطان امیراحمد",
+      "images": ["https://media.karnaval.ir/uploads/2018/02/VlqUu10VhDorOFNL-1517570921079.jpg"],
+      "year_built": "دوره صفویه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "حمامی تاریخی با معماری زیبا و تزئینات کاشی‌کاری."
+    },
+    {
+      "name": "خانه عامری‌ها",
+      "images": [""],
+      "year_built": "دوره زندیه",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "یکی از بزرگ‌ترین خانه‌های تاریخی کاشان."
+    },
+    {
+      "name": "موزه ملی کاشان",
+      "images": ["https://www.alaedin.travel/Files/Jazebe/kashan/kashan-national-museum/Alaedin-Travel-Agency-Attraction-Kashan-National-Museum-2.jpg"],
+      "year_built": "دوره معاصر",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "موزه‌ای با آثار تاریخی و فرهنگی منطقه."
+    },
+    {
+      "name": "نیاسر",
+      "images": ["https://media.karnaval.ir/uploads/2020/11/7b669da6-0777-4dbc-98ff-397a004db2a9.jpg"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "شهری با جاذبه‌های طبیعی و تاریخی مانند آبشار نیاسر."
+    },
+    {
+      "name": "قمصر",
+      "images": ["https://api2.kojaro.com/media/2022-8-f7a6ba9b-022d-43b5-b7da-0cc83b56bd52-67c46111c1067c5ba767fa2e?w=1200&q=80"],
+      "year_built": "نامشخص",
+      "architect": "نامشخص",
+      "constructor": "نامشخص",
+      "description": "شهری معروف به گلاب‌گیری و باغ‌های گل محمدی."
+    }
+  ],
+  "additional_info": {
+    "wikipedia_source": [
+      "https://fa.wikipedia.org/wiki/کاشان",
+      "https://fa.wikipedia.org/wiki/شهرستان_کاشان"
+    ],
+    "books_source": "http://chap.sch.ir/books/12241"
   }
-  
+}
