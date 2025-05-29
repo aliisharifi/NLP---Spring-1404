@@ -1,0 +1,1162 @@
+[
+    {
+        "id": 328,
+        "annotations": [
+            {
+                "id": 556,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "MmFFIQRl5f",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:24:09.619457Z",
+                "updated_at": "2025-05-04T18:24:09.619470Z",
+                "draft_created_at": "2025-05-04T18:23:35.878721Z",
+                "lead_time": 73.654,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "2940e7aa-b7a6-4bad-b8f2-cfff484caaaf",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 328,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 557,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "AlROGEHphT",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:24:13.134304Z",
+                "updated_at": "2025-05-04T18:24:13.134334Z",
+                "draft_created_at": null,
+                "lead_time": 78.042,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "e7af2043-4056-4a6e-96e2-7e6d85911f2d",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 328,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "6ac881c3-101.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "شورش سیستان و بلوچستان",
+            "description": "نامشخص",
+            "period": {
+                "start_year": "۲۰۰۴",
+                "end_year": "۲۰۰۴"
+            },
+            "position": "نامشخص",
+            "causes": [
+                "شورش سیستان و بلوچستان بخشی از شورش‌های بلوچ است.",
+                "این شورش‌ها از سال ۲۰۰۴ شروع شده‌اند.",
+                "گروه‌های سنی بلوچ که توسط ایران به عنوان گروه‌های تروریستی شناخته نشده‌اند، در جریان این شورش‌ها هستند."
+            ],
+            "belligerents": {
+                "names": "ایران\nبلوچی‌ها",
+                "leaders": "ایران\nشورشیان بلوچی"
+            },
+            "result": "پیروزی: دستگیریعبدالمالک ریگی",
+            "casualties": "*   شورش سیستان و بلوچستان\n*   شورش بلوچستان",
+            "impact": [
+                "شورش سیستان و بلوچستان بخشی از شورش در بلوچستان است.",
+                "این شورش از سال ۲۰۰۴ شروع شده است.",
+                "گروه‌های سنی بلوچ که توسط ایران در فهرست گروه‌های تروریستی شناخته نشده‌اند، در جریان این شورش هستند.",
+                "طرفین درگیر این شورش عبارتند از ایران و شورشیان بلوچی."
+            ],
+            "historical_significance": "این رویداد به دلیل تأثیر آن بر وضعیت حقوق بشر و آزادی‌های سیاسی در بلوچستان اهمیت تاریخی دارد.",
+            "references": [
+                {
+                    "title": "\"The Baluch insurgency: linking Iran to Pakistan\"",
+                    "author": "Ur Rehman, Zia (May 2014),\"The Baluch insurgency: linking Iran to Pakistan\"(PDF),The Norwegian Peacebuilding Resource Centre, archived fromthe original(PDF)on 6 May 2016, retrieved29 June2017",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Turkish-Iranian Relations: A Wider Perspective\"",
+                    "author": "Poyraz, Serdar (November 2009),\"Turkish-Iranian Relations: A Wider Perspective\"(PDF),SETA FOUNDATION FOR POLITICAL ECONOMIC AND SOCIAL RESEARCH, archived fromthe original(PDF)on 18 May 2015, retrieved29 June2017",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Volatile Sistan-Baluchistan Region Is Base for Insurgents\"",
+                    "author": "\"Volatile Sistan-Baluchistan Region Is Base for Insurgents\",Wall Street Journal, 19 October 2009",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"IRGC wipes out terrorist cell in Sistan-Baluchistan\"",
+                    "author": "Cummins, Chip (April 6, 2015),\"IRGC wipes out terrorist cell in Sistan-Baluchistan\",Radio Zamaneh",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Iran trapped in a ring of unrest\"",
+                    "author": "\"Iran trapped in a ring of unrest\". Asia Times. 22 October 2009. Archived fromthe originalon 2 March 2016. Retrieved20 October2014.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Heavily armed \"terrorist\" team arrested in Sistan-Baluchistan\"",
+                    "author": "\"Heavily armed \"terrorist\" team arrested in Sistan-Baluchistan\".Radio Zamaneh. 2 February 2015. Archived fromthe originalon 4 March 2016. Retrieved20 March2015.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "شورش سیستان و بلوچستان",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%B4%D9%88%D8%B1%D8%B4_%D8%B3%DB%8C%D8%B3%D8%AA%D8%A7%D9%86_%D9%88_%D8%A8%D9%84%D9%88%DA%86%D8%B3%D8%AA%D8%A7%D9%86"
+            },
+            "location": {
+                "position": "سیستان و بلوچستان",
+                "province": "سیستان و بلوچستان",
+                "city": "سیستان و بلوچستان"
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.899900Z",
+        "updated_at": "2025-05-04T18:24:13.154929Z",
+        "inner_id": 1,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 3,
+        "comment_authors": []
+    },
+    {
+        "id": 329,
+        "annotations": [
+            {
+                "id": 558,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "TfG0Jfz8Sb",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:24:58.767292Z",
+                "updated_at": "2025-05-04T18:24:58.767314Z",
+                "draft_created_at": null,
+                "lead_time": 39.644,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "61d8119e-1402-4187-8c71-3880ba52d10c",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 329,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 559,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "m942vZXbm7",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:01.687468Z",
+                "updated_at": "2025-05-04T18:25:01.687482Z",
+                "draft_created_at": null,
+                "lead_time": 46.372,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "22a8b3e3-8d41-4248-acfb-84c5226c4a4a",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 329,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "586bf41b-102.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "جنگ ۲۰۰۶ اسرائیل و لبنان",
+            "description": "جنگ ۲۰۰۶ لبنانیاجنگ ۲۰۰۶ اسرائیل و حزب‌اللهکه درایرانبه آنجنگ ۳۳ روزه، دراسرائیلبه آنجنگ دوم لبنان(بهعبری:מלחמת לבנון השנייה)و درلبناننیز به آنجنگ ژوئیهیاجنگ تموز(عربی: حرب تموز)گفته می‌شود،جنگیبه مدت ۳۳ یا ۳۴ روزبینارتش اسرائیلوحزب‌الله لبنانبود که دامنه آن، شمالاسرائیلو سراسرلبنانرا دربرگرفت. ربوده شدن دو سرباز به نام اهود گولدوسر (Ehud Goldvaser) و الدد رگو (Eldad Regev)  و کشته‌شدن سه نفر ازنیروهای دفاعی اسرائیلارتش اسرائیل دلیل شروع این جنگ بود. به‌علاوه از حملات حزب‌الله لبنان ۵ نفر از سربازان نیروهای دفاعی کشته شدند. این جنگ باقطعنامه ۱۷۰۱شورای امنیت سازمان مللدر تاریخ ۱۴ اوت ۲۰۰۶ میلادی (۲۳ مرداد ۱۳۸۵) پایان یافت اما دبیر کل حزب‌الله، حسن نصرالله پذیرفته نشد به این که حزب‌الله از خلع از سلاح شود. مرزی در این جنگ جابه‌جا نشد و دربارهٔ پیروز جنگ هم اختلاف نظرهایی به وجود آمد به‌طوری که هر کدام خود را پیروز می‌خوانند و دیگری را شکست خورده معرفی می‌کنند، حتی در مورد طول جنگ و آغازگر آن نیز هیچ‌کدام از طرفین نظر یکسانی ندارند.",
+            "period": {
+                "start_year": "سال شروع جنگ ۳۳ روزه ۲۰۰۶ میلادی، سال ۲۰۰۶ بود.",
+                "end_year": "سال پایان جنگ ۳۳ روزه لبنان ۱۴ اوت ۲۰۰۶ میلادی (۲۳ مرداد ۱۳۸۵) است."
+            },
+            "position": "نامشخص",
+            "causes": [
+                "دلایل رخ دادن این رویداد را به صورت لیست بنویس خروجی به صورت یک لیست باشد:",
+                "ربوده شدن دو سرباز به نام اهود گولدوسر و الدد رگو",
+                "کشته‌شدن سه نفر ازنیروهای دفاعی اسرائیل",
+                "حملات حزب‌الله لبنان در جنوب لبنان"
+            ],
+            "belligerents": {
+                "names": "اسرائیل و حزب‌الله لبنان",
+                "leaders": "نام رهبران دو طرف این واقعه عبارتند از: سید حسن نصرالله و ایهود اولمرت."
+            },
+            "result": "آتش‌بس: سازمان مللاز طریققطعنامه ۱۷۰۱ شورای امنیت، آتش‌بس برقرار کرد.",
+            "casualties": "تلفات جنگ ۳۳ روزه لبنان شامل کشته شدن ۵۰۰ عضو حزب‌الله، ۸۵۰-۱٬۱۹۱ شهروند لبنانی، ۴۳ شهروند اسرائیلی و ۱۲۱ سرباز اسرائیلی بود. همچنین، بیش از ۴٬۴۰۹ نفر زخمی شدند.",
+            "impact": "این متن درباره جنگ ۳۳ روزه بین اسرائیل و حزب‌الله لبنان است که در سال ۲۰۰۶ رخ داد. این جنگ با هدف بازگرداندن دو سرباز اسرائیلی ربوده شده آغاز شد و به کشته شدن بیش از ۱٬۰۰۰ نفر از جمله ۸۵۰ غیرنظامی لبنانی منجر شد.",
+            "historical_significance": "این رویداد اهمیت تاریخی دارد زیرا نشان‌دهنده یک جنگ طولانی و پرهزینه بین اسرائیل و حزب‌الله لبنان بود که تأثیرات عمیقی بر منطقه و جهان داشت. این جنگ همچنین به عنوان یکی از مهم‌ترین وقایع تاریخ معاصر لبنان شناخته می‌شود و به دلیل تلفات انسانی سنگین و پیامدهای سیاسی و اجتماعی آن، مورد توجه جهانیان قرار گرفته است.",
+            "references": [
+                {
+                    "title": "«Lebanon part of 'war on terror', says Bush. 30\/07\/2006. ABC News Online»",
+                    "author": "«Lebanon part of 'war on terror', says Bush. 30\/07\/2006. ABC News Online».web.archive.org.۲۰۱۱-۰۴-۳۰. بایگانی‌شده ازاصلیدر ۳۰ آوریل ۲۰۱۱. دریافت‌شده در۲۰۲۳-۱۱-۲۰.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«CNN.com - Bush: 'Hezbollah suffered a defeat' - Aug 14, 2006»",
+                    "author": "«CNN.com - Bush: 'Hezbollah suffered a defeat' - Aug 14, 2006».www.cnn.com. دریافت‌شده در۲۰۲۳-۱۱-۲۰.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«BBC News Online»",
+                    "author": "«BBC News Online».Lebanon breathes after the blockade.یوپی‌سی.۹ سپتامبر ۲۰۰۶. بایگانی‌شده ازاصلیدر ۱۴ مه ۲۰۱۲. دریافت‌شده در۲۰۰۶-۰۹-۰۹.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "Amid the bombs, unity is forged",
+                    "author": "هربرت داکنا (17 August 2007),Amid the bombs, unity is forged(به انگلیسی), archived fromthe originalon 29 September 2018, retrieved15 June2007",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "Associated Press",
+                    "author": "Associated Press(6 August 2006),\"PFLP claims losses in IDF strike on Lebanon base\",Jerusalem Post(به انگلیسی)",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«International Institute for Strategic Studies»",
+                    "author": "«International Institute for Strategic Studies». بایگانی‌شده ازاصلیدر ۱۳ دسامبر ۲۰۰۶. دریافت‌شده در۱۵ ژوئن ۲۰۰۷.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "جنگ ۲۰۰۶ اسرائیل و لبنان",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AC%D9%86%DA%AF_%DB%B2%DB%B0%DB%B0%DB%B6_%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84_%D9%88_%D9%84%D8%A8%D9%86%D8%A7%D9%86"
+            },
+            "location": {
+                "position": "این وافعه در لبنان رخ داده است.",
+                "province": "بن‌بست نظامی",
+                "city": "این وافعه در شهر بیروت رخ داده است."
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.899970Z",
+        "updated_at": "2025-05-04T18:25:01.704173Z",
+        "inner_id": 2,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 330,
+        "annotations": [
+            {
+                "id": 560,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "wa9bnspuRZ",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:16.371879Z",
+                "updated_at": "2025-05-04T18:25:16.371892Z",
+                "draft_created_at": null,
+                "lead_time": 11.333,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "66f3780c-dba5-466f-843e-909f70b35748",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 330,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 561,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "TbXZkwgoxJ",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:18.108138Z",
+                "updated_at": "2025-05-04T18:25:18.108155Z",
+                "draft_created_at": null,
+                "lead_time": 18.079,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "76c9e211-2ed8-450b-9715-3a485c192eab",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 330,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "dc6210c2-103.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "درگیری ایران و حزب حیات آزاد کردستان",
+            "description": "درگیری ایران و حزب حیات آزاد کردستان(بهکردی: شه‌ڕێ پارتیا ژیانا ئازادا کوردستانێ و کۆمارا ئیسلامیا ئیرانێ)، یا جنگجمهوری اسلامی ایرانوحزب حیات آزاد کردستانیک درگیری مسلحانه بیننیروهای مسلح جمهوری اسلامی ایرانویگان‌های شرق کردستان(YRK) ویگان‌های مدافع زن(HPJ) شاخه‌های مسلححزب حیات آزاد کردستان(PJAK) است که از سال ۲۰۰۴ آغاز شده است. این درگیری‌ها با حملاتی دراستان کردستانایران و دیگر مناطق کردنشین، یا وابسته بهحزب کارگران کردستاندر ترکیه آغاز شد.پس از درگیری بزرگ در تابستان سال ۲۰۱۱، با ادعای پیروزی جمهوری اسلامی ایران و پایان دادن به حزب حیات آزاد کردستان به تمام عملیات مسلحانه از ۲۹ سپتامبر ۲۰۱۱ بین طرفین آتش‌بس شد. از آن زمان، چند حادثه خشونت بار، از جمله برخوردبانهدر دسامبر ۲۰۱۱ و برخورد دیگری در آوریل ۲۰۱۲ رخ داده است. در سال ۲۰۱۳، درگیری تازه‌ای، از جمله درگیری‌ها در ماه مه ۲۰۱۳، نبرد اوت در منطقه مرزیسردشتو حوادث بیشتری در ماه اکتبر رخ داد. رهبران حزب حیات آزاد کردستان می‌گویند هدف بلند مدت آن‌ها ایجاد یک منطقهٔ خودمختار بر اساس خودمدیریتیکنفدرال دموکراتیکدرکردستان ایراناست.به‌طور عمده برای جایگزینیحاکمیت دینیمتمرکز ایران با یک دولت دموکراتیک و کنفدرال، که در آن خود حاکم آن هستند با همه اقلیت‌های قومی ایران، از جملهعرب‌هایسنی،ترک‌ها، وکردها.برخی با این حالپژاکرا به عنوان یک سازمانجدایی طلبمی‌دانند که به دنبال یک متارکهٔ کامل مناطق کردنشین از ایران و اتحاد با مناطق مجاور کرد در عراق، ترکیه و سوریه است. یک درگیری شدید هم در تاریخ ۱۸ آوریل ۲۰۱۶ صورت گرفت.",
+            "period": {
+                "start_year": "۲۰۱۶",
+                "end_year": "۲۰۱۱"
+            },
+            "position": "نامشخص",
+            "causes": [
+                "ایران",
+                "تیپ ۴۸ فتح",
+                "تیپ نیروی ویژه صابرین",
+                "ترکیه",
+                "حزب حیات آزاد کردستان(PJAK)",
+                "اسرائیل",
+                "زیلان وژینسیامند معینیمراد کارایلانآگیری روژهلاتزانار آگریاحسان واریاگلستان دوگانرسیت اهکندی(اسیر)",
+                "۵٬۰۰۰ مستقر",
+                "۶۰۰–۱٬۰۰۰مبارز"
+            ],
+            "belligerents": {
+                "names": "ایران، ترکیه، کردستان",
+                "leaders": "ایران، ترکیه، اسرائیل"
+            },
+            "result": "در جریان",
+            "casualties": "*   تیپ ۴۸ فتح\n*   تیپ نیروی ویژه صابرین\n*   زیلان وژینسیامند معینیمراد کارایلانآگیری روژهلاتزانار آگریاحسان واریاگلستان دوگانرسیت اهکندی(اسیر)",
+            "impact": [
+                "ایران",
+                "تیپ ۴۸ فتح",
+                "تیپ نیروی ویژه صابرین",
+                "ترکیه",
+                "حزب حیات آزاد کردستان (PJAK)",
+                "اسرائیل",
+                "زیلان وژینسیامند معینیمراد کارایلانآگیری روژهلاتزانار آگریاحسان واریاگلستان دوگانرسیت اهکندی(اسیر)",
+                "۵٬۰۰۰ مستقر",
+                "۶۰۰–۱٬۰۰۰مبارز"
+            ],
+            "historical_significance": "این رویداد نشان‌دهنده یک درگیری طولانی مدت بین ایران و حزب حیات آزاد کردستان است که بر سر خودمختاری کردستان ایران می‌جنگند.",
+            "references": [
+                {
+                    "title": "\"Why Iranian Kurdish party is stepping up fight against Tehran\"",
+                    "author": "\"Why Iranian Kurdish party is stepping up fight against Tehran\".Al-Monitor(به انگلیسی). 1 July 2016. Retrieved2 February2017.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Iranian Kurdish PJAK rebels deny ties to Israel\"",
+                    "author": "\"Iranian Kurdish PJAK rebels deny ties to Israel\".",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Why Iranian Kurdish party is stepping up fight against Tehran\"",
+                    "author": "\"Why Iranian Kurdish party is stepping up fight against Tehran\".Al-Monitor(به انگلیسی). 1 July 2016. Retrieved2 February2017.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«نسخه آرشیو شده»",
+                    "author": "«نسخه آرشیو شده». بایگانی‌شده ازاصلیدر ۲۹ سپتامبر ۲۰۱۱. دریافت‌شده در۱۷ فوریه ۲۰۱۷.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«نسخه آرشیو شده»",
+                    "author": "«نسخه آرشیو شده». بایگانی‌شده ازاصلیدر ۱۶ ژوئیه ۲۰۱۱. دریافت‌شده در۱۷ فوریه ۲۰۱۷.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"rojhelat.nu\"",
+                    "author": "\"rojhelat.nu\". Archived fromthe originalon 25 January 2016. Retrieved17 February2017.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "درگیری ایران و حزب حیات آزاد کردستان",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%D8%AD%D8%B2%D8%A8_%D8%AD%DB%8C%D8%A7%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF_%DA%A9%D8%B1%D8%AF%D8%B3%D8%AA%D8%A7%D9%86"
+            },
+            "location": {
+                "position": "ایران",
+                "province": "کردستان",
+                "city": "سردشت"
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.900032Z",
+        "updated_at": "2025-05-04T18:25:18.121495Z",
+        "inner_id": 3,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 3,
+        "comment_authors": []
+    },
+    {
+        "id": 331,
+        "annotations": [
+            {
+                "id": 562,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "Q36ixYRh0i",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:38.427132Z",
+                "updated_at": "2025-05-04T18:25:38.427154Z",
+                "draft_created_at": null,
+                "lead_time": 1.789,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "3a4551b0-ac54-446f-bfaf-45105955ce91",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 331,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 563,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "2Qkh4wUre5",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:39.048076Z",
+                "updated_at": "2025-05-04T18:25:39.048098Z",
+                "draft_created_at": null,
+                "lead_time": 13.659,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "c5cf0087-7f79-41a9-aad9-9833ab0e29ff",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 331,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "75066918-104.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "جنگ داخلی سوریه",
+            "description": "جنگ داخلی سوریه(بهعربی:الحرب الأهلية السورية‎) یک درگیری چندجانبه جاری درسوریهو شامل بازیگران مختلف دولتی و غیردولتی است. در مارس ۲۰۱۱، نارضایتی مردم از حکومتبشار اسد، باعثاعتراضاتگسترده و تجمعات طرفداردموکراسیدر سراسر سوریه و در نهایت منجر بهانقلاب سوریهشد که به عنوان بخشی از تظاهرات گسترده‌تربهار عربیدر منطقه بود. پس از ماه‌ها سرکوب توسط دستگاه امنیتیدولت، گروه‌های مختلف شورشی مانندارتش آزاد سوریه، شروع به فعالیت در سراسر کشور کردند و این، آغازشورشدر سوریه بود. در اواسط سال ۲۰۱۲، این بحران در نهایت به یک جنگ داخلی تمام‌عیار تبدیل شد. این جنگ، از ژانویهٔ ۲۰۱۲ در میان ائتلافی شکننده ازاپوزیسیون سوریه، عمدتاًسنی، از جملهارتش آزاد سوریه،جبهه النصره،هیئت تحریر شامو چند گروهجهادگرای سلفیدیگر به پشتیبانیترکیه،نیروهای دموکراتیک سوریهبه پشتیبانیایالات متحده آمریکاو افراد باقی‌مانده ازداعش، علیهنیروهای مسلح سوریهبه رهبریبشار اسدو حامیان او و علیه یکدیگر، در جریان است. این درگیری‌های نظامی در سال ۲۰۱۵ به اوج خود رسید. در حال حاضر، از شدت درگیری‌ها کاسته شده اما این بحران، همچنان ادامه دارد. اپوزیسیون سوریهشاملارتش آزاد سوریهدر سال ۲۰۱۱ توسط نظامیان جداشده ازنیروهای مسلح سوریهتشکیل شد.جبهه النصرهپیشتر شاخه رسمیالقاعدهدر سوریه بوده اما در ژوئیه ۲۰۱۶ نام خود را بهجبهه فتح شامتغییر داد و سپس ازالقاعدهجدا شد وهیئت تحریر شامرا در اوایل سال ۲۰۱۷ با ادغام چند گروهاسلام‌گراتشکیل داد. از ۲۳ نوامبر ۲۰۱۳ تا ۲۰۱۵جبهه اسلامیبه عنوان ائتلافی از چند گروه اسلام‌گرای سلفی، در بخش‌های مختلف سوریه فعال بود اما بسیاری از گروه‌های آن در ۲۸ مه ۲۰۱۸ به همراه ارتش آزاد سوریه و با حمایت ترکیه،جبهه آزادی‌بخش ملی سوریهرا تشکیل دادند. روسیه،ایرانوحزب‌الله لبنانازجمهوری عربی سوریهونیروهای مسلح سوریهحمایت می‌کردند و روسیه از سپتامبر ۲۰۱۵ در حال اجرایحملات هواییو دیگر عملیات‌های نظامی در سوریه بود.ائتلاف بین‌المللیتحت رهبری ایالات‌متحده آمریکا که در سال ۲۰۱۴ با هدف مبارزه باداعشتأسیس شد حملاتی هوایی علیه داعش و برخی از اهداف دولتی و حامی دولت انجام داده است. آن‌ها همچنین نیروهای ویژه و واحدهای توپخانه را برای درگیری با داعش روی زمین مستقر کرده‌اند. ایالات‌متحده از سال ۲۰۱۵ ازاداره خودمختار شمال و شرق سوریهو شاخهٔ نظامی آن،نیروهای دموکراتیک سوریه(SDF)، حمایت مادی، مالی و لجستیکی کرده است.ترکیهاز ماه اوت سال ۲۰۱۶ به‌طور مستقیم در عملیات علیه دولت سوریه شرکت داشته است، نه تنها در حملات هوایی علیه داعش در کنار ائتلاف به رهبری آمریکا مشارکت داشته است، بلکه فعالانه از معارضان سوری حمایت کرده وبخش‌هایی از شمال سوریه را در کنترل دارددر حالی که درگیر نبرد زمینی قابل توجهی با SDF، داعش و دولت سوریه است. بین سال‌های ۲۰۱۱ تا ۲۰۱۷، جنگ داخلی سوریه بهلبنانکشیده شد و مخالفان و حامیان دولت سوریه برای مبارزه و حمله به یکدیگر در خاک لبنان، به لبنان سفر کرده‌اند و گروه‌هایی نظیر داعش و جبهه النصره نیز باارتش لبناندرگیر شده‌اند. علاوه بر آن،اسرائیلنیز به تبادل آتش با حزب‌الله و نیروهای ایرانی می‌پردازد که حضور آن‌ها در جنوب غربی سوریه را به عنوان یک تهدید برای خود تلقی می‌کند.این کشور همچنین حملات مکرری را در سایر مناطق سوریه از زمان آغاز جنگ انجام داده است که عمدتاً نیروهای دولتی سوریه و شبه‌نظامیان ایرانی و حزب‌الله را هدف قرار می‌دهد. داعش از سال ۲۰۱۴ تا ۲۰۱۷ بر بخش‌های شرقی سوریه حکومت می‌کرد و حدود نیمی از خاک این کشور را در کنترل داشت و هم با دولت‌های سوریه وعراقو هم با اپوزیسیون سوریه درگیر جنگ بود. داعش از مارس سال ۲۰۱۹ مناطق تحت کنترل خود را، تماماً از دست داده است و به صورت پراکنده فعالیت می‌کند. سازمان‌های بین‌المللی، تقریباً همه طرف‌های درگیر، از جمله داعش، دولت سوریه، گروه‌های شورشی مخالف دولت سوریه، جمهوری اسلامی ایران، روسیه،ترکیه،و ائتلاف به رهبری ایالات‌متحدهرا به خاطرنقض شدید حقوق بشرو قتل‌عام‌ها مورد انتقاد قرار داده‌اند.این درگیری‌ها موجب یکبحران بزرگ پناهندگانشده است. طی دوره جنگ، تعدادی از اقدامات صلح از جمله کنفرانس صلح ژنو ۲۰۱۷ در سوریه به رهبریسازمان مللآغاز شده است، اما جنگ همچنان ادامه دارد. تعداد قربانیان جنگ تا سال ۲۰۱۵، بر اساس برآورد سازمان ملل، بین ۲۲۰ هزار نفر و بر اساس برآورد دیده‌بان حقوق بشر تا ۳۱۰ هزار نفر بوده است. حدود ۷ میلیون و ۶۰۰ هزار نفر خانه خود را از دست داده‌اند. از این تعداد ۱٫۷ میلیون نفر به ترکیه، ۱٫۲ میلیون نفر به لبنان، ۶۲۵ هزار نفر به اردن و ۲۴۵ هزار نفر به عراق پناهنده شده‌اند طبق تخمین سازمان دیده‌بان حقوق بشر از اوایل جنگ داخلی تا ژوئن ۲۰۱۸ بیش از ۶۵۰ هزار نفر جان خود را از دست داده‌اند.",
+            "period": {
+                "start_year": "سال شروع این نبرد یا جنگ چه زمانی است؟",
+                "end_year": "سال پایان این نبرد یا جنگ ۲۰۲۴ است."
+            },
+            "position": "نامشخص",
+            "causes": [
+                "دلایل رخ دادن این رویداد به صورت لیست زیر است:",
+                "نیروهای مسلح سوریه",
+                "نیروهای دموکراتیک سوریه",
+                "حکومت محلیاشغال توسط اسرائیل",
+                "در جریان",
+                "رژیم بعث سوریهو متحدانائتلاف روسیه–سوریه–ایران–عراق(تا۸ دسامبر ۲۰۲۴)",
+                "حمایت تسلیحاتی:روسیهایرانچین",
+                "حمایت مالی:عراق(۲۰۱۳)",
+                "مخالفان سوری بشار اسد\/دولت انتقالی سوریهو متحدان",
+                "ترکیه",
+                "ایالات متحده آمریکا(علیه داعش، ۲۰۱۴–۲۰۱۷ و حملات محدود علیه نیروهای طرفدار دولت، ۲۰۱۷–۲۰۱۸)",
+                "بریتانیا(حملات محدود علیه نیروهای طرفدار دولت، ۲۰۱۷–۲۰۱۸)",
+                "فرانسه(حملات محدود علیه نیروهای طرفدار دولت، ۲۰۱۷–۲۰۱۸)"
+            ],
+            "belligerents": {
+                "names": "دو طرف این واقعه عبارتند از نیروهای مسلح سوریه و نیروهای دموکراتیک سوریه.",
+                "leaders": "رهبران دو طرف این واقعه عبارتند از بشار اسد و خالد عروری."
+            },
+            "result": "شکست: سقوط رژیم اسددر پیحملات ۲۰۲۴ اپوزیسیون سوریه",
+            "casualties": "تلفات این رویداد را لیست کن خروجی به صورت یک لیست باشد",
+            "impact": "این متن به بررسی جنگ داخلی سوریه و تأثیرات آن بر جامعه می‌پردازد. در این میان، به نقش گروه‌های مختلف سیاسی و نظامی اشاره شده است که هر کدام از آن‌ها با اهداف و انگیزه‌های خاص خود عمل می‌کنند. همچنین، به وضعیت اقتصادی و اجتماعی سوریه و پیامدهای جنگ بر این کشور نیز پرداخته می‌شود.",
+            "historical_significance": "این رویداد به دلیل اینکه در آن یک جنگ داخلی رخ داد و منجر به آوارگی میلیون‌ها نفر شد، از اهمیت تاریخی بالایی برخوردار است.",
+            "references": [
+                {
+                    "title": "ارتش سوریه آزاد",
+                    "author": "ارتش سوریه آزادوایالات متحده آمریکا،منطقه عدم درگیری التنفرا اداره می‌کنند.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "ارتش ملی سوریه",
+                    "author": "شامل جناح‌های سابقارتش ملی سوریهاست.اگرچه ارتش ملی به عنوان یک ائتلاف درکنفرانس پیروزی انقلاب سوریهمنحل شد،اما گروه‌های مسلح وابسته به آن هنوز بانیروهای دموکراتیک سوریهمی‌جنگند.وزارت دفاع سوریهدر حال ادغام نیروهایی است که قبلاً بخشی ازدولت موقت سوریهبودند.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "اشغال بلندی‌های جولان توسط اسرائیل",
+                    "author": "اشغال بلندی‌های جولان توسط اسرائیلبا رنگ خاکستری روشن نشان داده شده است. بلندی‌های جولاناز سال ۱۹۶۷تحت کنترل اسرائیل است. حاکمیت اسرائیل در سال ۲۰۱۹توسط آمریکا به رسمیت شناخته شد، اما سازمان ملل و هیچ کشور عضوی به جز آمریکا و اسرائیل آن را به رسمیت نمی‌شناسند.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Russian arms shipments bolster Syria's embattled Assad\"",
+                    "author": "Richard Galpin (10 January 2012).\"Russian arms shipments bolster Syria's embattled Assad\".BBC News. Retrieved4 February2012.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Assad: Iran is sending arms to Syria\"",
+                    "author": "\"Assad: Iran is sending arms to Syria\".Al Arabiya News. 16 September 2015. Retrieved8 April2016.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "جنگ داخلی سوریه",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AC%D9%86%DA%AF_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%D8%B3%D9%88%D8%B1%DB%8C%D9%87"
+            },
+            "location": {
+                "position": "این وافعه در حومه دمشق رخ داده است.",
+                "province": "این وافعه در استان حلب رخ داده است.",
+                "city": "این وافعه در شهر حلب رخ داده است."
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.900110Z",
+        "updated_at": "2025-05-04T18:25:39.065152Z",
+        "inner_id": 4,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 3,
+        "comment_authors": []
+    },
+    {
+        "id": 332,
+        "annotations": [
+            {
+                "id": 564,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "94kFq675dY",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:25:57.138303Z",
+                "updated_at": "2025-05-04T18:26:14.217325Z",
+                "draft_created_at": null,
+                "lead_time": 26.524,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "d829cf65-0656-48df-94d4-0dba0d26f1ea",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 332,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 565,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Standard"
+                            ]
+                        },
+                        "id": "c_GN61qOad",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:26:18.945658Z",
+                "updated_at": "2025-05-04T18:26:18.945671Z",
+                "draft_created_at": "2025-05-04T18:26:17.790933Z",
+                "lead_time": 37.383,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "6d682499-b238-4f3f-9a14-18f656750707",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 332,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3d13bac3-105.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "جنگ در عراق (۲۰۱۷–۲۰۱۳)",
+            "description": "نامشخص",
+            "period": {
+                "start_year": "۲۰۰۳",
+                "end_year": "۲۰۱۷"
+            },
+            "position": "نامشخص",
+            "causes": [
+                "زمان آغاز جنگ: سال ۲۰۱۳",
+                "زمان پایان جنگ: دسامبر ۲۰۱۷",
+                "شهر موصل در چه تاریخی توسط داعش اشغال شد؟ ۹ ژوئن ۲۰۱۴ میلادی",
+                "تعداد نیروهای شبه نظامی که کنترل مقر دولتیاستان نینوارا را به دست گرفتند؟ ۱۳۰۰ نفر",
+                "تعداد ساکنین موصل که خانه‌های خود را ترک کردند؟ ۵۰۰ هزار نفر"
+            ],
+            "belligerents": {
+                "names": "عراق و داعش",
+                "leaders": "مالکین، داعش، ایالات متحده، ایران، روسیه"
+            },
+            "result": "پیروزی: بازپس‌گیری کاملقلمروی داعشدر عراق",
+            "casualties": "* جنگ در عراقیک\n* داعش\n* سال ۲۰۱۳\n* دسامبر ۲۰۱۷\n* موصل\n* ۱۳۰۰ نیروی شبه نظامی\n* ۵۰۰ هزار نفر",
+            "impact": [
+                "جنگ در عراقیک درگیری مسلحانه بین عراق و متحدانش با داعش بود.",
+                "نیروهای داعش کنترل شهرموصل را به دست گرفتند.",
+                "حدود ۱۳۰۰ نیروی شبه نظامی کنترل مقر دولتیاستان نینوارا را به دست گرفتند.",
+                "حدود ۵۰۰ هزار نفر از ساکنین موصل خانه‌های خود را ترک کردند.",
+                "نوری المالکین نخست‌وزیر عراق در سپتامبر ۲۰۱۴ میلادی استعفا داد."
+            ],
+            "historical_significance": "این رویداد اهمیت تاریخی دارد زیرا نشان‌دهنده گسترش نفوذ داعش در عراق و تهدیدی جدی برای امنیت منطقه بود.",
+            "references": [
+                {
+                    "title": "«موصل در تصرف کامل تروریست‌های داعش»",
+                    "author": "«موصل در تصرف کامل تروریست‌های داعش». خبرگزاری ایسنا.۱۰ ژوئن ۲۰۱۴.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "«داعش کنترل تکریت را نیز در اختیار گرفت»",
+                    "author": "«داعش کنترل تکریت را نیز در اختیار گرفت». خبرگزاری ایسنا.۱۲ ژوئن ۲۰۱۴.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Iraq militants control second city of Mosul\"",
+                    "author": "\"Iraq militants control second city of Mosul\".BBC News. 10 June 2014. Retrieved10 June2014.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Iraq crisis: Islamists force 500,000 to flee Mosul\"",
+                    "author": "\"Iraq crisis: Islamists force 500,000 to flee Mosul\".BBC News. 11 June 2014. Retrieved11 June2014.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Who Else, Besides Americans, Are Flying Fighter Jets in Iraq?\"",
+                    "author": "\"Who Else, Besides Americans, Are Flying Fighter Jets in Iraq?\".Slate Magazine. Retrieved14 November2014.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "جنگ در عراق (۲۰۱۷–۲۰۱۳)",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AC%D9%86%DA%AF_%D8%AF%D8%B1_%D8%B9%D8%B1%D8%A7%D9%82_(%DB%B2%DB%B0%DB%B1%DB%B7%E2%80%93%DB%B2%DB%B0%DB%B1%DB%B3)"
+            },
+            "location": {
+                "position": "عراق",
+                "province": "عراق",
+                "city": "موصل"
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.900154Z",
+        "updated_at": "2025-05-04T18:26:18.955892Z",
+        "inner_id": 5,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 3,
+        "comment_authors": []
+    },
+    {
+        "id": 333,
+        "annotations": [
+            {
+                "id": 566,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "UYqy1YPITZ",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:26:40.751164Z",
+                "updated_at": "2025-05-04T18:26:40.751186Z",
+                "draft_created_at": null,
+                "lead_time": 20.473,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "1b212dc5-cc0f-4b57-b5b6-31cc70a3a410",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 333,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 567,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "ELR0OuyUaz",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:26:41.046750Z",
+                "updated_at": "2025-05-04T18:26:41.046766Z",
+                "draft_created_at": null,
+                "lead_time": 19.423,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "62c3c0b8-4a63-4685-affb-fdd73c9ab655",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 333,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "ee835ed6-106.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "جنگ داخلی یمن (۲۰۱۴–اکنون)",
+            "description": [
+                "جنگ داخلی یمن(عربی:الحرب الأهلية اليمنية) یکجنگ داخلیچندجانبه که عمدتاً بینرشاد علیمی، رئیسشورای رهبری ریاست جمهوریومهدی مشاط، رئیسشورای عالی سیاسی، همراه با حامیان و نیروهایشان، در حال انجام است و در اواخر سال ۲۰۱۴، آغاز شد. هر دو طرف، ادعای رهبری دولت رسمییمنرا دارند. پس از چند انفجار در ۲۹ اسفند ۱۳۹۳ (۲۰ مارس ۲۰۱۵) در صنعا که به کشته شدن بیش از صد نفر از جمله یکی از رهبران معنوی جنبش حوثی‌ها انجامیدحوثی‌های تحت حمایت جمهوری اسلامی ۲ فروردین ۱۳۹۴ (۲۲ مارس) بهاستان تعزرفتند ودر ۵ فروردین (۲۵ مارس) با حمله به دیگر مناطقتعزومخاولحجرا تصرف کردند و به دروازه‌هایعدنپایگاه قدرت دولت هادی رسیدند.همان روز هادی از کشور گریخت و تحت پیگرد قانونی با دادخواهی عمومی قرار گرفت.عربستان سعودیبا ائتلافی به فرماندهی خود دست بهمداخلهٔ نظامیزد و کوشید طی حمله‌های هواییدولت رسمی یمنرا بازگرداند.آمریکانیز به پشتیبانی اطلاعاتی و آمادی (لجستیکی) مبارزات پرداخت. از ۲ مه دست‌کم ۷۰۰ غیرنظامی تنها در عدن کشته شده‌اند. در ۱۷ اکتبر ۲۰۱۵ عربستان حضور نظامیان سودانی را در ائتلاف به رهبری این کشور در حمله به یمن تأیید کرد. وزارت حقوق بشر یمن در ژوئن۲۰۱۹ با انتشار گزارشی در حسابفیس‌بوکخود اعلام کرد: از ماه مارس سال ۲۰۱۵ تاکنون بیش از ۲۷۰۰ غیرنظامی از جمله زنان و کودکان فقط در استانتعزدر جنوب غرب کشور توسط شبه نظامیانحوثیکشته شدند.",
+                "در این گزارش همچنین آمده‌است: \"همچنین در حملات حوثی‌ها به این شهر بیش از ۱۳ هزار نفر زخمی شده‌اند. حوثی‌ها در این مدت ۷۰۵ نفر از جمله زنان و کودکان را ربوده و حدود ۶ هزار نفر را مجبور به ترک منازل خود کرده‌اند."
+            ],
+            "period": {
+                "start_year": "۲۰۲۱",
+                "end_year": "۲۰۲۱"
+            },
+            "position": "نامشخص",
+            "causes": [
+                "دلایل رخ دادن این رویداد عبارتند از:",
+                "جنگ داخلی یمن",
+                "دخالت جمهوری اسلامی ایران در امور یمن",
+                "نقض حقوق بشر در یمن",
+                "مانع صلح در یمن"
+            ],
+            "belligerents": {
+                "names": "شورای عالی سیاسی\nجمهوری یمن\nالقاعده\nداعش",
+                "leaders": "خالد باطرفیابراهیم قصی\nابوحفص هاشمی قرشی"
+            },
+            "result": "در جریان: حوثی‌ها، کنترلصنعا، پایتختیمنرا به دست گرفتند.",
+            "casualties": "* ۳۷۷۰۰۰ کشته (نظامی و غیرنظامی)",
+            "impact": [
+                "تاثیرات جنگ داخلی یمن",
+                "شورای عالی سیاسی(شورای عالی انقلابی یمنسابق)",
+                "جمهوری یمن(به‌رسمیت شناخته‌شده بین‌المللی؛ تحت رهبریشورای رهبری ریاست جمهوریاز سال ۲۰۲۲)",
+                "مجلس انتقالی جنوبی(۲۰۱۷–۲۰۲۲)",
+                "القاعده",
+                "داعش",
+                "خالد باطرفیابراهیم قصی",
+                "ابوحفص هاشمی قرشی",
+                "حوثی‌ها(کمیته‌های انقلابی)",
+                "یمن(دولتهادی)",
+                "انصارالشریعه",
+                "۳۷۷۰۰۰ کشته (نظامی و غیرنظامی)"
+            ],
+            "historical_significance": "این رویداد اهمیت تاریخی دارد زیرا نشان‌دهنده جنگ داخلی طولانی و پیچیده در یمن است که تأثیرات گسترده‌ای بر منطقه و جهان داشته است.",
+            "references": [
+                {
+                    "title": "\"Yemen's Military: From the Tribal Army to the Warlords\"",
+                    "author": "Eleonora Ardemagni (19 March 2018).\"Yemen's Military: From the Tribal Army to the Warlords\".IPSI. Retrieved29 May2018.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Death of a leader: Where next for Yemen's GPC after murder of Saleh?\"",
+                    "author": "\"Death of a leader: Where next for Yemen's GPC after murder of Saleh?\".Middle East Eye. 23 January 2018. Retrieved31 May2018.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"North Korea's Balancing Act in the Persian Gulf (updated)\"",
+                    "author": "Ramani, Samuel (17 August 2016).\"North Korea's Balancing Act in the Persian Gulf (updated)\".HuffPost Contributor platform.Archivedfrom the original on 1 May 2019.North Korea's military support for Houthi rebels in Yemen is the latest manifestation of its support for anti-American forces.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"The September 14 drone attack on Saudi oil fields: North Korea's potential role\"",
+                    "author": "\"The September 14 drone attack on Saudi oil fields: North Korea's potential role\". NK News. 30 September 2019.Archivedfrom the original on 11 October 2019.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Secret UN report reveals North Korea attempts to supply Houthis with weapons\"",
+                    "author": "\"Secret UN report reveals North Korea attempts to supply Houthis with weapons\". Al-Arabiya. 4 August 2018.Archivedfrom the original on 4 August 2018.The report said that experts were investigating efforts by the North Korean Ministry of Military Equipment and Korea Mining Development Trading Corporation (KOMID) to supply conventional arms and ballistic missiles to Yemen's Houthi group.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"Panel investigates North Korean weapon used in Mogadishu attack on UN compound\"",
+                    "author": "\"Panel investigates North Korean weapon used in Mogadishu attack on UN compound\".NK PRO. 3 March 2021.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "جنگ داخلی یمن (۲۰۱۴–اکنون)",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AC%D9%86%DA%AF_%D8%AF%D8%A7%D8%AE%D9%84%DB%8C_%DB%8C%D9%85%D9%86_(%DB%B2%DB%B0%DB%B1%DB%B4%E2%80%93%D8%A7%DA%A9%D9%86%D9%88%D9%86)"
+            },
+            "location": {
+                "position": "سعدان",
+                "province": "تعز",
+                "city": "صنعا"
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.900209Z",
+        "updated_at": "2025-05-04T18:26:41.061110Z",
+        "inner_id": 6,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 1,
+        "comment_authors": []
+    },
+    {
+        "id": 334,
+        "annotations": [
+            {
+                "id": 568,
+                "completed_by": 3,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "lpph-CloMA",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:27:01.687784Z",
+                "updated_at": "2025-05-04T18:27:01.687802Z",
+                "draft_created_at": null,
+                "lead_time": 19.178,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "d1a13b98-4892-41c2-8731-d84d91cde40b",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 334,
+                "project": 14,
+                "updated_by": 3,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            },
+            {
+                "id": 569,
+                "completed_by": 1,
+                "result": [
+                    {
+                        "value": {
+                            "choices": [
+                                "Poor"
+                            ]
+                        },
+                        "id": "2H9C61Aj8o",
+                        "from_name": "quality",
+                        "to_name": "text",
+                        "type": "choices",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-05-04T18:27:12.187504Z",
+                "updated_at": "2025-05-04T18:27:12.187529Z",
+                "draft_created_at": null,
+                "lead_time": 28.728,
+                "prediction": {},
+                "result_count": 1,
+                "unique_id": "f56f49c0-c7cc-4a48-abb7-801bd6160585",
+                "import_id": null,
+                "last_action": null,
+                "bulk_created": false,
+                "task": 334,
+                "project": 14,
+                "updated_by": 1,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "0b907c1e-107.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "title": "درگیری ۲۰۲۴ ایران و اسرائیل",
+            "description": "در سال ۲۰۲۴، با افزایش تنش‌ها،جنگ نیابتی ایران و اسرائیلبه درگیری مستقیم بین دو کشور تبدیل شد. در ۱ آوریل، اسرائیلکنسول‌گری ایراندردمشقرا بمباران کرد و چندین مقام ارشد ایرانی را کشت.در پاسخ، ایران و نیروهای نیابتی آن در ۱۳ آوریلحملاتی را در داخل اسرائیلآغاز کردند.اسرائیل سپس در ۱۹ آوریلحملات تلافی‌جویانهرا در ایران، عراق و سوریه انجام داد. حملات اسرائیل محدود بود و تحلیلگران گفتند که نشان‌دهنده تمایل به کاهش تنش بود. ایران به این حمله پاسخی نداد و تنش‌ها به درگیری نیابتی کاهش یافت. بازیگران دیگری نیز در درگیری شرکت کردند. ایالات متحده، بریتانیا، فرانسه و اردن هواپیماهای بدون سرنشین ایرانی را برای دفاع از اسرائیل رهگیری کردند.نیروهای نیابتی ایران هم در منطقه به اسرائیل حمله کردند. تنش‌ها پس ازترور اسماعیل هنیه، رهبر سیاسی حماس در ۳۱ ژوئیه،که چند ساعت پس از حمله هوایی ۲۰۲۴ هارت هریک و ترورفؤاد شکر، فرمانده حزب‌الله رخ داد، افزایش یافت. ایران و حزب‌الله متعهد به انتقام شدند. در ۱ اکتبر ۲۰۲۴ایران باری دیگر به وسیله موشک بالستیک به اسرائیل حمله کرد.",
+            "period": {
+                "start_year": "سال شروع این نبرد یا جنگ ۲۰۲۴ است.",
+                "end_year": "سال پایان جنگ نیابتی ایران و اسرائیل ۲۰۲۴ است."
+            },
+            "position": "نامشخص",
+            "causes": [
+                "دلایل رخ دادن این رویداد را به صورت لیست بنویس خروجی به صورت یک لیست باشد:",
+                "افزایش تنش‌ها بین ایران و اسرائیل",
+                "بمباران کنسولگری ایران در دمشق توسط اسرائیل",
+                "پاسخ ایران با حملات نیابتی در داخل اسرائیل",
+                "حمله اسرائیل به ایران، عراق و سوریه",
+                "ترور اسماعیل هنیه، رهبر سیاسی حماس",
+                "ترور فؤاد شکر، فرمانده حزب‌الله",
+                "تشدید تنش‌ها پس از ترورها"
+            ],
+            "belligerents": {
+                "names": "نام کشورهایی که در این واقعه شرکت دارند عبارتند از: جمهوری اسلامی ایران، سوریه، حزب‌الله، اسرائیل، ایالات متحده آمریکا، بریتانیا، اردن، فرانسه و عربستان سعودی.",
+                "leaders": "رهبران دو طرف این واقعه عبارتند از: سید علی خامنه‌ای و بنیامین نتنیاهو."
+            },
+            "result": "توقف درگیری: کاهش تنش به سطح نیابتی",
+            "casualties": "لیست تلفات این رویداد:\n\n*   ۱۶ نفر از جمله چندین افسر ایرانی و جنگجویان نیابتی در حمله هوایی به کنسولگری ایران در سوریه کشته شدند.\n*   ۱۰ نظامی در تخریب ساختمان کنسولگری کشته شدند.\n*   ۵ غیرنظامی در بمباران بیروت کشته شدند.",
+            "impact": [
+                "1. جنگ نیابتی ایران و اسرائیل",
+                "2. کنسولگری ایران در دمشق",
+                "3. حملات ایران به اسرائیل",
+                "4. حملات اسرائیل به ایران",
+                "5. ترور اسماعیل هنیه"
+            ],
+            "historical_significance": "این رویداد اهمیت تاریخی دارد زیرا نشان‌دهنده افزایش تنش‌ها و درگیری‌های منطقه‌ای بین ایران و اسرائیل است که می‌تواند پیامدهای جدی برای منطقه و جهان داشته باشد.",
+            "references": [
+                {
+                    "title": "یواس‌اس تئودور روزولت (سی‌وی‌ان-۷۱)",
+                    "author": "شاملیواس‌اس تئودور روزولت (سی‌وی‌ان-۷۱)،کریر ایر وینگ الونو ششناوشکنازاسکادران ۲۳ ناوشکن(یواس‌اس جان اس مک‌کین (دی‌دی‌جی-۵۶)،یواس‌اس راسل (دی‌دی‌جی-۵۹)،یواس‌اس چاف (دی‌دی‌جی-۹۰)،یواس‌اس پینکنی (دی‌دی‌جی-۹۱)،یواس‌اس هالسی (دی‌دی‌جی-۹۷)ویواس‌اس دنیل اینویه (دی‌دی‌جی-۱۱۸))",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "یواس‌اس واسپ (ال‌اچ‌دی-۱)",
+                    "author": "(شاملیواس‌اس واسپ (ال‌اچ‌دی-۱)،یواس‌اس نیویورک (ال‌پی‌دی-۲۱)و یک کشتی سوم)",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "یواس‌اس بلکلی (دی‌دی‌جی-۸۴)",
+                    "author": "(یواس‌اس بلکلی (دی‌دی‌جی-۸۴)ویواس‌اس روزولت (دی‌دی‌جی-۸۰))",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"US warship shoots down attack drones over the Red Sea\"",
+                    "author": "\"US warship shoots down attack drones over the Red Sea\".ca.movies.yahoo.com. CNN. Retrieved13 April2024.",
+                    "year": "Unknown"
+                },
+                {
+                    "title": "\"IDF strikes Hezbollah military complex in Lebanon\"",
+                    "author": "\"IDF strikes Hezbollah military complex in Lebanon\".jpost.com. JPost. Retrieved13 April2024.",
+                    "year": "Unknown"
+                }
+            ],
+            "source": {
+                "title": "درگیری ۲۰۲۴ ایران و اسرائیل",
+                "author": "Wikipedia",
+                "publication_date": "Unknown",
+                "url": "https:\/\/fa.wikipedia.org\/wiki\/%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C_%DB%B2%DB%B0%DB%B2%DB%B4_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%88_%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84"
+            },
+            "location": {
+                "position": "این وافعه در سوریه رخ داده است.",
+                "province": "این وافعه در استان سوریه رخ داده است.",
+                "city": "این وافعه در سوریه رخ داده است."
+            }
+        },
+        "meta": {},
+        "created_at": "2025-05-04T18:21:47.900263Z",
+        "updated_at": "2025-05-04T18:27:12.206563Z",
+        "inner_id": 7,
+        "total_annotations": 2,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 14,
+        "updated_by": 1,
+        "comment_authors": []
+    }
+]
